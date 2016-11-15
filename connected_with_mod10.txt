@@ -1,0 +1,2458 @@
+nodes: 7831
+edges: 6905
+{('Bava Kamma', '112a', 20), ('Zevachim', '107b', 40), ('Bava Batra', '7b', 0), ('Chullin', '87b', 0), ('Ketubot', '73a', 10), ('Shevuot', '22b', 40), ('Sanhedrin', '24b', 30), ('Yevamot', '110a', 10), ('Shevuot', '16a', 40), ('Nazir', '42a', 40), ('Chullin', '87b', 10), ('Yevamot', '118b', 30), ('Chagigah', '17b', 10), ('Bava Batra', '152b', 10), ('Kiddushin', '46b', 0), ('Yevamot', '36a', 20), ('Ketubot', '34b', 30), ('Makkot', '20b', 0), ('Kiddushin', '46b', 10), ('Zevachim', '77b', 30), ('Ketubot', '84a', 50), ('Kiddushin', '77a', 50), ('Gittin', '78a', 50), ('Bava Metzia', '37b', 40), ('Moed Katan', '12a', 40), ('Bava Kamma', '77b', 0), ('Zevachim', '107b', 30), ('Ketubot', '34b', 20), ('Makkot', '20a', 20), ('Ketubot', '71a', 20), ('Chullin', '87a', 60), ('Shevuot', '16a', 20), ('Arakhin', '32b', 30), ('Chullin', '103b', 10), ('Yevamot', '118a', 30), ('Chullin', '69b', 50), ('Bava Kamma', '77b', 10), ('Kiddushin', '75a', 50), ('Kiddushin', '44b', 0), ('Yevamot', '119b', 10), ('Menachot', '23a', 20), ('Yoma', '73b', 40), ('Shabbat', '71b', 0), ('Shevuot', '23b', 50), ('Sanhedrin', '65b', 0), ('Megillah', '10a', 40), ('Makkot', '20a', 30), ('Shevuot', '16a', 30), ('Arakhin', '32b', 20), ('Bava Batra', '65a', 10), ('Megillah', '10a', 20), ('Bava Metzia', '90b', 40), ('Arakhin', '32b', 10), ('Bava Metzia', '9b', 10), ('Nazir', '42b', 10), ('Chullin', '81b', 10), ('Bava Kamma', '12a', 30), ('Makkot', '19a', 20), ('Zevachim', '80a', 20), ('Ketubot', '61b', 80), ('Shevuot', '23b', 40), ('Megillah', '10a', 30), ('Zevachim', '107b', 50), ('Bava Metzia', '91a', 0), ('Shevuot', '22b', 20), ('Kiddushin', '36a', 10), ('Nazir', '38b', 10), ('Bava Kamma', '68b', 10), ('Ketubot', '35a', 10), ('Makkot', '21a', 10), ('Ketubot', '52a', 10), ('Ketubot', '59b', 40), ('Temurah', '3a', 40), ('Gittin', '21a', 10), ('Kiddushin', '77b', 0), ('Yoma', '73b', 50), ('Shevuot', '16a', 50), ('Shevuot', '22b', 30), ('Menachot', '22a', 20), ('Megillah', '10b', 0), ('Makkot', '21a', 50), ('Bava Metzia', '15b', 30), ('Zevachim', '60b', 10), ('Temurah', '3a', 50), ('Chullin', '82b', 30), ('Shevuot', '21b', 30), ('Bava Metzia', '15b', 20), ('Zevachim', '19b', 50), ('Zevachim', '78a', 0), ('Temurah', '21a', 40), ('Shevuot', '16a', 60), ('Menachot', '22a', 30)}
+{('Bava Kamma', '54a', 0), ('Nazir', '35a', 10), ('Bekhorot', '37b', 50), ('Bava Metzia', '57b', 30), ('Kiddushin', '21b', 30), ('Bava Kamma', '54b', 40), ('Eruvin', '27b', 30), ('Nazir', '34b', 30), ('Shevuot', '37b', 50), ('Bava Metzia', '78b', 30), ('Kiddushin', '21b', 10), ('Shevuot', '4b', 0), ('Bava Kamma', '106b', 0), ('Bava Kamma', '117b', 30), ('Bekhorot', '51a', 30), ('Kiddushin', '24b', 0), ('Bava Kamma', '62b', 20), ('Sukkah', '50b', 30), ('Zevachim', '8b', 20), ('Shevuot', '37b', 40), ('Shevuot', '42b', 50), ('Bava Kamma', '54b', 50), ('Nazir', '35b', 0), ('Bava Metzia', '57b', 20), ('Kiddushin', '21b', 20), ('Bava Kamma', '63b', 40), ('Shevuot', '4b', 20), ('Shevuot', '42b', 40), ('Menachot', '28b', 20), ('Bava Kamma', '54a', 10), ('Nazir', '34b', 20), ('Menachot', '20a', 30), ('Zevachim', '4b', 30), ('Shevuot', '4b', 10), ('Bava Kamma', '117b', 40), ('Bava Metzia', '57b', 40), ('Bava Kamma', '62b', 30), ('Bekhorot', '37a', 50), ('Eruvin', '27b', 40), ('Bekhorot', '37b', 40), ('Nazir', '34b', 40), ('Shevuot', '43a', 0), ('Keritot', '21a', 0), ('Bekhorot', '51a', 20), ('Bava Kamma', '63a', 10)}
+{('Temurah', '4b', 20), ('Sanhedrin', '63a', 60), ('Chullin', '82b', 60), ('Makkot', '4b', 0), ('Shevuot', '27b', 10), ('Zevachim', '29b', 30), ('Sanhedrin', '63b', 0), ('Menachot', '12a', 0), ('Sanhedrin', '63a', 50), ('Pesachim', '84a', 40), ('Shevuot', '21a', 40), ('Shevuot', '3b', 30), ('Chullin', '91a', 20), ('Temurah', '3b', 30), ('Chullin', '91a', 10), ('Zevachim', '64b', 50), ('Temurah', '3b', 40), ('Chullin', '141b', 10), ('Yevamot', '101a', 0), ('Makkot', '16a', 10), ('Chullin', '82b', 50), ('Menachot', '17a', 0), ('Zevachim', '64b', 60), ('Makkot', '4b', 10), ('Shevuot', '21b', 0), ('Zevachim', '29b', 20), ('Shevuot', '3b', 20), ('Chullin', '83a', 0), ('Temurah', '3b', 20), ('Makkot', '16a', 0)}
+{('Shabbat', '29b', 40), ('Zevachim', '46b', 0), ('Chullin', '117a', 30), ('Yoma', '59b', 10), ('Meilah', '11a', 30), ('Yoma', '24a', 0), ('Shabbat', '46b', 30), ('Meilah', '11b', 0), ('Keritot', '6a', 20), ('Shevuot', '7a', 30), ('Pesachim', '26a', 40), ('Shevuot', '26b', 40), ('Zevachim', '46a', 0), ('Yoma', '60a', 0), ('Pesachim', '26b', 10), ('Yoma', '59b', 0), ('Chullin', '113b', 0), ('Chullin', '117a', 20), ('Pesachim', '26a', 30), ('Bava Metzia', '30a', 10), ('Meilah', '11a', 20), ('Zevachim', '46a', 20), ('Shevuot', '7a', 20), ('Zevachim', '46a', 10), ('Keritot', '6a', 30), ('Chullin', '117b', 0), ('Zevachim', '57a', 0), ('Yoma', '60a', 10)}
+{('Yoma', '85a', 10), ('Ketubot', '15b', 20), ('Bava Kamma', '44b', 20), ('Chullin', '95a', 20), ('Yevamot', '82a', 20), ('Yoma', '84b', 50), ('Yoma', '85a', 0), ('Niddah', '18a', 10), ('Ketubot', '15b', 0), ('Sanhedrin', '79a', 20), ('Yoma', '84b', 40), ('Ketubot', '15b', 10), ('Ketubot', '15a', 30), ('Pesachim', '9b', 30), ('Ketubot', '15a', 40), ('Nazir', '36b', 0), ('Pesachim', '44a', 30), ('Ketubot', '15a', 20), ('Nazir', '36b', 10), ('Pesachim', '44a', 20)}
+{('Pesachim', '35a', 10), ('Shabbat', '127b', 80), ('Pesachim', '35b', 10), ('Sukkah', '35b', 20), ('Eruvin', '31b', 0), ('Pesachim', '35b', 0), ('Berakhot', '47a', 60), ('Shabbat', '127b', 90), ('Berakhot', '47a', 50), ('Beitzah', '13b', 10), ('Berakhot', '47b', 0), ('Eruvin', '17b', 20), ('Berakhot', '47a', 40), ('Eruvin', '31a', 30), ('Menachot', '70a', 30), ('Berakhot', '45a', 10), ('Shabbat', '127b', 70), ('Eruvin', '31b', 10)}
+{('Menachot', '43a', 50), ('Kiddushin', '35b', 40), ('Arakhin', '25b', 10), ('Bava Batra', '108b', 0), ('Arakhin', '3b', 30), ('Bava Kamma', '102a', 10), ('Arakhin', '3b', 20), ('Kiddushin', '17b', 20), ('Rosh Hashanah', '29a', 30), ('Sukkah', '40a', 30), ('Arakhin', '25b', 0), ('Shabbat', '27b', 10), ('Arakhin', '3b', 10), ('Bava Batra', '108b', 10), ('Zevachim', '19a', 70), ('Zevachim', '18b', 40), ('Menachot', '43a', 40), ('Kiddushin', '17b', 10)}
+{('Yevamot', '92b', 30), ('Yevamot', '93b', 10), ('Ketubot', '58b', 40), ('Kiddushin', '62a', 20), ('Bava Metzia', '16b', 0), ('Ketubot', '58b', 30), ('Kiddushin', '63a', 10), ('Yevamot', '93b', 0), ('Yevamot', '93a', 0), ('Kiddushin', '50a', 10), ('Kiddushin', '62b', 20), ('Gittin', '45a', 30), ('Kiddushin', '62b', 40), ('Kiddushin', '63a', 0), ('Yevamot', '92b', 20), ('Makkot', '21b', 20), ('Ketubot', '66a', 0), ('Kiddushin', '62a', 30)}
+{('Sanhedrin', '54b', 0), ('Sanhedrin', '66a', 20), ('Moed Katan', '17a', 70), ('Sotah', '5a', 0), ('Menachot', '36b', 20), ('Nedarim', '7b', 20), ('Shevuot', '27a', 30), ('Chullin', '78b', 20), ('Sanhedrin', '85b', 10), ('Shevuot', '27a', 40), ('Chullin', '78b', 10), ('Sanhedrin', '54a', 0), ('Sanhedrin', '66a', 10), ('Menachot', '99b', 0), ('Shevuot', '36a', 50), ('Sanhedrin', '54a', 70), ('Bava Metzia', '94b', 50)}
+{('Zevachim', '11a', 10), ('Zevachim', '5b', 0), ('Zevachim', '16a', 0), ('Nazir', '40a', 40), ('Bava Kamma', '88a', 20), ('Zevachim', '16b', 0), ('Kiddushin', '78a', 30), ('Nazir', '40a', 30), ('Zevachim', '11a', 0), ('Zevachim', '10b', 40), ('Bava Metzia', '4a', 0), ('Yevamot', '77a', 30), ('Zevachim', '5a', 40), ('Zevachim', '15b', 30), ('Zevachim', '12b', 30), ('Zevachim', '16a', 40), ('Zevachim', '15b', 20)}
+{('Gittin', '48a', 0), ('Bava Kamma', '88b', 10), ('Chullin', '39a', 10), ('Bava Batra', '136b', 0), ('Gittin', '47b', 10), ('Bava Metzia', '96a', 40), ('Zevachim', '10a', 0), ('Chullin', '39a', 0), ('Bava Batra', '136a', 50), ('Yevamot', '36b', 0), ('Avodah Zarah', '34b', 30), ('Zevachim', '9b', 60), ('Bava Batra', '136a', 10), ('Bava Kamma', '88b', 0), ('Gittin', '47b', 20), ('Zevachim', '9b', 50)}
+{('Gittin', '46b', 30), ('Pesachim', '11a', 20), ('Sanhedrin', '45a', 0), ('Sotah', '8a', 40), ('Sotah', '8a', 30), ('Beitzah', '29a', 20), ('Shabbat', '29b', 10), ('Sotah', '8b', 0), ('Pesachim', '11a', 10), ('Ketubot', '24a', 20), ('Menachot', '68a', 10), ('Beitzah', '29a', 40), ('Sanhedrin', '45a', 20), ('Sotah', '23b', 20), ('Sotah', '7a', 40), ('Sanhedrin', '45a', 10)}
+{('Meilah', '15b', 20), ('Pesachim', '79a', 10), ('Menachot', '12b', 0), ('Zevachim', '109a', 20), ('Menachot', '9a', 30), ('Zevachim', '109b', 0), ('Menachot', '16a', 40), ('Menachot', '16a', 30), ('Zevachim', '42a', 20), ('Pesachim', '79a', 0), ('Pesachim', '77b', 50), ('Zevachim', '41b', 40), ('Zevachim', '42a', 10), ('Menachot', '26a', 10), ('Menachot', '26a', 20), ('Zevachim', '42a', 0)}
+{('Yoma', '70a', 10), ('Sotah', '40b', 10), ('Yoma', '70a', 20), ('Sotah', '41a', 20), ('Sotah', '40b', 0), ('Taanit', '16b', 40), ('Yoma', '68b', 30), ('Sotah', '41a', 30), ('Yoma', '69b', 0), ('Taanit', '16b', 20), ('Taanit', '15a', 20), ('Berakhot', '63a', 0), ('Yoma', '70a', 0), ('Taanit', '15b', 0), ('Sotah', '41b', 0)}
+{('Eruvin', '14b', 0), ('Eruvin', '14a', 60), ('Sukkah', '6b', 0), ('Sukkah', '6a', 10), ('Yoma', '19a', 20), ('Niddah', '67b', 0), ('Sukkah', '6a', 20), ('Chagigah', '11a', 30), ('Chagigah', '11a', 40), ('Eruvin', '4b', 20), ('Yoma', '31a', 20), ('Eruvin', '4b', 10), ('Nazir', '52a', 0), ('Yoma', '31a', 10), ('Pesachim', '109a', 20)}
+{('Arakhin', '2b', 30), ('Chagigah', '2b', 0), ('Chagigah', '2a', 20), ('Arakhin', '2b', 20), ('Bava Batra', '13a', 10), ('Gittin', '41b', 0), ('Chagigah', '2a', 10), ('Sanhedrin', '4b', 40), ('Pesachim', '88a', 50), ('Pesachim', '88b', 0), ('Chagigah', '4b', 10), ('Gittin', '41a', 30), ('Arakhin', '2b', 40), ('Pesachim', '88a', 60)}
+{('Pesachim', '77a', 40), ('Eruvin', '94b', 10), ('Sukkah', '18b', 10), ('Eruvin', '95a', 20), ('Eruvin', '25a', 60), ('Eruvin', '94b', 20), ('Chullin', '50a', 0), ('Zevachim', '104a', 10), ('Eruvin', '94b', 30), ('Eruvin', '90b', 10), ('Zevachim', '104a', 0), ('Sukkah', '18b', 0), ('Eruvin', '90a', 30), ('Sanhedrin', '23b', 40)}
+{('Avodah Zarah', '6b', 70), ('Bava Metzia', '78b', 0), ('Bava Kamma', '100b', 0), ('Avodah Zarah', '7a', 0), ('Bava Batra', '59a', 20), ('Nedarim', '27b', 0), ('Bava Metzia', '117b', 0), ('Bava Kamma', '100b', 10), ('Bava Kamma', '101a', 0), ('Ketubot', '2b', 30), ('Gittin', '34a', 30), ('Bava Kamma', '102a', 30), ('Gittin', '30a', 0), ('Bava Batra', '168a', 30)}
+{('Arakhin', '14a', 30), ('Arakhin', '27a', 0), ('Bava Batra', '72b', 20), ('Bava Batra', '72a', 0), ('Gittin', '48a', 20), ('Arakhin', '26b', 60), ('Bava Batra', '83a', 20), ('Arakhin', '14b', 0), ('Bava Batra', '72b', 0), ('Arakhin', '14a', 50), ('Gittin', '48a', 30), ('Arakhin', '26b', 70), ('Bava Batra', '72b', 10), ('Arakhin', '14a', 40)}
+{('Yoma', '55b', 20), ('Eruvin', '37a', 0), ('Chullin', '14a', 20), ('Bava Kamma', '69a', 30), ('Sukkah', '23b', 10), ('Gittin', '28a', 30), ('Meilah', '22a', 0), ('Gittin', '28a', 40), ('Bava Kamma', '69a', 40), ('Eruvin', '36b', 20), ('Sukkah', '23b', 0), ('Gittin', '25a', 30), ('Yoma', '55b', 10)}
+{('Bava Kamma', '106a', 40), ('Ketubot', '42a', 10), ('Shevuot', '36b', 20), ('Shevuot', '23b', 20), ('Shevuot', '36b', 30), ('Bava Kamma', '65a', 20), ('Shevuot', '38a', 0), ('Shevuot', '37b', 0), ('Kiddushin', '44a', 50), ('Shevuot', '33a', 0), ('Bava Kamma', '106a', 50), ('Kiddushin', '44a', 60), ('Shevuot', '38a', 60)}
+{('Bava Metzia', '94b', 0), ('Shevuot', '49b', 30), ('Bava Kamma', '106a', 20), ('Shevuot', '49a', 20), ('Bava Kamma', '63b', 0), ('Shevuot', '49a', 40), ('Bava Kamma', '108b', 40), ('Shevuot', '49a', 30), ('Bava Metzia', '93a', 40), ('Bava Metzia', '93a', 50), ('Bava Metzia', '94b', 10), ('Bava Kamma', '63a', 20), ('Shevuot', '49a', 10)}
+{('Zevachim', '50a', 10), ('Kiddushin', '41b', 20), ('Chullin', '120a', 70), ('Bava Metzia', '61a', 20), ('Bekhorot', '43a', 30), ('Zevachim', '50a', 0), ('Zevachim', '17a', 20), ('Zevachim', '17a', 10), ('Bekhorot', '5b', 60), ('Zevachim', '8a', 40), ('Kiddushin', '5a', 30), ('Chullin', '120a', 60), ('Zevachim', '4b', 50)}
+{('Menachot', '85b', 10), ('Megillah', '13a', 50), ('Menachot', '87a', 40), ('Pesachim', '42b', 50), ('Menachot', '86a', 10), ('Shabbat', '80b', 0), ('Menachot', '85b', 20), ('Moed Katan', '9b', 60), ('Menachot', '86a', 0), ('Moed Katan', '9b', 70), ('Chullin', '46a', 20), ('Shabbat', '80b', 10), ('Pesachim', '43a', 0)}
+{('Sukkah', '14b', 0), ('Rosh Hashanah', '23a', 20), ('Taanit', '25a', 100), ('Sukkah', '14b', 20), ('Sukkah', '17b', 30), ('Taanit', '25a', 90), ('Yevamot', '78a', 0), ('Bava Batra', '80b', 20), ('Bava Batra', '80b', 40), ('Bava Batra', '80b', 30), ('Bava Batra', '80b', 50), ('Shevuot', '16b', 10), ('Sukkah', '37a', 10)}
+{('Ketubot', '12b', 20), ('Kiddushin', '74a', 30), ('Shabbat', '24a', 30), ('Kiddushin', '74a', 20), ('Kiddushin', '75a', 70), ('Ketubot', '12b', 30), ('Ketubot', '13a', 20), ('Bava Metzia', '36b', 50), ('Ketubot', '16a', 20), ('Ketubot', '16a', 10), ('Bava Metzia', '37a', 0), ('Ketubot', '13a', 40), ('Ketubot', '13a', 30)}
+{('Shabbat', '96b', 60), ('Shabbat', '73a', 40), ('Shabbat', '6b', 20), ('Shevuot', '26a', 70), ('Horayot', '11a', 20), ('Shabbat', '6b', 30), ('Shevuot', '19a', 10), ('Shabbat', '73a', 20), ('Shabbat', '69a', 10), ('Chullin', '5b', 0), ('Horayot', '2a', 50), ('Shabbat', '70b', 10), ('Horayot', '11a', 30)}
+{('Avodah Zarah', '6a', 0), ('Avodah Zarah', '5b', 30), ('Avodah Zarah', '51a', 50), ('Zevachim', '106a', 50), ('Avodah Zarah', '5b', 20), ('Sanhedrin', '61a', 10), ('Avodah Zarah', '51a', 60), ('Zevachim', '116a', 10), ('Sanhedrin', '61a', 20), ('Avodah Zarah', '51a', 70), ('Zevachim', '116a', 0), ('Avodah Zarah', '51a', 40)}
+{('Gittin', '77a', 40), ('Keritot', '24b', 0), ('Ketubot', '19b', 10), ('Bava Batra', '43a', 0), ('Ketubot', '83a', 20), ('Bava Kamma', '8b', 0), ('Ketubot', '83a', 10), ('Bava Batra', '49a', 0), ('Bava Batra', '49b', 0), ('Ketubot', '95a', 10), ('Bava Batra', '49a', 10), ('Gittin', '77a', 50)}
+{('Eruvin', '86a', 10), ('Sukkah', '16a', 30), ('Yevamot', '119a', 10), ('Sukkah', '16b', 0), ('Eruvin', '86a', 20), ('Eruvin', '86b', 10), ('Niddah', '32a', 0), ('Bekhorot', '19b', 20), ('Eruvin', '62b', 10), ('Bava Kamma', '39b', 40), ('Eruvin', '47a', 10), ('Yevamot', '61b', 10)}
+{('Pesachim', '16a', 50), ('Menachot', '102b', 10), ('Shabbat', '14a', 0), ('Chullin', '33b', 30), ('Sotah', '30a', 10), ('Chullin', '36b', 30), ('Chullin', '33a', 30), ('Avodah Zarah', '6b', 0), ('Pesachim', '22b', 0), ('Sotah', '30a', 0), ('Avodah Zarah', '6a', 40), ('Pesachim', '20a', 0)}
+{('Sanhedrin', '105b', 30), ('Bava Kamma', '38b', 0), ('Avodah Zarah', '22b', 30), ('Shabbat', '145b', 80), ('Nazir', '23b', 10), ('Nazir', '23b', 20), ('Yevamot', '103a', 50), ('Horayot', '10b', 60), ('Horayot', '10b', 80), ('Yevamot', '103b', 0), ('Horayot', '10b', 70), ('Sotah', '47a', 10)}
+{('Nedarim', '40a', 30), ('Sotah', '32b', 50), ('Sotah', '33a', 0), ('Nedarim', '40a', 40), ('Berakhot', '13a', 50), ('Shabbat', '65b', 0), ('Bekhorot', '55b', 10), ('Berakhot', '13a', 60), ('Sotah', '33a', 10), ('Shabbat', '12b', 20), ('Megillah', '17b', 0), ('Sotah', '32b', 40)}
+{('Pesachim', '119a', 20), ('Pesachim', '119a', 40), ('Pesachim', '7b', 30), ('Sukkah', '39a', 20), ('Pesachim', '119a', 30), ('Sukkah', '39a', 10), ('Rosh Hashanah', '27a', 20), ('Bekhorot', '31b', 40), ('Megillah', '21b', 0), ('Megillah', '21b', 10), ('Niddah', '63a', 20), ('Niddah', '63a', 30)}
+{('Sukkah', '25b', 0), ('Sukkah', '25a', 0), ('Berakhot', '11a', 10), ('Berakhot', '16b', 0), ('Sukkah', '25a', 10), ('Berakhot', '16a', 50), ('Eruvin', '15a', 30), ('Berakhot', '16a', 60), ('Sukkah', '25a', 20), ('Pesachim', '90b', 20), ('Berakhot', '11a', 0), ('Ketubot', '6b', 10)}
+{('Moed Katan', '13a', 10), ('Gittin', '44a', 50), ('Bekhorot', '35a', 0), ('Moed Katan', '12b', 70), ('Moed Katan', '13a', 0), ('Bekhorot', '3a', 20), ('Gittin', '44a', 40), ('Bekhorot', '34b', 30), ('Gittin', '44b', 0), ('Bekhorot', '3a', 10), ('Bekhorot', '34b', 20), ('Bekhorot', '3a', 0)}
+{('Pesachim', '120a', 30), ('Yoma', '44b', 30), ('Bava Kamma', '27a', 0), ('Niddah', '63a', 10), ('Taanit', '12a', 50), ('Yevamot', '54a', 30), ('Bava Kamma', '40a', 10), ('Megillah', '18b', 30), ('Yoma', '44b', 10), ('Pesachim', '120a', 20), ('Yoma', '43b', 20), ('Makkot', '2b', 30)}
+{('Pesachim', '92b', 0), ('Moed Katan', '5b', 20), ('Ketubot', '28b', 20), ('Berakhot', '4b', 30), ('Bekhorot', '29a', 30), ('Berakhot', '58a', 30), ('Berakhot', '19b', 10), ('Eruvin', '30b', 40), ('Chagigah', '25b', 10), ('Niddah', '57a', 20), ('Berakhot', '9b', 70)}
+{('Yevamot', '97a', 50), ('Yevamot', '4a', 0), ('Berakhot', '21b', 40), ('Berakhot', '21b', 30), ('Berakhot', '21b', 50), ('Pesachim', '118a', 20), ('Sanhedrin', '67b', 0), ('Yevamot', '49a', 10), ('Kiddushin', '30a', 20), ('Yevamot', '4a', 10), ('Makkot', '23a', 0)}
+{('Shabbat', '72b', 10), ('Keritot', '19b', 0), ('Sanhedrin', '61b', 50), ('Horayot', '7b', 40), ('Keritot', '3a', 70), ('Shabbat', '72b', 0), ('Sanhedrin', '62b', 10), ('Keritot', '3a', 60), ('Sanhedrin', '62a', 30), ('Sanhedrin', '62b', 0), ('Shabbat', '72b', 20)}
+{('Niddah', '40a', 40), ('Zevachim', '39b', 0), ('Yoma', '42b', 10), ('Zevachim', '84a', 20), ('Niddah', '40b', 0), ('Menachot', '25b', 30), ('Zevachim', '84a', 30), ('Zevachim', '27b', 10), ('Chullin', '88b', 0), ('Zevachim', '109a', 0), ('Zevachim', '27b', 0)}
+{('Kiddushin', '26a', 0), ('Kiddushin', '7a', 10), ('Bava Batra', '77b', 0), ('Bava Batra', '77a', 10), ('Bava Batra', '77a', 0), ('Kiddushin', '27a', 10), ('Bava Batra', '150b', 20), ('Bava Metzia', '47a', 40), ('Kiddushin', '27a', 0), ('Bava Kamma', '104b', 10), ('Bava Metzia', '46a', 10)}
+{('Eruvin', '101b', 30), ('Eruvin', '85b', 20), ('Eruvin', '9a', 20), ('Eruvin', '87a', 30), ('Shabbat', '9a', 0), ('Eruvin', '9a', 30), ('Shabbat', '8b', 30), ('Eruvin', '77a', 0), ('Eruvin', '9a', 40), ('Eruvin', '87b', 10), ('Shabbat', '97a', 70)}
+{('Gittin', '8b', 30), ('Bava Batra', '150a', 20), ('Bava Batra', '65b', 10), ('Bava Batra', '67b', 10), ('Bava Batra', '149b', 10), ('Bava Batra', '67a', 0), ('Bava Batra', '68a', 10), ('Bava Batra', '68b', 30), ('Gittin', '42a', 30), ('Bava Batra', '68b', 40), ('Bava Batra', '150a', 10)}
+{('Eruvin', '59b', 0), ('Shabbat', '6b', 0), ('Eruvin', '12b', 20), ('Shabbat', '6a', 40), ('Eruvin', '6b', 0), ('Eruvin', '22a', 60), ('Eruvin', '95a', 50), ('Shabbat', '117a', 20), ('Eruvin', '6a', 30), ('Eruvin', '22a', 50), ('Shabbat', '117a', 30)}
+{('Yevamot', '63b', 70), ('Sanhedrin', '100b', 60), ('Bava Batra', '146a', 0), ('Sanhedrin', '100b', 50), ('Yevamot', '63b', 60), ('Sanhedrin', '101a', 0), ('Sanhedrin', '100b', 40), ('Sanhedrin', '100b', 30), ('Ketubot', '110b', 10), ('Bava Batra', '145b', 30), ('Bava Batra', '145b', 20)}
+{('Yoma', '86b', 40), ('Moed Katan', '27b', 60), ('Arakhin', '30b', 10), ('Sukkah', '40b', 20), ('Kiddushin', '20a', 50), ('Avodah Zarah', '54b', 20), ('Sukkah', '40b', 10), ('Kiddushin', '58a', 20), ('Avodah Zarah', '54b', 30), ('Kiddushin', '40a', 60), ('Arakhin', '30b', 20)}
+{('Kiddushin', '5a', 20), ('Sukkah', '24b', 0), ('Sukkah', '24b', 10), ('Gittin', '21b', 10), ('Eruvin', '15b', 20), ('Gittin', '21b', 0), ('Eruvin', '15b', 0), ('Gittin', '83b', 30), ('Eruvin', '15b', 10), ('Gittin', '21b', 20), ('Sukkah', '23a', 20)}
+{('Menachot', '29a', 30), ('Yoma', '21a', 40), ('Yoma', '21b', 0), ('Chagigah', '26b', 20), ('Menachot', '97a', 0), ('Chagigah', '26b', 30), ('Menachot', '96b', 20), ('Menachot', '96b', 10), ('Chagigah', '26b', 10), ('Yoma', '21a', 30), ('Yoma', '39b', 20)}
+{('Zevachim', '98a', 10), ('Menachot', '83a', 0), ('Zevachim', '22b', 20), ('Zevachim', '98a', 0), ('Yevamot', '71a', 0), ('Yevamot', '75a', 10), ('Chullin', '22a', 10), ('Menachot', '83a', 20), ('Pesachim', '96a', 40), ('Yoma', '42a', 30), ('Menachot', '83a', 10)}
+{('Bava Kamma', '106b', 70), ('Gittin', '51b', 10), ('Bava Metzia', '5a', 10), ('Bava Metzia', '3b', 0), ('Gittin', '51b', 20), ('Bava Metzia', '3a', 20), ('Shevuot', '42b', 0), ('Bava Kamma', '107a', 0), ('Bava Metzia', '3a', 30), ('Ketubot', '18b', 0), ('Ketubot', '18a', 30)}
+{('Horayot', '12a', 0), ('Keritot', '5b', 80), ('Horayot', '12a', 10), ('Keritot', '5b', 70), ('Bava Batra', '14a', 50), ('Horayot', '12a', 30), ('Keritot', '5b', 100), ('Yoma', '52b', 10), ('Yoma', '52b', 20), ('Keritot', '5b', 90)}
+{('Yevamot', '84b', 30), ('Sukkah', '28a', 40), ('Kiddushin', '35a', 20), ('Bava Kamma', '15a', 10), ('Bava Kamma', '15a', 0), ('Niddah', '48b', 0), ('Pesachim', '43a', 60), ('Yevamot', '23a', 10), ('Temurah', '2b', 10), ('Kiddushin', '35a', 30)}
+{('Yevamot', '110b', 10), ('Yevamot', '110b', 0), ('Gittin', '71b', 0), ('Yevamot', '114b', 0), ('Yevamot', '112b', 20), ('Yevamot', '110b', 20), ('Yevamot', '112b', 40), ('Yevamot', '114b', 10), ('Yevamot', '112b', 30), ('Yevamot', '110a', 40)}
+{('Pesachim', '24b', 30), ('Chullin', '115b', 20), ('Kiddushin', '57b', 30), ('Bava Kamma', '76b', 0), ('Menachot', '101b', 30), ('Pesachim', '25a', 0), ('Bekhorot', '10a', 0), ('Chullin', '116a', 10), ('Menachot', '101b', 10), ('Chullin', '115b', 10)}
+{('Bava Batra', '175a', 30), ('Gittin', '86b', 20), ('Ketubot', '102a', 10), ('Bava Batra', '176a', 10), ('Bava Batra', '175b', 0), ('Gittin', '3b', 10), ('Gittin', '86a', 0), ('Bava Batra', '176a', 0), ('Gittin', '86a', 10), ('Yevamot', '30b', 10)}
+{('Bava Kamma', '86b', 50), ('Makkot', '9b', 30), ('Sanhedrin', '41a', 20), ('Makkot', '9b', 20), ('Sanhedrin', '72b', 40), ('Sanhedrin', '80b', 10), ('Makkot', '6b', 30), ('Sanhedrin', '8b', 10), ('Sanhedrin', '80b', 0), ('Kiddushin', '32a', 30)}
+{('Megillah', '21a', 10), ('Tamid', '31b', 30), ('Menachot', '99b', 20), ('Berakhot', '9a', 20), ('Zevachim', '57b', 20), ('Menachot', '99b', 30), ('Zevachim', '57b', 10), ('Menachot', '99a', 10), ('Shabbat', '133b', 20), ('Pesachim', '120b', 0)}
+{('Eruvin', '4a', 20), ('Sukkah', '5b', 50), ('Sukkah', '6a', 0), ('Eruvin', '4b', 0), ('Eruvin', '4a', 30), ('Berakhot', '41a', 40), ('Menachot', '97a', 30), ('Berakhot', '41a', 30), ('Sukkah', '5b', 40), ('Chullin', '71b', 10)}
+{('Nedarim', '56a', 30), ('Moed Katan', '27a', 10), ('Nedarim', '56a', 20), ('Sanhedrin', '20a', 40), ('Sanhedrin', '20a', 50), ('Moed Katan', '27a', 20), ('Nedarim', '56b', 0), ('Sanhedrin', '20a', 60), ('Moed Katan', '27a', 40), ('Moed Katan', '27a', 30)}
+{('Ketubot', '77a', 20), ('Gittin', '75a', 0), ('Sanhedrin', '31b', 10), ('Bekhorot', '24a', 50), ('Bava Batra', '174a', 0), ('Arakhin', '31b', 80), ('Bava Kamma', '69a', 20), ('Bava Metzia', '38b', 10), ('Arakhin', '32a', 0), ('Gittin', '38a', 20)}
+{('Menachot', '92a', 30), ('Chullin', '131b', 40), ('Menachot', '92a', 40), ('Shevuot', '13b', 10), ('Menachot', '92a', 20), ('Shevuot', '2b', 30), ('Shevuot', '2b', 20), ('Menachot', '92b', 0), ('Shevuot', '13b', 20), ('Yoma', '61a', 10)}
+{('Menachot', '80a', 20), ('Zevachim', '9a', 40), ('Temurah', '23a', 10), ('Pesachim', '97a', 30), ('Pesachim', '96b', 30), ('Temurah', '24a', 0), ('Menachot', '83b', 10), ('Pesachim', '97a', 10), ('Temurah', '22b', 50), ('Pesachim', '97a', 20)}
+{('Bava Batra', '155b', 0), ('Yevamot', '97a', 0), ('Bava Batra', '155b', 10), ('Yevamot', '97a', 10), ('Yevamot', '80a', 10), ('Bekhorot', '31b', 20), ('Yevamot', '96b', 40), ('Niddah', '47b', 40), ('Niddah', '47b', 30), ('Sanhedrin', '44a', 60)}
+{('Arakhin', '25a', 10), ('Bava Batra', '102b', 10), ('Bava Batra', '103a', 0), ('Bava Batra', '102b', 20), ('Kiddushin', '60b', 70), ('Kiddushin', '61a', 10), ('Arakhin', '25a', 30), ('Bava Batra', '103a', 10), ('Kiddushin', '61a', 0), ('Arakhin', '25a', 20)}
+{('Pesachim', '9b', 0), ('Pesachim', '9a', 20), ('Avodah Zarah', '41b', 20), ('Pesachim', '9a', 10), ('Avodah Zarah', '41b', 30), ('Menachot', '67b', 0), ('Avodah Zarah', '42a', 0), ('Niddah', '15b', 20), ('Niddah', '15b', 10)}
+{('Kiddushin', '20b', 0), ('Bava Kamma', '113b', 0), ('Kiddushin', '20b', 10), ('Arakhin', '30b', 50), ('Bava Metzia', '71a', 20), ('Arakhin', '30b', 40), ('Kiddushin', '20a', 70), ('Arakhin', '30b', 30), ('Kiddushin', '20a', 60)}
+{('Rosh Hashanah', '6a', 0), ('Zevachim', '29a', 20), ('Yevamot', '63b', 0), ('Gittin', '90b', 10), ('Sanhedrin', '22a', 40), ('Zevachim', '29b', 10), ('Sanhedrin', '22a', 50), ('Sotah', '2a', 20), ('Sanhedrin', '22a', 60)}
+{('Bava Kamma', '109b', 10), ('Sanhedrin', '69a', 0), ('Arakhin', '29a', 10), ('Bava Kamma', '109b', 30), ('Arakhin', '34a', 10), ('Arakhin', '25b', 30), ('Bava Kamma', '109b', 0), ('Arakhin', '34a', 0), ('Arakhin', '28b', 0)}
+{('Sanhedrin', '88a', 0), ('Zevachim', '49b', 30), ('Sanhedrin', '71a', 50), ('Nazir', '65b', 20), ('Sanhedrin', '87b', 30), ('Ketubot', '75b', 10), ('Sanhedrin', '87b', 40), ('Niddah', '19a', 40), ('Niddah', '19a', 30)}
+{('Nazir', '24a', 0), ('Menachot', '4b', 20), ('Nazir', '28b', 20), ('Nazir', '24b', 20), ('Nazir', '24b', 10), ('Nazir', '28b', 30), ('Meilah', '11a', 10), ('Nazir', '21b', 20), ('Meilah', '11a', 0)}
+{('Makkot', '14b', 30), ('Zevachim', '33b', 20), ('Makkot', '14b', 40), ('Zevachim', '34a', 0), ('Yevamot', '75a', 20), ('Makkot', '14b', 50), ('Zevachim', '33b', 0), ('Makkot', '14b', 20), ('Zevachim', '33b', 10)}
+{('Shabbat', '24b', 20), ('Pesachim', '69b', 20), ('Shabbat', '133a', 40), ('Nazir', '58a', 0), ('Shabbat', '133a', 30), ('Menachot', '40a', 10), ('Pesachim', '83b', 30), ('Yevamot', '20b', 30), ('Nazir', '41a', 0)}
+{('Moed Katan', '5a', 30), ('Taanit', '17b', 20), ('Zevachim', '22b', 0), ('Yoma', '71b', 30), ('Sanhedrin', '22b', 60), ('Sanhedrin', '83b', 40), ('Moed Katan', '5a', 40), ('Zevachim', '22b', 10), ('Zevachim', '18b', 70)}
+{('Nazir', '48b', 10), ('Berakhot', '19b', 40), ('Nazir', '48b', 0), ('Zevachim', '100a', 40), ('Zevachim', '100a', 30), ('Zevachim', '100a', 20), ('Megillah', '3b', 20), ('Sanhedrin', '35a', 30), ('Zevachim', '100a', 10)}
+{('Sanhedrin', '57a', 0), ('Kiddushin', '31a', 30), ('Chullin', '23a', 0), ('Avodah Zarah', '23b', 10), ('Avodah Zarah', '23b', 20), ('Bekhorot', '57a', 20), ('Temurah', '28b', 40), ('Temurah', '28b', 30), ('Avodah Zarah', '23b', 30)}
+{('Yevamot', '8a', 10), ('Yevamot', '3b', 10), ('Yevamot', '54b', 0), ('Keritot', '2b', 50), ('Yevamot', '7a', 10), ('Yevamot', '3b', 20), ('Keritot', '2b', 60), ('Yevamot', '7a', 20), ('Kiddushin', '67b', 30)}
+{('Berakhot', '61b', 20), ('Yoma', '82a', 40), ('Sanhedrin', '73a', 10), ('Pesachim', '25a', 30), ('Yoma', '82a', 30), ('Pesachim', '25b', 0), ('Avodah Zarah', '27b', 20), ('Sanhedrin', '74a', 30), ('Sanhedrin', '74a', 40)}
+{('Beitzah', '18b', 10), ('Bekhorot', '25a', 0), ('Bekhorot', '34a', 20), ('Beitzah', '18b', 20), ('Shabbat', '111a', 30), ('Ketubot', '6a', 0), ('Shabbat', '111a', 40), ('Ketubot', '6a', 10), ('Shabbat', '111b', 0)}
+{('Bava Batra', '157b', 10), ('Bava Metzia', '14b', 30), ('Ketubot', '51b', 0), ('Bava Metzia', '14b', 40), ('Bava Kamma', '95a', 40), ('Bava Metzia', '12b', 30), ('Bava Batra', '157b', 30), ('Ketubot', '51a', 40), ('Bava Metzia', '72b', 10)}
+{('Rosh Hashanah', '21b', 20), ('Menachot', '64a', 10), ('Shabbat', '133a', 70), ('Shabbat', '133b', 0), ('Menachot', '63b', 30), ('Beitzah', '28a', 30), ('Menachot', '63b', 40), ('Shabbat', '133b', 10), ('Shabbat', '116b', 40)}
+{('Yevamot', '90a', 20), ('Menachot', '25b', 0), ('Pesachim', '16b', 10), ('Menachot', '25a', 0), ('Yoma', '7a', 20), ('Zevachim', '23b', 0), ('Pesachim', '16b', 0), ('Yoma', '7a', 30), ('Pesachim', '80b', 10)}
+{('Bava Batra', '55b', 0), ('Pesachim', '10a', 10), ('Shabbat', '80a', 20), ('Bava Batra', '55b', 10), ('Ketubot', '27a', 50), ('Pesachim', '10a', 0), ('Keritot', '17a', 20), ('Avodah Zarah', '70a', 40)}
+{('Nedarim', '86a', 0), ('Ketubot', '59a', 30), ('Nedarim', '85b', 10), ('Ketubot', '59a', 40), ('Ketubot', '59b', 0), ('Nedarim', '86a', 10), ('Nedarim', '47a', 10), ('Ketubot', '59a', 50)}
+{('Bava Metzia', '34b', 30), ('Bava Metzia', '35a', 10), ('Shevuot', '43a', 50), ('Shevuot', '43b', 20), ('Shevuot', '43b', 10), ('Shevuot', '43a', 40), ('Bava Metzia', '34b', 20), ('Shevuot', '43b', 0)}
+{('Temurah', '11a', 50), ('Arakhin', '5a', 0), ('Temurah', '10a', 30), ('Chullin', '69b', 20), ('Arakhin', '4b', 100), ('Chullin', '69b', 10), ('Temurah', '11b', 0), ('Arakhin', '4b', 90)}
+{('Yoma', '2b', 0), ('Chullin', '85a', 20), ('Nazir', '5a', 10), ('Yevamot', '17b', 10), ('Chullin', '85a', 30), ('Eruvin', '51a', 30), ('Bekhorot', '32a', 40), ('Menachot', '45b', 30)}
+{('Beitzah', '3b', 0), ('Eruvin', '91b', 10), ('Shabbat', '45b', 10), ('Beitzah', '40b', 0), ('Shabbat', '43a', 30), ('Niddah', '8b', 20), ('Beitzah', '4a', 50), ('Bava Metzia', '7b', 20)}
+{('Menachot', '100a', 10), ('Temurah', '14a', 60), ('Menachot', '100a', 30), ('Menachot', '90a', 30), ('Menachot', '100a', 40), ('Yoma', '29b', 10), ('Yoma', '28a', 40), ('Yoma', '29b', 0)}
+{('Yevamot', '19b', 20), ('Yevamot', '18a', 10), ('Yevamot', '13a', 10), ('Yevamot', '30b', 0), ('Yevamot', '19a', 40), ('Yevamot', '30a', 30), ('Yevamot', '19b', 10), ('Kiddushin', '44a', 10)}
+{('Shabbat', '45a', 20), ('Sukkah', '10a', 30), ('Menachot', '41b', 10), ('Beitzah', '30b', 20), ('Sukkah', '9a', 10), ('Shabbat', '22a', 30), ('Beitzah', '30b', 30), ('Beitzah', '30b', 0)}
+{('Bava Kamma', '38a', 50), ('Bava Kamma', '7a', 0), ('Bava Kamma', '38b', 10), ('Bava Kamma', '7a', 10), ('Bava Kamma', '38a', 10), ('Bava Kamma', '37b', 20), ('Gittin', '49a', 20), ('Bava Kamma', '37b', 30)}
+{('Beitzah', '11a', 20), ('Beitzah', '10a', 0), ('Beitzah', '9b', 60), ('Beitzah', '9b', 50), ('Beitzah', '2a', 0), ('Beitzah', '9b', 40), ('Beitzah', '10a', 20), ('Beitzah', '10a', 10)}
+{('Zevachim', '31b', 20), ('Menachot', '13a', 0), ('Chullin', '2b', 30), ('Zevachim', '31b', 10), ('Zevachim', '28a', 0), ('Menachot', '12b', 40), ('Zevachim', '31b', 30), ('Menachot', '12b', 30)}
+{('Pesachim', '56b', 20), ('Shabbat', '156b', 30), ('Chullin', '15a', 30), ('Shabbat', '45b', 20), ('Beitzah', '27b', 20), ('Chullin', '14a', 0), ('Beitzah', '6b', 0), ('Beitzah', '27b', 30)}
+{('Bava Metzia', '47b', 20), ('Niddah', '27b', 20), ('Chullin', '124b', 0), ('Bekhorot', '23b', 10), ('Bekhorot', '22a', 0), ('Bekhorot', '21b', 40), ('Bekhorot', '21b', 30), ('Bekhorot', '23a', 20)}
+{('Temurah', '26a', 30), ('Keritot', '27a', 50), ('Chullin', '135a', 40), ('Zevachim', '12a', 30), ('Kiddushin', '7a', 40), ('Zevachim', '12a', 40), ('Chullin', '81a', 0), ('Zevachim', '12a', 20)}
+{('Kiddushin', '3b', 0), ('Kiddushin', '14a', 30), ('Chullin', '24a', 0), ('Kiddushin', '14a', 40), ('Yoma', '40b', 30), ('Keritot', '28a', 20), ('Yoma', '41a', 10), ('Yoma', '40b', 20)}
+{('Bava Batra', '64b', 10), ('Bava Batra', '138b', 0), ('Bava Batra', '71a', 0), ('Bava Batra', '70b', 20), ('Bava Batra', '64a', 10), ('Bava Batra', '64a', 20), ('Arakhin', '19a', 40), ('Nazir', '7b', 0)}
+{('Makkot', '19a', 0), ('Zevachim', '119a', 10), ('Megillah', '9b', 40), ('Zevachim', '60b', 0), ('Zevachim', '60a', 30), ('Temurah', '21a', 30), ('Makkot', '19a', 10), ('Temurah', '21b', 10)}
+{('Keritot', '15a', 10), ('Chullin', '91b', 0), ('Keritot', '17a', 50), ('Keritot', '16a', 20), ('Keritot', '15a', 0), ('Keritot', '16a', 30), ('Keritot', '15a', 20), ('Makkot', '14a', 20)}
+{('Avodah Zarah', '4b', 10), ('Avodah Zarah', '4a', 80), ('Berakhot', '7a', 20), ('Sanhedrin', '105b', 10), ('Avodah Zarah', '4b', 30), ('Berakhot', '7a', 30), ('Berakhot', '7a', 40), ('Avodah Zarah', '4b', 20)}
+{('Menachot', '98a', 60), ('Menachot', '61a', 10), ('Menachot', '98a', 50), ('Sukkah', '37b', 40), ('Menachot', '62a', 30), ('Menachot', '62a', 40), ('Sotah', '37a', 20), ('Sotah', '37a', 30)}
+{('Shevuot', '16b', 50), ('Megillah', '23a', 10), ('Taanit', '14b', 50), ('Shevuot', '16b', 40), ('Berakhot', '34b', 0), ('Megillah', '22b', 40), ('Sanhedrin', '10b', 30), ('Megillah', '23a', 20)}
+{('Sanhedrin', '15a', 50), ('Sanhedrin', '54b', 20), ('Bava Metzia', '100b', 40), ('Shevuot', '42b', 30), ('Sanhedrin', '15a', 40), ('Gittin', '39a', 20), ('Bava Metzia', '56a', 20), ('Sanhedrin', '54b', 30)}
+{('Yevamot', '59b', 20), ('Yevamot', '45a', 30), ('Kiddushin', '75b', 0), ('Sotah', '26b', 20), ('Temurah', '30a', 30), ('Yevamot', '68b', 30), ('Temurah', '30b', 0), ('Eruvin', '33b', 0)}
+{('Zevachim', '63b', 20), ('Zevachim', '63b', 10), ('Menachot', '19b', 20), ('Menachot', '19b', 40), ('Zevachim', '63b', 0), ('Menachot', '19b', 30), ('Sotah', '14b', 30), ('Sotah', '14b', 20)}
+{('Pesachim', '22b', 30), ('Bekhorot', '6b', 0), ('Kiddushin', '56b', 40), ('Kiddushin', '57a', 0), ('Bekhorot', '6b', 10), ('Bava Kamma', '41b', 10), ('Pesachim', '22b', 20), ('Bava Kamma', '41b', 0)}
+{('Berakhot', '47b', 40), ('Berakhot', '47b', 50), ('Shabbat', '127b', 100), ('Pesachim', '35b', 30), ('Pesachim', '35b', 40), ('Eruvin', '31b', 30), ('Shabbat', '128a', 0), ('Eruvin', '31b', 20)}
+{('Avodah Zarah', '73b', 0), ('Pesachim', '26b', 30), ('Shabbat', '142a', 30), ('Pesachim', '27a', 10), ('Avodah Zarah', '49b', 0), ('Temurah', '12a', 20), ('Avodah Zarah', '49a', 10), ('Temurah', '12a', 30)}
+{('Shevuot', '36b', 10), ('Shevuot', '30a', 0), ('Shevuot', '31b', 30), ('Shevuot', '29b', 30), ('Shevuot', '36b', 0), ('Shevuot', '29b', 20), ('Shevuot', '29b', 10), ('Shevuot', '31b', 10)}
+{('Yevamot', '90b', 0), ('Sanhedrin', '46a', 30), ('Yevamot', '90b', 10), ('Gittin', '33a', 20), ('Bava Batra', '48b', 0), ('Gittin', '73a', 0), ('Yevamot', '110a', 20), ('Ketubot', '3a', 0)}
+{('Bava Metzia', '97b', 20), ('Bava Kamma', '118a', 10), ('Ketubot', '16a', 40), ('Bava Metzia', '116b', 20), ('Ketubot', '11b', 40), ('Bava Metzia', '97b', 10), ('Ketubot', '12b', 10), ('Ketubot', '13b', 0)}
+{('Bava Batra', '58a', 20), ('Bava Batra', '118b', 0), ('Berakhot', '20a', 30), ('Sotah', '36b', 10), ('Bava Metzia', '84a', 30), ('Bava Metzia', '84a', 40), ('Bava Batra', '118a', 10), ('Berakhot', '55b', 40)}
+{('Kiddushin', '8b', 0), ('Pesachim', '31b', 0), ('Bava Metzia', '82a', 20), ('Bava Metzia', '82a', 10), ('Gittin', '37a', 70), ('Shevuot', '44a', 10), ('Gittin', '37a', 80), ('Shevuot', '44a', 0)}
+{('Shabbat', '26b', 0), ('Kiddushin', '37b', 10), ('Nazir', '58a', 20), ('Shabbat', '27b', 0), ('Yevamot', '4b', 20), ('Menachot', '39b', 30), ('Nazir', '41a', 10), ('Yevamot', '4b', 10)}
+{('Ketubot', '98a', 30), ('Ketubot', '99b', 20), ('Ketubot', '100a', 10), ('Kiddushin', '41a', 30), ('Bekhorot', '61a', 30), ('Ketubot', '99b', 30), ('Ketubot', '99b', 0), ('Ketubot', '99a', 0)}
+{('Shabbat', '30b', 40), ('Sotah', '46b', 60), ('Pesachim', '117a', 40), ('Berakhot', '31a', 40), ('Berakhot', '31a', 30), ('Shabbat', '30b', 50), ('Pesachim', '117a', 30), ('Shabbat', '30b', 30)}
+{('Bava Kamma', '116b', 20), ('Bava Metzia', '118a', 30), ('Bava Metzia', '12b', 0), ('Bava Metzia', '118a', 40), ('Bava Metzia', '111a', 0), ('Bava Metzia', '76a', 10), ('Bava Metzia', '10a', 20), ('Bava Metzia', '10a', 10)}
+{('Yoma', '66a', 30), ('Yoma', '35b', 60), ('Yoma', '36a', 10), ('Yoma', '41b', 20), ('Yoma', '66a', 20), ('Yoma', '36a', 0), ('Zevachim', '20a', 30), ('Zevachim', '20a', 20)}
+{('Sanhedrin', '69a', 40), ('Ketubot', '46b', 0), ('Kiddushin', '10a', 30), ('Niddah', '44b', 20), ('Kiddushin', '10a', 20), ('Sanhedrin', '55b', 10), ('Ketubot', '65b', 60), ('Yevamot', '57b', 0)}
+{('Menachot', '25b', 20), ('Pesachim', '67b', 10), ('Pesachim', '95b', 40), ('Pesachim', '95b', 30), ('Sukkah', '47b', 10), ('Pesachim', '95b', 20), ('Menachot', '95b', 0), ('Pesachim', '67a', 30)}
+{('Yevamot', '117b', 20), ('Sotah', '31b', 40), ('Sotah', '32a', 0), ('Yevamot', '88b', 30), ('Yevamot', '117b', 30), ('Yevamot', '88b', 40), ('Sotah', '47b', 30)}
+{('Taanit', '19a', 40), ('Beitzah', '23a', 20), ('Taanit', '25b', 0), ('Berakhot', '19a', 50), ('Pesachim', '53a', 40), ('Avodah Zarah', '14b', 40), ('Pesachim', '53a', 50)}
+{('Rosh Hashanah', '30a', 60), ('Beitzah', '5b', 20), ('Rosh Hashanah', '30a', 50), ('Menachot', '68b', 0), ('Rosh Hashanah', '30a', 40), ('Sukkah', '41a', 20), ('Sukkah', '41a', 30)}
+{('Temurah', '25b', 30), ('Bekhorot', '42a', 10), ('Temurah', '11a', 20), ('Temurah', '17a', 20), ('Yevamot', '83b', 50), ('Bekhorot', '42a', 20), ('Temurah', '17a', 50)}
+{('Sotah', '3b', 40), ('Gittin', '89a', 10), ('Sotah', '31b', 0), ('Sotah', '47a', 80), ('Sotah', '31a', 30), ('Sotah', '3b', 50), ('Gittin', '90a', 20)}
+{('Kiddushin', '60a', 50), ('Gittin', '74a', 20), ('Kiddushin', '60a', 30), ('Kiddushin', '60a', 40), ('Gittin', '74a', 30), ('Kiddushin', '60b', 0), ('Gittin', '74a', 40)}
+{('Gittin', '27a', 10), ('Bava Metzia', '18a', 30), ('Bava Metzia', '20b', 0), ('Gittin', '27a', 0), ('Bava Metzia', '18a', 20), ('Bava Metzia', '20a', 20), ('Bava Metzia', '18b', 0)}
+{('Nazir', '19a', 10), ('Taanit', '11a', 40), ('Nazir', '22a', 0), ('Nedarim', '10a', 20), ('Bava Kamma', '91b', 30), ('Nazir', '22a', 10), ('Bava Kamma', '91b', 20)}
+{('Yevamot', '36a', 30), ('Bava Metzia', '51a', 80), ('Bava Metzia', '94a', 10), ('Ketubot', '56a', 50), ('Bava Batra', '126b', 10), ('Bava Metzia', '94a', 0), ('Kiddushin', '19b', 30)}
+{('Yoma', '2b', 30), ('Rosh Hashanah', '4b', 40), ('Moed Katan', '24b', 30), ('Rosh Hashanah', '4b', 30), ('Chagigah', '17a', 10), ('Yoma', '3a', 0), ('Yoma', '70b', 20)}
+{('Sotah', '20b', 10), ('Zevachim', '2b', 40), ('Gittin', '24a', 40), ('Zevachim', '3a', 0), ('Eruvin', '13a', 40), ('Sotah', '20b', 0), ('Eruvin', '13a', 50)}
+{('Temurah', '13a', 30), ('Yoma', '63b', 20), ('Zevachim', '113b', 60), ('Temurah', '6b', 50), ('Yoma', '63b', 0), ('Temurah', '6b', 40), ('Yoma', '63b', 10)}
+{('Sanhedrin', '72b', 20), ('Sanhedrin', '45b', 30), ('Sanhedrin', '53a', 10), ('Makkot', '7a', 10), ('Bava Metzia', '31b', 0), ('Makkot', '7a', 0), ('Gittin', '28b', 20)}
+{('Temurah', '33b', 10), ('Bekhorot', '13b', 40), ('Temurah', '32b', 30), ('Bekhorot', '14b', 40), ('Bekhorot', '14a', 0), ('Chullin', '130a', 0), ('Bekhorot', '15b', 50)}
+{('Arakhin', '30b', 70), ('Kiddushin', '20b', 50), ('Bava Kamma', '33a', 0), ('Arakhin', '30b', 60), ('Makkot', '8a', 30), ('Arakhin', '30b', 80), ('Kiddushin', '20b', 40)}
+{('Sukkah', '6b', 10), ('Chullin', '72a', 30), ('Sanhedrin', '4a', 30), ('Zevachim', '37b', 20), ('Sanhedrin', '4a', 40), ('Zevachim', '37b', 10), ('Sanhedrin', '4a', 20)}
+{('Pesachim', '72a', 40), ('Keritot', '19b', 50), ('Shabbat', '137a', 10), ('Pesachim', '72a', 30), ('Shabbat', '136b', 10), ('Shabbat', '137a', 0), ('Shabbat', '137a', 20)}
+{('Bava Kamma', '96a', 0), ('Bava Kamma', '95b', 50), ('Bava Metzia', '110b', 10), ('Bava Metzia', '15b', 0), ('Bava Kamma', '95b', 40), ('Bava Metzia', '15a', 60), ('Bava Metzia', '110b', 20)}
+{('Sanhedrin', '30a', 80), ('Bava Batra', '32a', 10), ('Sotah', '31b', 10), ('Sotah', '2a', 30), ('Sanhedrin', '30a', 50), ('Ketubot', '26b', 10), ('Sotah', '2b', 0)}
+{('Keritot', '2b', 20), ('Keritot', '9b', 10), ('Nazir', '18a', 10), ('Keritot', '2b', 30), ('Keritot', '9b', 0), ('Nazir', '17a', 0), ('Nazir', '18a', 20)}
+{('Bava Metzia', '63a', 30), ('Megillah', '27b', 30), ('Arakhin', '31a', 40), ('Arakhin', '31a', 30), ('Arakhin', '31a', 50), ('Bava Metzia', '63a', 40), ('Megillah', '27b', 20)}
+{('Zevachim', '2a', 10), ('Zevachim', '2a', 20), ('Zevachim', '4b', 60), ('Zevachim', '13a', 0), ('Menachot', '2a', 10), ('Menachot', '2a', 0), ('Zevachim', '7b', 0)}
+{('Pesachim', '21a', 0), ('Pesachim', '15a', 10), ('Menachot', '48a', 40), ('Pesachim', '20b', 30), ('Pesachim', '20b', 40), ('Pesachim', '15b', 10), ('Bava Kamma', '115b', 40)}
+{('Menachot', '101a', 30), ('Menachot', '101b', 0), ('Chullin', '129b', 10), ('Bekhorot', '9b', 60), ('Chullin', '129a', 30), ('Chullin', '129a', 40), ('Bekhorot', '9b', 50)}
+{('Pesachim', '77a', 20), ('Pesachim', '78a', 0), ('Menachot', '14b', 50), ('Sanhedrin', '12b', 10), ('Yoma', '7b', 0), ('Menachot', '25b', 10), ('Pesachim', '77a', 30)}
+{('Kiddushin', '13b', 10), ('Yevamot', '62a', 40), ('Menachot', '78b', 10), ('Nazir', '14b', 0), ('Bekhorot', '48a', 20), ('Bekhorot', '47a', 0), ('Bava Batra', '175b', 50)}
+{('Sanhedrin', '41b', 20), ('Pesachim', '12a', 10), ('Pesachim', '11b', 20), ('Sanhedrin', '40a', 0), ('Pesachim', '12a', 0), ('Pesachim', '11b', 30), ('Sanhedrin', '40a', 10)}
+{('Berakhot', '8b', 0), ('Rosh Hashanah', '9a', 30), ('Yoma', '81b', 20), ('Berakhot', '36b', 40), ('Pesachim', '68b', 40), ('Sukkah', '35a', 0), ('Yoma', '81b', 10)}
+{('Megillah', '28a', 60), ('Bava Batra', '134a', 10), ('Megillah', '28a', 70), ('Nedarim', '48a', 30), ('Taanit', '20b', 50), ('Sukkah', '28a', 10), ('Bava Batra', '134a', 20)}
+{('Shevuot', '2b', 0), ('Shevuot', '11b', 30), ('Shevuot', '9b', 0), ('Shevuot', '10a', 10), ('Shevuot', '2a', 0), ('Shevuot', '9b', 20), ('Shevuot', '9a', 0)}
+{('Yoma', '39b', 10), ('Yoma', '39a', 50), ('Yoma', '39b', 0), ('Kiddushin', '53a', 10), ('Menachot', '109b', 30), ('Kiddushin', '53a', 20), ('Menachot', '73a', 10)}
+{('Yevamot', '115a', 30), ('Yevamot', '93b', 20), ('Yevamot', '92a', 30), ('Yevamot', '116b', 0), ('Yevamot', '115a', 20), ('Yevamot', '122a', 40), ('Yevamot', '93b', 40)}
+{('Chullin', '14b', 0), ('Yoma', '56b', 10), ('Eruvin', '36b', 10), ('Eruvin', '37b', 50), ('Yoma', '56b', 0), ('Beitzah', '37b', 50), ('Gittin', '26a', 0)}
+{('Berakhot', '15b', 10), ('Berakhot', '15a', 70), ('Megillah', '20a', 0), ('Berakhot', '15a', 30), ('Megillah', '19b', 10), ('Berakhot', '15a', 60), ('Megillah', '19b', 40)}
+{('Gittin', '59a', 10), ('Gittin', '59a', 20), ('Sanhedrin', '36a', 10), ('Gittin', '59a', 30), ('Gittin', '59a', 0), ('Sanhedrin', '36a', 30), ('Sanhedrin', '36a', 20)}
+{('Gittin', '65b', 30), ('Bava Batra', '146b', 20), ('Chullin', '75b', 40), ('Gittin', '13b', 10), ('Chullin', '75b', 50), ('Menachot', '30b', 30), ('Gittin', '65b', 40)}
+{('Sukkah', '11b', 30), ('Sukkah', '33a', 40), ('Menachot', '27a', 60), ('Sukkah', '11b', 40), ('Menachot', '27a', 50), ('Sukkah', '11b', 50), ('Sukkah', '33a', 50)}
+{('Makkot', '19b', 10), ('Yevamot', '73b', 10), ('Sanhedrin', '112b', 60), ('Pesachim', '36b', 10), ('Bava Metzia', '53a', 20), ('Yevamot', '73b', 0), ('Makkot', '19b', 0)}
+{('Chullin', '31a', 60), ('Chullin', '31b', 0), ('Chagigah', '19a', 0), ('Chagigah', '19a', 10), ('Chullin', '31b', 20), ('Chullin', '31b', 10), ('Chagigah', '19a', 20)}
+{('Nazir', '37b', 10), ('Pesachim', '44b', 30), ('Avodah Zarah', '67b', 10), ('Pesachim', '45a', 10), ('Nazir', '37b', 0), ('Nazir', '37b', 30), ('Nazir', '37b', 20)}
+{('Sanhedrin', '98b', 10), ('Sanhedrin', '98b', 20), ('Berakhot', '4a', 60), ('Sotah', '36a', 0), ('Sotah', '32a', 20), ('Berakhot', '4a', 50), ('Sotah', '33b', 10)}
+{('Sanhedrin', '99a', 40), ('Shabbat', '151b', 40), ('Berakhot', '34b', 40), ('Shabbat', '63a', 20), ('Berakhot', '34b', 50), ('Sanhedrin', '99a', 50), ('Sanhedrin', '99a', 30)}
+{('Chullin', '100b', 10), ('Zevachim', '69b', 40), ('Chullin', '89b', 10), ('Zevachim', '69b', 30), ('Chullin', '74a', 30), ('Chullin', '128b', 20), ('Chullin', '85b', 20)}
+{('Rosh Hashanah', '24b', 0), ('Avodah Zarah', '43a', 40), ('Avodah Zarah', '43a', 30), ('Rosh Hashanah', '24a', 50), ('Menachot', '28b', 40), ('Avodah Zarah', '53b', 0), ('Menachot', '28b', 30)}
+{('Bekhorot', '13b', 20), ('Avodah Zarah', '71b', 10), ('Bava Batra', '78a', 30), ('Avodah Zarah', '74a', 20), ('Avodah Zarah', '71b', 20), ('Bekhorot', '13b', 10), ('Avodah Zarah', '53a', 40)}
+{('Sukkah', '47b', 20), ('Menachot', '61b', 0), ('Makkot', '18b', 40), ('Menachot', '61a', 40), ('Makkot', '18b', 30), ('Sotah', '19a', 20), ('Kiddushin', '36b', 10)}
+{('Bava Metzia', '56a', 10), ('Bava Batra', '143a', 10), ('Temurah', '5a', 20), ('Kiddushin', '46b', 50), ('Bava Batra', '84b', 0), ('Yevamot', '89b', 0), ('Kiddushin', '46b', 40)}
+{('Bava Kamma', '18b', 20), ('Bava Kamma', '18b', 40), ('Bava Kamma', '98a', 20), ('Bava Kamma', '18b', 30), ('Kiddushin', '24b', 30), ('Kiddushin', '24b', 40), ('Bava Kamma', '91a', 20)}
+{('Avodah Zarah', '59a', 10), ('Avodah Zarah', '59a', 20), ('Yevamot', '46a', 40), ('Yevamot', '46a', 30), ('Yevamot', '46a', 50), ('Bava Metzia', '73b', 20), ('Avodah Zarah', '38a', 0)}
+{('Sanhedrin', '112a', 70), ('Yoma', '61b', 10), ('Yoma', '61b', 20), ('Zevachim', '47b', 10), ('Sanhedrin', '88a', 30), ('Nazir', '46b', 10), ('Sanhedrin', '45b', 50)}
+{('Megillah', '7b', 60), ('Megillah', '7b', 50), ('Makkot', '23a', 70), ('Makkot', '23b', 10), ('Ketubot', '30a', 10), ('Makkot', '23b', 0), ('Pesachim', '29a', 30)}
+{('Avodah Zarah', '20a', 20), ('Pesachim', '21b', 20), ('Bava Kamma', '41a', 50), ('Chullin', '114b', 20), ('Pesachim', '21b', 30), ('Kiddushin', '56b', 30), ('Avodah Zarah', '20a', 10)}
+{('Shabbat', '95a', 10), ('Pesachim', '65a', 10), ('Kiddushin', '82b', 0), ('Beitzah', '33b', 30), ('Pesachim', '65a', 20), ('Zevachim', '60a', 20), ('Zevachim', '34b', 50)}
+{('Sukkah', '56a', 10), ('Berakhot', '51b', 30), ('Pesachim', '114a', 10), ('Berakhot', '51b', 60), ('Bava Batra', '75b', 50), ('Sukkah', '56a', 20), ('Kiddushin', '22b', 40)}
+{('Bava Batra', '140b', 10), ('Ketubot', '108b', 10), ('Bava Metzia', '4b', 30), ('Shevuot', '40a', 30), ('Shevuot', '38b', 50), ('Shevuot', '40a', 40), ('Shevuot', '40b', 10)}
+{('Berakhot', '20a', 10), ('Berakhot', '20a', 0), ('Taanit', '24a', 60), ('Sanhedrin', '46a', 40), ('Chagigah', '15b', 80), ('Sanhedrin', '106b', 50), ('Chagigah', '15b', 70)}
+{('Kiddushin', '51b', 30), ('Kiddushin', '64b', 10), ('Nedarim', '60a', 20), ('Nedarim', '61b', 0), ('Kiddushin', '64b', 30), ('Kiddushin', '51b', 20), ('Kiddushin', '64b', 20)}
+{('Sukkah', '50b', 0), ('Avodah Zarah', '2a', 0), ('Beitzah', '35b', 20), ('Yevamot', '17a', 40), ('Bava Kamma', '116b', 30), ('Bava Kamma', '60a', 0), ('Yevamot', '18b', 20)}
+{('Sanhedrin', '74a', 0), ('Chagigah', '11a', 20), ('Ketubot', '33b', 10), ('Ketubot', '33a', 30), ('Sanhedrin', '57a', 60), ('Sanhedrin', '79a', 30), ('Sanhedrin', '87b', 20)}
+{('Yevamot', '104b', 30), ('Menachot', '72b', 40), ('Menachot', '47a', 0), ('Pesachim', '13b', 30), ('Pesachim', '13b', 40), ('Menachot', '80a', 40)}
+{('Zevachim', '30b', 30), ('Menachot', '12b', 50), ('Keritot', '9a', 10), ('Zevachim', '65a', 0), ('Menachot', '12a', 10), ('Zevachim', '29b', 40)}
+{('Bava Batra', '25b', 30), ('Bava Batra', '18b', 10), ('Bava Metzia', '117a', 30), ('Bava Batra', '18a', 60), ('Bava Batra', '25b', 40), ('Bava Batra', '18b', 20)}
+{('Menachot', '25a', 20), ('Pesachim', '80b', 20), ('Menachot', '25b', 50), ('Menachot', '26a', 0), ('Menachot', '25b', 60), ('Zevachim', '45a', 40)}
+{('Bava Kamma', '94a', 30), ('Bekhorot', '46a', 0), ('Makkot', '16b', 0), ('Temurah', '6a', 20), ('Bava Kamma', '94a', 20), ('Sanhedrin', '88a', 40)}
+{('Gittin', '81a', 20), ('Bava Metzia', '87b', 40), ('Ketubot', '36b', 30), ('Yevamot', '36b', 20), ('Berakhot', '35b', 30), ('Gittin', '81a', 30)}
+{('Arakhin', '17b', 20), ('Niddah', '70a', 20), ('Zevachim', '76a', 20), ('Keritot', '9b', 30), ('Niddah', '70a', 10), ('Menachot', '105a', 50)}
+{('Zevachim', '6a', 30), ('Zevachim', '6a', 40), ('Yoma', '5a', 10), ('Menachot', '93b', 10), ('Menachot', '93b', 20), ('Yoma', '5a', 0)}
+{('Nedarim', '24a', 0), ('Nedarim', '24a', 10), ('Nedarim', '21a', 10), ('Gittin', '74b', 30), ('Nedarim', '23b', 20), ('Nedarim', '63b', 10)}
+{('Keritot', '17b', 60), ('Keritot', '18a', 20), ('Keritot', '17b', 40), ('Niddah', '14a', 10), ('Niddah', '57b', 30), ('Berakhot', '13b', 80)}
+{('Bava Batra', '159b', 30), ('Bava Batra', '29b', 10), ('Bava Batra', '114b', 0), ('Bava Batra', '30a', 0), ('Bava Batra', '159b', 20), ('Bava Batra', '159b', 40)}
+{('Meilah', '4b', 20), ('Meilah', '2a', 0), ('Meilah', '4b', 10), ('Zevachim', '92a', 10), ('Meilah', '5a', 10), ('Menachot', '102a', 10)}
+{('Berakhot', '26b', 10), ('Sanhedrin', '95b', 0), ('Arakhin', '15b', 20), ('Chullin', '91b', 10), ('Taanit', '8a', 10), ('Sotah', '14a', 30)}
+{('Bava Batra', '152a', 10), ('Gittin', '13a', 10), ('Bava Batra', '151b', 40), ('Bava Batra', '135b', 20), ('Gittin', '9b', 10), ('Bava Batra', '135b', 30)}
+{('Gittin', '74b', 0), ('Kiddushin', '60b', 30), ('Gittin', '74a', 50), ('Gittin', '74a', 60), ('Kiddushin', '60b', 20), ('Kiddushin', '60b', 10)}
+{('Gittin', '53b', 20), ('Chullin', '15a', 0), ('Ketubot', '34a', 0), ('Bava Kamma', '71a', 40), ('Ketubot', '34a', 10), ('Bava Kamma', '71a', 30)}
+{('Yoma', '12a', 30), ('Beitzah', '14b', 50), ('Beitzah', '14b', 40), ('Chullin', '138a', 20), ('Tamid', '27b', 0), ('Yoma', '69a', 10)}
+{('Rosh Hashanah', '8b', 0), ('Rosh Hashanah', '9b', 30), ('Rosh Hashanah', '16a', 40), ('Rosh Hashanah', '8b', 10), ('Avodah Zarah', '2b', 10), ('Rosh Hashanah', '7a', 50)}
+{('Bava Kamma', '99a', 40), ('Bava Kamma', '99b', 0), ('Bava Kamma', '99a', 30), ('Kiddushin', '48b', 0), ('Kiddushin', '48a', 60), ('Kiddushin', '48b', 10)}
+{('Sanhedrin', '100a', 30), ('Sanhedrin', '100a', 20), ('Bava Batra', '75a', 60), ('Bava Batra', '75a', 50), ('Bava Batra', '75a', 40), ('Sanhedrin', '100a', 40)}
+{('Ketubot', '92b', 0), ('Bava Kamma', '8b', 30), ('Ketubot', '92b', 10), ('Bava Kamma', '8b', 40), ('Bava Metzia', '14a', 30), ('Bava Metzia', '14a', 40)}
+{('Bava Metzia', '18a', 0), ('Sanhedrin', '28b', 30), ('Ketubot', '53a', 50), ('Yevamot', '43b', 20), ('Ketubot', '89b', 40), ('Yevamot', '29b', 20)}
+{('Yevamot', '108a', 70), ('Ketubot', '101a', 10), ('Ketubot', '101a', 0), ('Yevamot', '108a', 50), ('Gittin', '73b', 40), ('Yevamot', '35b', 0)}
+{('Shevuot', '17b', 20), ('Niddah', '28a', 50), ('Shevuot', '17b', 30), ('Niddah', '28b', 0), ('Niddah', '17b', 20), ('Shevuot', '14b', 0)}
+{('Bekhorot', '18b', 40), ('Bekhorot', '9a', 10), ('Bekhorot', '48b', 30), ('Bekhorot', '17a', 70), ('Bekhorot', '9a', 30), ('Bekhorot', '18b', 50)}
+{('Sanhedrin', '13b', 40), ('Avodah Zarah', '8b', 40), ('Sanhedrin', '13b', 50), ('Sanhedrin', '41a', 60), ('Shabbat', '15a', 40), ('Rosh Hashanah', '31b', 50)}
+{('Bava Kamma', '15b', 20), ('Ketubot', '41b', 20), ('Bava Kamma', '15b', 10), ('Ketubot', '41b', 10), ('Bava Kamma', '15b', 0), ('Ketubot', '41b', 0)}
+{('Rosh Hashanah', '9a', 0), ('Makkot', '8b', 0), ('Yoma', '81b', 0), ('Rosh Hashanah', '9a', 10), ('Moed Katan', '3b', 40), ('Moed Katan', '4a', 0)}
+{('Bava Batra', '95b', 30), ('Niddah', '2b', 20), ('Kiddushin', '79a', 30), ('Kiddushin', '79a', 40), ('Kiddushin', '79a', 20), ('Niddah', '2b', 0)}
+{('Bava Metzia', '64b', 20), ('Bava Metzia', '64b', 10), ('Bava Metzia', '65a', 0), ('Bava Metzia', '64b', 0), ('Bava Kamma', '97a', 10), ('Bava Kamma', '97a', 20)}
+{('Avodah Zarah', '47a', 20), ('Sukkah', '33a', 10), ('Sukkah', '33a', 20), ('Chullin', '87a', 50), ('Menachot', '69b', 20), ('Avodah Zarah', '47a', 10)}
+{('Nedarim', '36a', 20), ('Pesachim', '89a', 30), ('Bekhorot', '57a', 0), ('Gittin', '25a', 10), ('Gittin', '25a', 20), ('Pesachim', '89a', 40)}
+{('Yoma', '69b', 20), ('Sanhedrin', '64a', 0), ('Yoma', '69b', 40), ('Yoma', '69b', 30), ('Sanhedrin', '64a', 10), ('Sanhedrin', '64a', 20)}
+{('Arakhin', '9b', 10), ('Rosh Hashanah', '20a', 50), ('Shabbat', '114b', 0), ('Rosh Hashanah', '6b', 30), ('Sukkah', '54b', 20), ('Shabbat', '87b', 40)}
+{('Niddah', '21b', 0), ('Niddah', '18b', 20), ('Shevuot', '7a', 0), ('Bekhorot', '40a', 60), ('Niddah', '21a', 10), ('Chullin', '71a', 10)}
+{('Ketubot', '31a', 10), ('Sanhedrin', '72a', 30), ('Bava Kamma', '112a', 30), ('Shabbat', '91b', 50), ('Bava Batra', '86a', 20), ('Ketubot', '34b', 10)}
+{('Berakhot', '43b', 30), ('Berakhot', '32b', 10), ('Sotah', '10b', 20), ('Bava Metzia', '59a', 20), ('Ketubot', '67b', 70), ('Bava Metzia', '59a', 10)}
+{('Yoma', '69b', 70), ('Megillah', '24a', 10), ('Yoma', '69b', 60), ('Sotah', '41a', 0), ('Yoma', '69b', 80), ('Sotah', '41a', 10)}
+{('Pesachim', '49b', 50), ('Berakhot', '49b', 30), ('Berakhot', '49b', 40), ('Pesachim', '49a', 10), ('Yoma', '79b', 40), ('Pesachim', '81b', 40)}
+{('Yevamot', '74a', 50), ('Yevamot', '73b', 20), ('Shabbat', '25a', 0), ('Shabbat', '25a', 10), ('Bekhorot', '34a', 0), ('Shabbat', '26a', 20)}
+{('Yoma', '47a', 60), ('Menachot', '11a', 30), ('Menachot', '11a', 40), ('Yoma', '47b', 40), ('Menachot', '11a', 20), ('Yoma', '47b', 30)}
+{('Bava Kamma', '61b', 10), ('Kiddushin', '72b', 50), ('Bava Metzia', '118b', 30), ('Bava Batra', '20b', 30), ('Bava Kamma', '61b', 0), ('Eruvin', '23b', 20)}
+{('Zevachim', '69b', 0), ('Zevachim', '50b', 30), ('Bava Kamma', '25a', 0), ('Chullin', '27b', 0), ('Zevachim', '69b', 10), ('Bava Batra', '111a', 10)}
+{('Bava Kamma', '82b', 30), ('Menachot', '64b', 10), ('Menachot', '64b', 20), ('Bava Kamma', '82b', 20), ('Sotah', '49b', 30), ('Sotah', '49b', 40)}
+{('Eruvin', '50a', 20), ('Kiddushin', '51a', 10), ('Pesachim', '37a', 70), ('Menachot', '48a', 10), ('Menachot', '78b', 30), ('Menachot', '78b', 40)}
+{('Niddah', '49b', 20), ('Shabbat', '59a', 0), ('Chagigah', '23b', 10), ('Kiddushin', '76b', 30), ('Sanhedrin', '36b', 20), ('Sanhedrin', '36b', 10)}
+{('Zevachim', '60b', 20), ('Makkot', '19a', 30), ('Pesachim', '34b', 10), ('Zevachim', '45a', 20), ('Bekhorot', '25b', 20), ('Temurah', '21b', 0)}
+{('Bekhorot', '33b', 0), ('Temurah', '24a', 40), ('Temurah', '24a', 30), ('Bekhorot', '33a', 40), ('Temurah', '24a', 50), ('Bekhorot', '33a', 30)}
+{('Bava Metzia', '47b', 70), ('Bava Metzia', '48a', 0), ('Bava Metzia', '49a', 20), ('Bava Metzia', '83a', 60), ('Bava Metzia', '49a', 30), ('Bava Metzia', '86b', 0)}
+{('Ketubot', '41a', 40), ('Eruvin', '49a', 20), ('Bava Kamma', '15a', 30), ('Chullin', '100a', 0), ('Pesachim', '16a', 40), ('Zevachim', '70a', 20)}
+{('Zevachim', '76b', 10), ('Menachot', '106b', 0), ('Yoma', '47b', 10), ('Yevamot', '100a', 30), ('Sotah', '23a', 10), ('Yoma', '47b', 20)}
+{('Yoma', '50a', 30), ('Yoma', '50a', 40), ('Shevuot', '12a', 10), ('Shevuot', '11a', 20), ('Shevuot', '11b', 0), ('Yoma', '65a', 30)}
+{('Bekhorot', '33b', 50), ('Avodah Zarah', '38a', 30), ('Menachot', '56b', 20), ('Beitzah', '27b', 10), ('Menachot', '57a', 0), ('Menachot', '56b', 10)}
+{('Gittin', '15a', 20), ('Gittin', '16b', 0), ('Gittin', '17a', 20), ('Gittin', '16b', 10), ('Gittin', '16a', 20), ('Gittin', '17a', 10)}
+{('Zevachim', '72b', 0), ('Zevachim', '72a', 10), ('Zevachim', '72b', 10), ('Yevamot', '81a', 40), ('Beitzah', '3b', 20), ('Yevamot', '81b', 0)}
+{('Bava Kamma', '40b', 10), ('Ketubot', '82a', 0), ('Gittin', '37a', 30), ('Ketubot', '19a', 30), ('Ketubot', '19a', 40), ('Pesachim', '31a', 20)}
+{('Shevuot', '23a', 0), ('Yoma', '76a', 40), ('Yoma', '76a', 50), ('Shevuot', '22b', 60), ('Shevuot', '23a', 10)}
+{('Bekhorot', '12a', 0), ('Bava Kamma', '78a', 0), ('Chullin', '74b', 40), ('Yoma', '49b', 30), ('Bekhorot', '12a', 20)}
+{('Pesachim', '86a', 30), ('Pesachim', '86a', 40), ('Bekhorot', '40a', 0), ('Menachot', '98a', 10), ('Bekhorot', '39b', 60)}
+{('Bava Metzia', '76b', 0), ('Bava Metzia', '76a', 40), ('Bava Metzia', '76a', 30), ('Gittin', '62b', 40), ('Gittin', '63a', 0)}
+{('Sukkah', '53b', 20), ('Yoma', '77a', 0), ('Kiddushin', '72b', 20), ('Yevamot', '48a', 10), ('Gittin', '38a', 30)}
+{('Pesachim', '104a', 10), ('Avodah Zarah', '48b', 20), ('Avodah Zarah', '32b', 20), ('Avodah Zarah', '50a', 30), ('Chullin', '13b', 30)}
+{('Taanit', '21a', 20), ('Ketubot', '69b', 40), ('Ketubot', '70a', 0), ('Bava Batra', '129a', 30), ('Bava Batra', '129a', 20)}
+{('Rosh Hashanah', '32b', 10), ('Shabbat', '30a', 40), ('Sanhedrin', '107b', 0), ('Shabbat', '30a', 30), ('Moed Katan', '9a', 50)}
+{('Sotah', '12a', 40), ('Sotah', '12a', 30), ('Bava Batra', '120a', 0), ('Bava Batra', '123b', 0), ('Bava Batra', '119b', 40)}
+{('Temurah', '33a', 0), ('Menachot', '101a', 0), ('Bekhorot', '37b', 0), ('Bekhorot', '37b', 10), ('Temurah', '32b', 40)}
+{('Sanhedrin', '27a', 10), ('Bava Kamma', '73a', 0), ('Sanhedrin', '26b', 70), ('Sanhedrin', '27a', 0), ('Bava Kamma', '72b', 10)}
+{('Kiddushin', '59b', 20), ('Kiddushin', '59a', 60), ('Sukkah', '13b', 30), ('Gittin', '32a', 0), ('Kiddushin', '59b', 30)}
+{('Berakhot', '4a', 0), ('Sanhedrin', '16b', 10), ('Shevuot', '15a', 0), ('Sanhedrin', '16b', 0), ('Shevuot', '14b', 40)}
+{('Nazir', '27b', 10), ('Keritot', '27b', 10), ('Nazir', '27b', 20), ('Keritot', '27b', 0), ('Nazir', '28a', 0)}
+{('Shevuot', '24b', 10), ('Yevamot', '34a', 0), ('Keritot', '13b', 60), ('Shabbat', '102a', 50), ('Shabbat', '102a', 40)}
+{('Yevamot', '50a', 20), ('Yevamot', '51b', 20), ('Yevamot', '50b', 10), ('Yevamot', '53a', 20), ('Yevamot', '96b', 0)}
+{('Shabbat', '138a', 50), ('Eruvin', '102b', 0), ('Shabbat', '138a', 40), ('Eruvin', '102a', 50), ('Shabbat', '138b', 0)}
+{('Temurah', '30b', 60), ('Temurah', '30b', 70), ('Pesachim', '90a', 20), ('Pesachim', '90a', 30), ('Avodah Zarah', '24a', 20)}
+{('Yevamot', '32a', 10), ('Yevamot', '111b', 40), ('Yevamot', '30a', 20), ('Yevamot', '27b', 10), ('Yevamot', '30a', 10)}
+{('Keritot', '3b', 70), ('Sanhedrin', '65a', 20), ('Sanhedrin', '65a', 30), ('Sanhedrin', '63a', 20), ('Keritot', '3b', 60)}
+{('Berakhot', '52b', 50), ('Pesachim', '102b', 10), ('Pesachim', '105b', 0), ('Berakhot', '52a', 0), ('Pesachim', '103a', 20)}
+{('Chullin', '55b', 80), ('Chullin', '122b', 20), ('Chullin', '122b', 10), ('Zevachim', '28a', 30), ('Chullin', '55b', 70)}
+{('Megillah', '3a', 50), ('Eruvin', '63b', 0), ('Sanhedrin', '44b', 0), ('Megillah', '3a', 60), ('Sanhedrin', '44a', 70)}
+{('Taanit', '30b', 0), ('Taanit', '30b', 10), ('Bava Batra', '121a', 20), ('Berakhot', '48b', 0), ('Bava Batra', '121b', 0)}
+{('Sanhedrin', '105b', 60), ('Sanhedrin', '106a', 0), ('Sanhedrin', '105b', 50), ('Taanit', '20a', 40), ('Sotah', '11a', 40)}
+{('Menachot', '43b', 40), ('Sotah', '17a', 20), ('Chullin', '89a', 0), ('Sotah', '17a', 30), ('Chullin', '88b', 30)}
+{('Sukkah', '22a', 30), ('Eruvin', '14a', 10), ('Eruvin', '9a', 0), ('Sukkah', '22b', 0), ('Sukkah', '18a', 10)}
+{('Zevachim', '101a', 40), ('Zevachim', '101a', 60), ('Pesachim', '82a', 40), ('Zevachim', '101a', 30), ('Zevachim', '101a', 20)}
+{('Arakhin', '11a', 0), ('Sukkah', '53b', 40), ('Arakhin', '10a', 20), ('Sukkah', '51a', 0), ('Arakhin', '10a', 10)}
+{('Bekhorot', '58b', 30), ('Gittin', '30b', 30), ('Menachot', '54b', 20), ('Beitzah', '13b', 0), ('Bekhorot', '58b', 40)}
+{('Kiddushin', '80a', 10), ('Niddah', '18b', 10), ('Niddah', '21a', 0), ('Kiddushin', '80a', 20), ('Chullin', '86a', 50)}
+{('Sanhedrin', '32a', 30), ('Sanhedrin', '3a', 0), ('Sanhedrin', '2b', 10), ('Yevamot', '122b', 40), ('Sanhedrin', '2b', 20)}
+{('Shabbat', '70a', 30), ('Shabbat', '70b', 0), ('Sanhedrin', '62a', 20), ('Shabbat', '103b', 50), ('Shabbat', '103b', 40)}
+{('Berakhot', '36a', 50), ('Eruvin', '28b', 60), ('Berakhot', '36a', 40), ('Berakhot', '36a', 30), ('Eruvin', '28b', 50)}
+{('Bava Batra', '86b', 10), ('Bava Batra', '106b', 20), ('Bava Metzia', '102b', 20), ('Bava Batra', '105a', 10), ('Bava Batra', '106b', 30)}
+{('Zevachim', '40b', 0), ('Menachot', '7b', 40), ('Menachot', '7b', 30), ('Zevachim', '93b', 10), ('Zevachim', '93b', 20)}
+{('Yoma', '53b', 20), ('Taanit', '24b', 30), ('Berakhot', '17b', 0), ('Taanit', '24b', 40), ('Chullin', '86a', 10)}
+{('Sanhedrin', '87b', 10), ('Yevamot', '83a', 20), ('Rosh Hashanah', '10b', 0), ('Yevamot', '83a', 10), ('Niddah', '36b', 0)}
+{('Avodah Zarah', '60b', 20), ('Sukkah', '2a', 10), ('Eruvin', '3a', 20), ('Avodah Zarah', '31a', 10), ('Avodah Zarah', '49b', 10)}
+{('Sotah', '7a', 30), ('Avodah Zarah', '25b', 0), ('Sotah', '7a', 10), ('Kiddushin', '80b', 40), ('Sotah', '25a', 60)}
+{('Bava Batra', '109b', 0), ('Berakhot', '10a', 90), ('Bava Batra', '147a', 20), ('Bava Metzia', '27a', 30), ('Bava Batra', '147a', 10)}
+{('Yevamot', '67b', 0), ('Gittin', '33b', 40), ('Kiddushin', '42a', 30), ('Ketubot', '100a', 20), ('Gittin', '34a', 0)}
+{('Berakhot', '55a', 0), ('Menachot', '97a', 10), ('Bava Kamma', '93a', 0), ('Chagigah', '27a', 0), ('Rosh Hashanah', '16b', 10)}
+{('Zevachim', '48b', 50), ('Menachot', '56a', 10), ('Menachot', '56a', 20), ('Kiddushin', '36b', 0), ('Zevachim', '48b', 40)}
+{('Bekhorot', '53b', 10), ('Bava Batra', '123b', 20), ('Zevachim', '114a', 0), ('Bava Kamma', '12b', 0), ('Bava Batra', '123b', 30)}
+{('Sanhedrin', '22b', 50), ('Zevachim', '19b', 0), ('Taanit', '17b', 10), ('Yoma', '30b', 0), ('Sanhedrin', '83b', 30)}
+{('Yevamot', '88b', 0), ('Yevamot', '88b', 10), ('Bava Batra', '31b', 10), ('Ketubot', '22b', 10), ('Ketubot', '22b', 0)}
+{('Avodah Zarah', '70b', 40), ('Niddah', '13a', 60), ('Shabbat', '41a', 10), ('Shabbat', '41a', 0), ('Ketubot', '27a', 30)}
+{('Menachot', '72a', 40), ('Eruvin', '91a', 20), ('Shabbat', '147b', 10), ('Eruvin', '91a', 10), ('Eruvin', '74a', 10)}
+{('Bava Kamma', '43b', 20), ('Bava Kamma', '10a', 10), ('Bava Kamma', '9b', 20), ('Bava Kamma', '10a', 0), ('Bava Kamma', '9b', 30)}
+{('Megillah', '14a', 60), ('Keritot', '6a', 10), ('Megillah', '14a', 70), ('Berakhot', '10a', 60), ('Horayot', '12a', 60)}
+{('Taanit', '9a', 10), ('Makkot', '23b', 30), ('Taanit', '7b', 10), ('Shabbat', '32b', 40), ('Shabbat', '32b', 50)}
+{('Sanhedrin', '110a', 30), ('Nedarim', '39b', 20), ('Sanhedrin', '110a', 40), ('Sanhedrin', '110a', 50), ('Pesachim', '119a', 10)}
+{('Meilah', '12b', 20), ('Temurah', '31b', 60), ('Bava Batra', '79a', 10), ('Temurah', '31b', 50), ('Meilah', '13a', 0)}
+{('Chullin', '66b', 30), ('Zevachim', '44a', 30), ('Chullin', '66b', 40), ('Bava Kamma', '64b', 0), ('Shevuot', '5a', 0)}
+{('Pesachim', '24a', 10), ('Pesachim', '23b', 40), ('Pesachim', '24a', 20), ('Makkot', '18a', 0), ('Pesachim', '24a', 30)}
+{('Sotah', '45b', 40), ('Sotah', '5b', 10), ('Sanhedrin', '88a', 20), ('Sotah', '45b', 30), ('Sotah', '2a', 0)}
+{('Yevamot', '42b', 10), ('Eruvin', '47a', 40), ('Eruvin', '47a', 50), ('Ketubot', '60b', 40), ('Yevamot', '41a', 40)}
+{('Sanhedrin', '107b', 90), ('Sanhedrin', '107b', 80), ('Sotah', '47a', 20), ('Sanhedrin', '107b', 20), ('Bava Metzia', '87a', 40)}
+{('Ketubot', '41b', 30), ('Bava Kamma', '46b', 10), ('Bava Kamma', '15b', 30), ('Bava Batra', '93a', 0), ('Bava Kamma', '46a', 10)}
+{('Makkot', '21a', 20), ('Nazir', '58b', 0), ('Nazir', '58b', 10), ('Nazir', '40b', 10), ('Kiddushin', '35b', 20)}
+{('Berakhot', '33b', 40), ('Megillah', '25a', 10), ('Megillah', '25a', 0), ('Berakhot', '33b', 30), ('Pesachim', '52b', 20)}
+{('Pesachim', '12b', 0), ('Pesachim', '11b', 10), ('Pesachim', '4b', 20), ('Pesachim', '21a', 10), ('Sanhedrin', '40b', 20)}
+{('Yevamot', '74a', 30), ('Kiddushin', '4a', 30), ('Kiddushin', '4a', 20), ('Zevachim', '82b', 20), ('Yevamot', '70a', 40)}
+{('Bava Batra', '51a', 40), ('Bava Batra', '51a', 30), ('Kiddushin', '26a', 20), ('Bava Batra', '51a', 20), ('Bava Batra', '51b', 0)}
+{('Beitzah', '28b', 50), ('Ketubot', '61b', 40), ('Makkot', '21a', 40), ('Niddah', '52a', 40), ('Avodah Zarah', '29a', 60)}
+{('Makkot', '13a', 30), ('Ketubot', '11a', 20), ('Ketubot', '31b', 40), ('Ketubot', '29a', 0), ('Keritot', '2a', 0)}
+{('Bava Batra', '128a', 0), ('Sanhedrin', '24a', 80), ('Sanhedrin', '23a', 70), ('Sanhedrin', '24a', 50), ('Sanhedrin', '24a', 60)}
+{('Yoma', '42a', 20), ('Zevachim', '14b', 10), ('Zevachim', '68b', 10), ('Zevachim', '68b', 0), ('Menachot', '6b', 30)}
+{('Meilah', '20b', 0), ('Nedarim', '54b', 10), ('Meilah', '20b', 10), ('Nedarim', '54b', 0), ('Meilah', '20b', 20)}
+{('Yevamot', '44a', 20), ('Yevamot', '31b', 30), ('Yevamot', '31b', 20), ('Yevamot', '18b', 40), ('Yevamot', '12a', 40)}
+{('Eruvin', '81b', 20), ('Chullin', '83a', 60), ('Eruvin', '81b', 10), ('Chullin', '83a', 50), ('Chullin', '83a', 40)}
+{('Zevachim', '32b', 10), ('Horayot', '5b', 60), ('Yevamot', '7b', 10), ('Pesachim', '92a', 40), ('Pesachim', '92a', 30)}
+{('Menachot', '42b', 0), ('Sanhedrin', '48b', 10), ('Menachot', '42b', 20), ('Menachot', '36a', 0), ('Gittin', '45b', 20)}
+{('Bekhorot', '46a', 10), ('Keritot', '7b', 20), ('Bekhorot', '47a', 10), ('Niddah', '23b', 0), ('Yevamot', '62a', 30)}
+{('Shabbat', '113a', 10), ('Pesachim', '11a', 40), ('Bekhorot', '33b', 10), ('Menachot', '56a', 30), ('Menachot', '56a', 40)}
+{('Sanhedrin', '50a', 0), ('Sanhedrin', '50a', 40), ('Sanhedrin', '50b', 0), ('Sanhedrin', '50a', 30), ('Sanhedrin', '50b', 10)}
+{('Nazir', '43b', 0), ('Yevamot', '89b', 30), ('Gittin', '36b', 0), ('Yevamot', '89b', 40), ('Gittin', '36b', 10)}
+{('Yevamot', '121b', 20), ('Yevamot', '121b', 30), ('Yevamot', '121b', 40), ('Bava Kamma', '50a', 50), ('Bava Kamma', '50a', 60)}
+{('Pesachim', '120b', 30), ('Zevachim', '37a', 10), ('Pesachim', '120b', 20), ('Pesachim', '85a', 10), ('Pesachim', '85a', 20)}
+{('Arakhin', '16a', 70), ('Yoma', '44a', 10), ('Arakhin', '16a', 60), ('Zevachim', '88b', 50), ('Zevachim', '88b', 40)}
+{('Rosh Hashanah', '14b', 20), ('Menachot', '30b', 40), ('Rosh Hashanah', '12b', 0), ('Rosh Hashanah', '13b', 10), ('Rosh Hashanah', '12a', 20)}
+{('Bava Batra', '38a', 20), ('Ketubot', '17b', 40), ('Ketubot', '17b', 50), ('Bava Batra', '38a', 10), ('Bava Batra', '39a', 20)}
+{('Zevachim', '4b', 10), ('Rosh Hashanah', '6a', 30), ('Chullin', '139a', 30), ('Megillah', '8a', 10), ('Megillah', '8a', 0)}
+{('Sotah', '8b', 50), ('Sanhedrin', '37b', 20), ('Sotah', '8b', 40), ('Ketubot', '30b', 0), ('Ketubot', '30a', 20)}
+{('Megillah', '15b', 20), ('Sanhedrin', '111b', 0), ('Megillah', '15b', 0), ('Sanhedrin', '111b', 10), ('Megillah', '15b', 10)}
+{('Ketubot', '86b', 30), ('Ketubot', '86b', 40), ('Ketubot', '87a', 10), ('Ketubot', '88b', 10), ('Ketubot', '88b', 20)}
+{('Ketubot', '96a', 0), ('Ketubot', '4b', 10), ('Ketubot', '4b', 0), ('Moed Katan', '20b', 50), ('Ketubot', '61a', 40)}
+{('Pesachim', '78b', 10), ('Zevachim', '23a', 0), ('Zevachim', '22b', 40), ('Zevachim', '22b', 50), ('Pesachim', '61a', 20)}
+{('Shevuot', '27a', 10), ('Nedarim', '16b', 20), ('Shevuot', '27a', 0), ('Shevuot', '25b', 0), ('Bava Kamma', '91b', 0)}
+{('Menachot', '46b', 40), ('Menachot', '21b', 40), ('Menachot', '21b', 30), ('Arakhin', '4a', 20), ('Menachot', '46b', 30)}
+{('Sanhedrin', '81a', 40), ('Keritot', '14b', 20), ('Sanhedrin', '81a', 50), ('Yevamot', '32a', 30), ('Yevamot', '32a', 20)}
+{('Chullin', '141b', 60), ('Bava Metzia', '102a', 40), ('Chullin', '141b', 40), ('Chullin', '141b', 50), ('Bava Metzia', '102a', 50)}
+{('Chullin', '4a', 20), ('Kiddushin', '76a', 0), ('Chullin', '4a', 30), ('Kiddushin', '76a', 10), ('Gittin', '10a', 10)}
+{('Pesachim', '56a', 50), ('Pesachim', '56a', 40), ('Menachot', '71a', 50), ('Pesachim', '55b', 70), ('Menachot', '71a', 40)}
+{('Shabbat', '130a', 20), ('Chullin', '116a', 30), ('Shabbat', '130a', 30), ('Chullin', '113a', 40), ('Yevamot', '14a', 20)}
+{('Kiddushin', '64a', 10), ('Kiddushin', '68a', 20), ('Kiddushin', '68a', 10), ('Ketubot', '29b', 30), ('Yevamot', '23a', 0)}
+{('Ketubot', '95b', 0), ('Bava Batra', '137a', 0), ('Sotah', '21b', 30), ('Ketubot', '95b', 10), ('Bava Batra', '136b', 30)}
+{('Ketubot', '39a', 0), ('Yevamot', '12b', 10), ('Niddah', '45a', 30), ('Yevamot', '100b', 40), ('Yevamot', '12b', 0)}
+{('Sanhedrin', '6a', 0), ('Bava Kamma', '117b', 0), ('Bava Kamma', '100a', 10), ('Sanhedrin', '33a', 0), ('Bekhorot', '28b', 20)}
+{('Shabbat', '71a', 20), ('Bava Metzia', '3b', 10), ('Keritot', '11b', 20), ('Yevamot', '87b', 50), ('Yevamot', '87b', 60)}
+{('Shabbat', '101a', 30), ('Eruvin', '16b', 40), ('Eruvin', '12a', 50), ('Eruvin', '48a', 10), ('Eruvin', '86b', 0)}
+{('Eruvin', '82b', 20), ('Pesachim', '88a', 30), ('Eruvin', '82b', 30), ('Pesachim', '88a', 40), ('Ketubot', '64b', 20)}
+{('Pesachim', '63b', 20), ('Shevuot', '21a', 30), ('Shevuot', '3b', 10), ('Makkot', '15b', 10), ('Temurah', '3b', 10)}
+{('Menachot', '94a', 10), ('Sotah', '38a', 0), ('Tamid', '33b', 10), ('Tamid', '33b', 0), ('Sotah', '37b', 30)}
+{('Pesachim', '16a', 10), ('Pesachim', '16a', 0), ('Nedarim', '19a', 10), ('Avodah Zarah', '37b', 0), ('Pesachim', '16a', 20)}
+{('Meilah', '14a', 20), ('Meilah', '14b', 0), ('Shevuot', '10b', 20), ('Keritot', '6a', 70), ('Keritot', '6a', 60)}
+{('Pesachim', '112a', 0), ('Pesachim', '112a', 10), ('Gittin', '70a', 0), ('Avodah Zarah', '12b', 0), ('Avodah Zarah', '12b', 10)}
+{('Pesachim', '62a', 10), ('Pesachim', '62a', 0), ('Pesachim', '46b', 10), ('Beitzah', '21a', 20), ('Beitzah', '21a', 30)}
+{('Menachot', '36b', 40), ('Yoma', '7b', 20), ('Yoma', '8a', 0), ('Shabbat', '12a', 10), ('Menachot', '36b', 30)}
+{('Avodah Zarah', '13a', 30), ('Eruvin', '47a', 60), ('Moed Katan', '10b', 40), ('Avodah Zarah', '13a', 20), ('Eruvin', '47a', 70)}
+{('Yevamot', '60b', 40), ('Yevamot', '60b', 50), ('Gittin', '39a', 60), ('Eruvin', '46a', 0), ('Gittin', '39b', 10)}
+{('Shabbat', '5b', 10), ('Shabbat', '100a', 0), ('Shabbat', '99b', 60), ('Eruvin', '71b', 0)}
+{('Berakhot', '7b', 60), ('Berakhot', '7b', 50), ('Berakhot', '7b', 40), ('Megillah', '6b', 10)}
+{('Megillah', '26a', 30), ('Yoma', '12a', 10), ('Zevachim', '53b', 30), ('Zevachim', '118b', 30)}
+{('Bava Metzia', '22b', 0), ('Kiddushin', '78b', 50), ('Kiddushin', '59b', 0), ('Kiddushin', '79a', 0)}
+{('Gittin', '42b', 30), ('Kiddushin', '24b', 10), ('Gittin', '42b', 20), ('Kiddushin', '24b', 20)}
+{('Avodah Zarah', '13a', 50), ('Bekhorot', '53a', 20), ('Yoma', '66a', 10), ('Yoma', '66a', 0)}
+{('Shabbat', '22a', 40), ('Pesachim', '101a', 20), ('Menachot', '41b', 20), ('Shabbat', '40a', 30)}
+{('Shabbat', '110b', 40), ('Shabbat', '111a', 0), ('Menachot', '56b', 0), ('Bekhorot', '33b', 40)}
+{('Ketubot', '27b', 0), ('Bava Metzia', '81b', 10), ('Ketubot', '27b', 10), ('Bekhorot', '36a', 20)}
+{('Bava Batra', '174b', 50), ('Shevuot', '42b', 20), ('Arakhin', '23a', 0), ('Bava Batra', '173b', 0)}
+{('Zevachim', '86b', 0), ('Yoma', '20a', 0), ('Yoma', '20a', 10), ('Zevachim', '86b', 10)}
+{('Yevamot', '98a', 30), ('Bekhorot', '38b', 20), ('Kiddushin', '70b', 30), ('Yevamot', '77a', 0)}
+{('Sanhedrin', '34a', 10), ('Sanhedrin', '40a', 30), ('Sanhedrin', '29a', 30), ('Sanhedrin', '37b', 40)}
+{('Menachot', '73a', 20), ('Zevachim', '44b', 20), ('Menachot', '73a', 30), ('Zevachim', '44b', 10)}
+{('Chullin', '31a', 0), ('Beitzah', '7b', 60), ('Chullin', '83b', 10), ('Beitzah', '7b', 50)}
+{('Menachot', '15b', 50), ('Zevachim', '44a', 40), ('Zevachim', '44b', 0), ('Menachot', '15b', 40)}
+{('Berakhot', '61a', 40), ('Berakhot', '61a', 50), ('Eruvin', '18b', 0), ('Eruvin', '18b', 10)}
+{('Zevachim', '25b', 40), ('Kiddushin', '25b', 0), ('Bekhorot', '39b', 10), ('Bekhorot', '39b', 20)}
+{('Eruvin', '95a', 10), ('Sukkah', '18a', 40), ('Eruvin', '95a', 0), ('Sukkah', '19a', 10)}
+{('Menachot', '77a', 20), ('Bava Batra', '90a', 20), ('Bekhorot', '5a', 50), ('Bava Batra', '90b', 0)}
+{('Bava Kamma', '114b', 60), ('Bava Kamma', '81b', 70), ('Bava Kamma', '30a', 40), ('Bava Metzia', '118b', 10)}
+{('Shabbat', '136b', 0), ('Arakhin', '4b', 10), ('Niddah', '28b', 30), ('Bekhorot', '42a', 0)}
+{('Pesachim', '73b', 10), ('Chullin', '30a', 0), ('Pesachim', '64a', 20), ('Chullin', '30a', 10)}
+{('Yevamot', '100b', 50), ('Niddah', '52a', 20), ('Ketubot', '74a', 30), ('Ketubot', '51b', 30)}
+{('Yevamot', '46a', 60), ('Menachot', '68b', 70), ('Menachot', '84a', 30), ('Menachot', '82a', 30)}
+{('Yoma', '22a', 10), ('Yoma', '27b', 10), ('Yoma', '27b', 0), ('Yoma', '27b', 30)}
+{('Bava Kamma', '71b', 0), ('Ketubot', '34a', 30), ('Ketubot', '34a', 20), ('Arakhin', '20a', 80)}
+{('Nazir', '65a', 0), ('Bava Batra', '101b', 20), ('Bava Batra', '101b', 10), ('Nazir', '64b', 20)}
+{('Shabbat', '117b', 20), ('Shabbat', '124a', 50), ('Beitzah', '37a', 20), ('Shabbat', '124a', 60)}
+{('Beitzah', '24a', 0), ('Shabbat', '106b', 10), ('Shabbat', '106b', 0), ('Beitzah', '24a', 10)}
+{('Meilah', '19b', 20), ('Menachot', '20b', 10), ('Menachot', '20b', 0), ('Menachot', '106b', 40)}
+{('Yevamot', '94b', 20), ('Sanhedrin', '76b', 0), ('Yevamot', '62b', 60), ('Sanhedrin', '76b', 10)}
+{('Zevachim', '26a', 60), ('Zevachim', '35b', 40), ('Zevachim', '32a', 0), ('Zevachim', '26b', 10)}
+{('Taanit', '28b', 30), ('Sanhedrin', '104b', 10), ('Sanhedrin', '96a', 80), ('Sotah', '35a', 30)}
+{('Pesachim', '64b', 70), ('Zevachim', '37a', 20), ('Zevachim', '37a', 30), ('Zevachim', '56b', 40)}
+{('Ketubot', '102b', 30), ('Kiddushin', '48a', 40), ('Gittin', '51a', 10), ('Ketubot', '102b', 40)}
+{('Ketubot', '15b', 30), ('Ketubot', '16b', 0), ('Ketubot', '16a', 60), ('Bava Batra', '92b', 10)}
+{('Bava Batra', '143a', 20), ('Kiddushin', '51a', 40), ('Kiddushin', '50b', 40), ('Kiddushin', '51b', 10)}
+{('Eruvin', '100b', 30), ('Bava Metzia', '25a', 10), ('Bava Batra', '7b', 30), ('Bava Batra', '7b', 20)}
+{('Shabbat', '11a', 30), ('Taanit', '12b', 20), ('Taanit', '12b', 30), ('Shabbat', '11a', 20)}
+{('Shabbat', '87a', 10), ('Yevamot', '62a', 10), ('Shabbat', '87a', 20), ('Yevamot', '62a', 0)}
+{('Bava Metzia', '82b', 20), ('Bava Metzia', '82b', 30), ('Bava Metzia', '83a', 0), ('Bava Metzia', '83a', 10)}
+{('Moed Katan', '18b', 10), ('Ketubot', '102b', 0), ('Ketubot', '102a', 0), ('Kiddushin', '9b', 20)}
+{('Zevachim', '34b', 40), ('Menachot', '59b', 40), ('Menachot', '26b', 0), ('Menachot', '59b', 30)}
+{('Kiddushin', '35a', 10), ('Kiddushin', '34a', 0), ('Kiddushin', '29a', 10), ('Eruvin', '27a', 0)}
+{('Shabbat', '40b', 40), ('Shabbat', '40b', 50), ('Avodah Zarah', '44b', 10), ('Shabbat', '151a', 50)}
+{('Eruvin', '91a', 30), ('Eruvin', '46b', 30), ('Eruvin', '71a', 50), ('Eruvin', '45b', 0)}
+{('Shevuot', '26a', 10), ('Shevuot', '25a', 40), ('Shevuot', '25a', 10), ('Shevuot', '26a', 0)}
+{('Megillah', '14a', 20), ('Arakhin', '10b', 20), ('Megillah', '14a', 10), ('Arakhin', '10b', 10)}
+{('Pesachim', '88a', 20), ('Bava Metzia', '92b', 30), ('Eruvin', '82b', 10), ('Bava Metzia', '93a', 10)}
+{('Menachot', '55b', 10), ('Chullin', '88b', 10), ('Niddah', '33a', 20), ('Ketubot', '63b', 20)}
+{('Keritot', '23a', 0), ('Keritot', '26b', 20), ('Keritot', '22b', 40), ('Keritot', '23a', 10)}
+{('Horayot', '9a', 30), ('Horayot', '8a', 20), ('Yevamot', '9a', 0), ('Horayot', '8a', 10)}
+{('Yevamot', '108a', 20), ('Shabbat', '136a', 20), ('Bava Metzia', '21b', 30), ('Bava Metzia', '24a', 20)}
+{('Zevachim', '65b', 30), ('Chullin', '28a', 40), ('Chullin', '21a', 0), ('Chullin', '21a', 10)}
+{('Yevamot', '58a', 20), ('Kiddushin', '27b', 20), ('Sotah', '28a', 0), ('Shevuot', '5a', 20)}
+{('Sanhedrin', '107b', 10), ('Sanhedrin', '107b', 30), ('Sotah', '47a', 30), ('Sotah', '47a', 40)}
+{('Chullin', '131b', 20), ('Bava Batra', '81b', 10), ('Chullin', '131b', 10), ('Ketubot', '26a', 10)}
+{('Eruvin', '13a', 20), ('Sotah', '20a', 30), ('Eruvin', '13a', 10), ('Sotah', '20a', 20)}
+{('Menachot', '69a', 10), ('Menachot', '69a', 20), ('Bava Metzia', '56b', 50), ('Bava Metzia', '56b', 40)}
+{('Yevamot', '16b', 0), ('Niddah', '56b', 20), ('Niddah', '56b', 30), ('Bava Kamma', '38b', 20)}
+{('Arakhin', '24a', 20), ('Ketubot', '54a', 60), ('Bava Kamma', '102b', 10), ('Ketubot', '54a', 70)}
+{('Sukkah', '4b', 30), ('Beitzah', '23a', 30), ('Megillah', '7a', 10), ('Shabbat', '54b', 50)}
+{('Keritot', '22a', 60), ('Pesachim', '65a', 40), ('Zevachim', '35a', 10), ('Pesachim', '65a', 50)}
+{('Avodah Zarah', '32b', 0), ('Beitzah', '24a', 30), ('Shabbat', '113a', 0), ('Shabbat', '106b', 30)}
+{('Megillah', '9b', 30), ('Yoma', '12b', 40), ('Megillah', '9b', 20), ('Horayot', '12b', 0)}
+{('Sukkah', '54a', 0), ('Arakhin', '10a', 30), ('Sukkah', '53b', 50), ('Sukkah', '53b', 60)}
+{('Bava Batra', '136b', 20), ('Bava Batra', '129b', 10), ('Bava Batra', '129b', 0), ('Bava Batra', '133a', 30)}
+{('Megillah', '29a', 10), ('Ketubot', '17a', 40), ('Ketubot', '17a', 50), ('Megillah', '29a', 0)}
+{('Pesachim', '73a', 30), ('Shevuot', '12a', 30), ('Temurah', '20b', 10), ('Shevuot', '12a', 20)}
+{('Chagigah', '16a', 30), ('Moed Katan', '17a', 40), ('Kiddushin', '40a', 70), ('Chagigah', '16a', 40)}
+{('Bava Batra', '30a', 10), ('Bava Batra', '165a', 0), ('Bava Batra', '159b', 50), ('Kiddushin', '49a', 0)}
+{('Yevamot', '99b', 10), ('Ketubot', '28b', 10), ('Yevamot', '99b', 20), ('Ketubot', '28b', 0)}
+{('Eruvin', '100a', 50), ('Zevachim', '77b', 20), ('Zevachim', '80a', 10), ('Eruvin', '100a', 60)}
+{('Ketubot', '43a', 20), ('Ketubot', '43a', 30), ('Bava Batra', '140b', 0), ('Ketubot', '58b', 20)}
+{('Taanit', '17b', 40), ('Menachot', '65a', 40), ('Rosh Hashanah', '19a', 0), ('Taanit', '17b', 30)}
+{('Chullin', '90a', 10), ('Zevachim', '85b', 60), ('Chullin', '90a', 20), ('Zevachim', '86a', 0)}
+{('Yoma', '12b', 30), ('Yoma', '23b', 40), ('Yoma', '12b', 20), ('Yoma', '23b', 30)}
+{('Sanhedrin', '53a', 20), ('Sanhedrin', '53a', 30), ('Yevamot', '20a', 10), ('Sanhedrin', '71a', 20)}
+{('Berakhot', '28a', 80), ('Berakhot', '27a', 0), ('Eruvin', '28b', 0), ('Berakhot', '28a', 90)}
+{('Sukkah', '45b', 10), ('Sukkah', '45b', 20), ('Sanhedrin', '97b', 30), ('Sanhedrin', '97b', 40)}
+{('Tamid', '30a', 10), ('Yoma', '25a', 30), ('Menachot', '100a', 20), ('Yoma', '28a', 30)}
+{('Menachot', '98a', 20), ('Zevachim', '102a', 40), ('Menachot', '98a', 30), ('Sanhedrin', '100a', 50)}
+{('Shabbat', '17b', 10), ('Shabbat', '17b', 20), ('Avodah Zarah', '36b', 0), ('Avodah Zarah', '36b', 10)}
+{('Bava Batra', '146a', 10), ('Avodah Zarah', '74b', 10), ('Avodah Zarah', '74b', 0), ('Shabbat', '153a', 40)}
+{('Menachot', '26a', 40), ('Zevachim', '25a', 0), ('Menachot', '10b', 10), ('Zevachim', '11a', 30)}
+{('Sanhedrin', '86b', 40), ('Sanhedrin', '88b', 0), ('Sotah', '25a', 50), ('Sanhedrin', '88a', 60)}
+{('Yoma', '32b', 50), ('Chullin', '29b', 0), ('Chullin', '29a', 60), ('Yoma', '32b', 60)}
+{('Moed Katan', '27b', 0), ('Ketubot', '8b', 60), ('Ketubot', '8b', 50), ('Niddah', '71a', 20)}
+{('Shabbat', '22a', 0), ('Chagigah', '3a', 30), ('Sukkah', '49b', 20), ('Chagigah', '3a', 20)}
+{('Chullin', '76a', 20), ('Chullin', '55b', 10), ('Chullin', '48b', 30), ('Bava Batra', '130b', 20)}
+{('Megillah', '11a', 10), ('Kiddushin', '72a', 60), ('Avodah Zarah', '2b', 40), ('Taanit', '7b', 30)}
+{('Arakhin', '3a', 10), ('Niddah', '32b', 10), ('Niddah', '44a', 10), ('Niddah', '32b', 20)}
+{('Kiddushin', '31a', 50), ('Avodah Zarah', '24a', 0), ('Kiddushin', '31a', 40), ('Bava Kamma', '87a', 0)}
+{('Shevuot', '16b', 20), ('Eruvin', '2a', 30), ('Zevachim', '55b', 10), ('Yoma', '62b', 40)}
+{('Horayot', '11b', 10), ('Sanhedrin', '5a', 20), ('Horayot', '12a', 80), ('Megillah', '9b', 10)}
+{('Nazir', '37a', 10), ('Pesachim', '44a', 40), ('Kiddushin', '38a', 20), ('Pesachim', '44b', 0)}
+{('Avodah Zarah', '36b', 30), ('Avodah Zarah', '44a', 60), ('Kiddushin', '80b', 10), ('Sanhedrin', '21b', 0)}
+{('Taanit', '17b', 0), ('Eruvin', '64b', 10), ('Sanhedrin', '22b', 40), ('Eruvin', '64b', 40)}
+{('Shabbat', '88a', 20), ('Avodah Zarah', '3a', 20), ('Shabbat', '88a', 30), ('Avodah Zarah', '5a', 40)}
+{('Ketubot', '2b', 20), ('Gittin', '76b', 40), ('Avodah Zarah', '37a', 20), ('Gittin', '72b', 0)}
+{('Rosh Hashanah', '31a', 10), ('Avodah Zarah', '9a', 10), ('Sanhedrin', '97a', 60), ('Avodah Zarah', '9a', 0)}
+{('Shabbat', '119b', 100), ('Chagigah', '14a', 60), ('Chagigah', '14a', 50), ('Shabbat', '119b', 90)}
+{('Chullin', '3b', 10), ('Chullin', '3b', 20), ('Chullin', '2b', 20), ('Chullin', '3b', 0)}
+{('Chullin', '114a', 20), ('Chullin', '114a', 30), ('Kiddushin', '4b', 10), ('Kiddushin', '4b', 20)}
+{('Shabbat', '43a', 40), ('Shabbat', '43b', 0), ('Beitzah', '36a', 40), ('Beitzah', '36a', 50)}
+{('Shabbat', '125b', 40), ('Eruvin', '44a', 20), ('Shabbat', '137b', 30), ('Shabbat', '125a', 50)}
+{('Temurah', '9b', 30), ('Temurah', '9b', 40), ('Temurah', '9a', 60), ('Temurah', '9b', 10)}
+{('Bava Batra', '43a', 10), ('Bava Batra', '44b', 20), ('Bava Batra', '46b', 30), ('Bava Batra', '44a', 10)}
+{('Ketubot', '112a', 20), ('Yoma', '10a', 20), ('Sotah', '34b', 20), ('Sotah', '34b', 30)}
+{('Bekhorot', '12a', 10), ('Chullin', '74b', 30), ('Bekhorot', '12a', 60), ('Bekhorot', '11a', 30)}
+{('Makkot', '3b', 50), ('Eruvin', '29b', 0), ('Shabbat', '48a', 30), ('Makkot', '3b', 40)}
+{('Bava Kamma', '103b', 0), ('Yevamot', '118b', 10), ('Yevamot', '118b', 0), ('Bava Kamma', '103b', 20)}
+{('Sanhedrin', '30b', 30), ('Bava Kamma', '70b', 0), ('Bava Kamma', '70b', 10), ('Bava Batra', '56b', 10)}
+{('Menachot', '81b', 20), ('Menachot', '103a', 10), ('Menachot', '103a', 0), ('Nazir', '9b', 10)}
+{('Shabbat', '134a', 60), ('Shabbat', '134a', 70), ('Chullin', '47b', 10), ('Chullin', '47b', 20)}
+{('Menachot', '10a', 40), ('Zevachim', '24b', 30), ('Menachot', '10a', 30), ('Zevachim', '24b', 20)}
+{('Shabbat', '129a', 10), ('Shabbat', '135a', 10), ('Shabbat', '151b', 20), ('Shabbat', '135a', 30)}
+{('Gittin', '35b', 30), ('Bekhorot', '45b', 80), ('Gittin', '36a', 0), ('Makkot', '16a', 50)}
+{('Nazir', '2a', 10), ('Nedarim', '2b', 20), ('Nedarim', '2b', 10), ('Nazir', '2a', 20)}
+{('Chullin', '84b', 0), ('Berakhot', '61a', 60), ('Bava Metzia', '29b', 80), ('Chullin', '84b', 10)}
+{('Avodah Zarah', '75a', 10), ('Niddah', '65b', 0), ('Avodah Zarah', '75a', 20), ('Niddah', '65a', 30)}
+{('Ketubot', '22a', 0), ('Ketubot', '22a', 10), ('Sanhedrin', '30a', 10), ('Sanhedrin', '30a', 0)}
+{('Moed Katan', '16b', 80), ('Avodah Zarah', '5a', 0), ('Sotah', '3b', 30), ('Avodah Zarah', '5a', 10)}
+{('Ketubot', '47b', 0), ('Ketubot', '55a', 20), ('Ketubot', '56a', 10), ('Ketubot', '56a', 0)}
+{('Menachot', '101b', 20), ('Chullin', '81b', 20), ('Bava Kamma', '76b', 10), ('Shevuot', '11b', 20)}
+{('Yevamot', '18a', 30), ('Yevamot', '18b', 0), ('Yevamot', '41a', 0), ('Megillah', '18b', 20)}
+{('Bava Kamma', '35a', 20), ('Sanhedrin', '79b', 0), ('Ketubot', '35a', 0), ('Ketubot', '38a', 0)}
+{('Kiddushin', '59b', 70), ('Kiddushin', '6b', 0), ('Kiddushin', '6a', 70), ('Gittin', '85b', 0)}
+{('Shabbat', '49a', 10), ('Shabbat', '130a', 40), ('Shabbat', '49a', 20), ('Shabbat', '130a', 50)}
+{('Yevamot', '100a', 40), ('Bekhorot', '46a', 20), ('Sotah', '23a', 20), ('Bekhorot', '47a', 40)}
+{('Arakhin', '27b', 0), ('Arakhin', '27a', 60), ('Bava Metzia', '54a', 0), ('Bava Metzia', '53b', 40)}
+{('Zevachim', '45a', 30), ('Temurah', '2b', 30), ('Zevachim', '45a', 10), ('Temurah', '3a', 30)}
+{('Sanhedrin', '18b', 50), ('Yevamot', '61a', 20), ('Yevamot', '20a', 50), ('Yevamot', '61a', 30)}
+{('Niddah', '6b', 20), ('Menachot', '76a', 50), ('Nedarim', '12b', 10), ('Menachot', '76a', 40)}
+{('Menachot', '89a', 40), ('Yoma', '15a', 0), ('Pesachim', '59a', 0), ('Zevachim', '11b', 60)}
+{('Bava Metzia', '13a', 0), ('Bava Metzia', '17a', 60), ('Bava Metzia', '19a', 10), ('Bava Metzia', '13a', 10)}
+{('Menachot', '100b', 10), ('Beitzah', '20b', 30), ('Beitzah', '20b', 40), ('Pesachim', '47a', 0)}
+{('Yoma', '88a', 10), ('Shabbat', '120b', 40), ('Yoma', '8a', 30), ('Yoma', '88a', 20)}
+{('Bava Batra', '151b', 50), ('Bava Batra', '151b', 20), ('Ketubot', '55b', 0), ('Bava Batra', '152a', 0)}
+{('Menachot', '60b', 0), ('Chullin', '114a', 40), ('Menachot', '60b', 30), ('Menachot', '60b', 20)}
+{('Bava Kamma', '45b', 0), ('Bava Kamma', '57b', 20), ('Bava Metzia', '80b', 30), ('Bava Metzia', '95b', 0)}
+{('Shabbat', '50a', 20), ('Shabbat', '140b', 70), ('Shabbat', '125b', 10), ('Shabbat', '141a', 0)}
+{('Shevuot', '13a', 30), ('Keritot', '7a', 40), ('Shevuot', '13a', 20), ('Keritot', '7a', 50)}
+{('Bava Batra', '157a', 0), ('Bava Batra', '156b', 40), ('Bava Batra', '156b', 30), ('Bava Batra', '156b', 20)}
+{('Gittin', '54a', 10), ('Yevamot', '90a', 10), ('Gittin', '54a', 20), ('Yevamot', '90a', 0)}
+{('Yevamot', '38b', 20), ('Bava Batra', '157a', 10), ('Bava Batra', '159b', 0), ('Bava Batra', '157a', 30)}
+{('Bava Kamma', '52b', 50), ('Bava Kamma', '52b', 40), ('Bava Kamma', '52a', 40), ('Bava Kamma', '52b', 10)}
+{('Gittin', '57b', 100), ('Taanit', '7a', 30), ('Makkot', '10a', 70), ('Berakhot', '63b', 40)}
+{('Yoma', '75a', 10), ('Eruvin', '54a', 20), ('Berakhot', '40a', 60), ('Berakhot', '5a', 40)}
+{('Rosh Hashanah', '17a', 20), ('Shabbat', '15a', 30), ('Avodah Zarah', '8b', 30), ('Pesachim', '118b', 20)}
+{('Yevamot', '47a', 40), ('Bava Batra', '127b', 0), ('Kiddushin', '74a', 10), ('Kiddushin', '78b', 30)}
+{('Menachot', '65a', 50), ('Pesachim', '54a', 70), ('Bava Batra', '115b', 20), ('Bava Batra', '115b', 10)}
+{('Avodah Zarah', '36a', 30), ('Gittin', '68b', 80), ('Sanhedrin', '7b', 0), ('Horayot', '3b', 20)}
+{('Kiddushin', '66b', 40), ('Sanhedrin', '28b', 80), ('Rosh Hashanah', '25b', 0), ('Kiddushin', '66b', 30)}
+{('Berakhot', '29a', 70), ('Berakhot', '33a', 90), ('Berakhot', '26b', 0), ('Berakhot', '33a', 80)}
+{('Temurah', '31b', 20), ('Temurah', '20a', 20), ('Zevachim', '103a', 40), ('Temurah', '31b', 30)}
+{('Zevachim', '9a', 50), ('Zevachim', '7b', 40), ('Menachot', '83b', 0), ('Pesachim', '70b', 20)}
+{('Niddah', '46a', 0), ('Niddah', '45b', 40), ('Kiddushin', '16b', 0), ('Niddah', '46a', 30)}
+{('Chullin', '140a', 20), ('Keritot', '25a', 30), ('Kiddushin', '57a', 50), ('Kiddushin', '57a', 10)}
+{('Shabbat', '64a', 10), ('Bava Kamma', '25b', 30), ('Bava Kamma', '25b', 20), ('Shabbat', '64a', 30)}
+{('Yevamot', '54b', 60), ('Bava Batra', '110b', 20), ('Yevamot', '54b', 50), ('Yevamot', '96a', 10)}
+{('Gittin', '4a', 10), ('Gittin', '6a', 10), ('Gittin', '4a', 20), ('Gittin', '4a', 30)}
+{('Shevuot', '11b', 40), ('Zevachim', '6b', 30), ('Arakhin', '7a', 30), ('Menachot', '79b', 20)}
+{('Avodah Zarah', '5a', 30), ('Sanhedrin', '38b', 30), ('Chagigah', '12a', 0), ('Sanhedrin', '38b', 20)}
+{('Menachot', '74a', 40), ('Menachot', '51b', 30), ('Menachot', '73b', 30), ('Menachot', '51b', 40)}
+{('Menachot', '49b', 10), ('Arakhin', '13a', 20), ('Arakhin', '13b', 0), ('Pesachim', '96a', 20)}
+{('Bava Kamma', '65b', 60), ('Bava Kamma', '93b', 40), ('Bava Kamma', '65b', 50), ('Bava Kamma', '94a', 0)}
+{('Avodah Zarah', '43a', 20), ('Bava Metzia', '24a', 10), ('Avodah Zarah', '52b', 30), ('Bekhorot', '50a', 30)}
+{('Ketubot', '81a', 10), ('Ketubot', '81a', 20), ('Yevamot', '38b', 40), ('Yevamot', '38b', 30)}
+{('Eruvin', '46a', 30), ('Niddah', '9b', 30), ('Niddah', '6a', 30), ('Niddah', '6b', 0)}
+{('Shevuot', '13a', 0), ('Keritot', '7a', 70), ('Keritot', '25b', 20), ('Yoma', '85b', 40)}
+{('Shabbat', '67a', 40), ('Chullin', '77b', 40), ('Chullin', '78a', 0), ('Sotah', '32b', 20)}
+{('Menachot', '80a', 10), ('Menachot', '79b', 30), ('Temurah', '18b', 20), ('Temurah', '18b', 30)}
+{('Sukkah', '3b', 10), ('Eruvin', '85b', 50), ('Eruvin', '73b', 40), ('Eruvin', '85b', 60)}
+{('Eruvin', '92a', 0), ('Eruvin', '87b', 0), ('Eruvin', '76b', 20), ('Eruvin', '76b', 30)}
+{('Bava Kamma', '28b', 40), ('Bava Metzia', '82b', 10), ('Bava Kamma', '99b', 30), ('Bava Kamma', '56a', 20)}
+{('Nedarim', '69b', 0), ('Bava Kamma', '73b', 0), ('Temurah', '25b', 40), ('Zevachim', '30a', 0)}
+{('Moed Katan', '28b', 60), ('Moed Katan', '28b', 50), ('Megillah', '3a', 20), ('Sanhedrin', '93b', 50)}
+{('Niddah', '69a', 30), ('Niddah', '69a', 40), ('Sanhedrin', '109b', 0), ('Sanhedrin', '109a', 70)}
+{('Makkot', '16a', 20), ('Shevuot', '21a', 10), ('Makkot', '17a', 30), ('Chullin', '141a', 30)}
+{('Kiddushin', '3b', 10), ('Ketubot', '47a', 0), ('Ketubot', '40b', 10), ('Ketubot', '46b', 10)}
+{('Berakhot', '35a', 10), ('Arakhin', '11a', 60), ('Arakhin', '12a', 0), ('Berakhot', '35a', 20)}
+{('Bava Batra', '15a', 20), ('Menachot', '30a', 30), ('Bava Batra', '15a', 10), ('Menachot', '30a', 20)}
+{('Arakhin', '16a', 30), ('Zevachim', '88b', 20), ('Zevachim', '88b', 10), ('Arakhin', '16a', 40)}
+{('Temurah', '33b', 20), ('Bekhorot', '15a', 0), ('Bekhorot', '14b', 50), ('Temurah', '33a', 10)}
+{('Avodah Zarah', '42b', 20), ('Avodah Zarah', '42b', 10), ('Meilah', '14a', 10), ('Chullin', '40a', 0)}
+{('Ketubot', '23b', 40), ('Bava Batra', '31b', 30), ('Bava Batra', '31b', 20), ('Ketubot', '26a', 30)}
+{('Shevuot', '42a', 70), ('Gittin', '51b', 0), ('Shevuot', '42a', 60), ('Ketubot', '18a', 10)}
+{('Eruvin', '18a', 50), ('Berakhot', '61a', 20), ('Taanit', '15b', 40), ('Eruvin', '18a', 40)}
+{('Sanhedrin', '29a', 50), ('Shevuot', '43a', 20), ('Shevuot', '38b', 30), ('Sanhedrin', '29a', 60)}
+{('Zevachim', '10b', 0), ('Zevachim', '10a', 30), ('Zevachim', '10a', 40), ('Zevachim', '2a', 0)}
+{('Temurah', '5b', 0), ('Bekhorot', '31b', 10), ('Bava Kamma', '13a', 20), ('Bava Kamma', '13a', 10)}
+{('Chullin', '26b', 10), ('Ketubot', '29a', 10), ('Ketubot', '40b', 30), ('Ketubot', '40b', 40)}
+{('Ketubot', '47a', 40), ('Ketubot', '54b', 20), ('Ketubot', '51a', 30), ('Ketubot', '56b', 20)}
+{('Kiddushin', '10b', 10), ('Kiddushin', '10b', 0), ('Kiddushin', '10b', 30), ('Kiddushin', '10b', 20)}
+{('Horayot', '11b', 30), ('Keritot', '5b', 0), ('Horayot', '11b', 20), ('Keritot', '5a', 90)}
+{('Moed Katan', '3a', 10), ('Moed Katan', '3a', 40), ('Sukkah', '44b', 30), ('Moed Katan', '3a', 20)}
+{('Gittin', '55a', 0), ('Yevamot', '113a', 0), ('Yevamot', '113b', 40), ('Gittin', '55a', 10)}
+{('Gittin', '66a', 20), ('Gittin', '66a', 30), ('Yevamot', '122a', 30), ('Chullin', '39b', 10)}
+{('Kiddushin', '11b', 20), ('Bekhorot', '50b', 20), ('Kiddushin', '11b', 10), ('Bekhorot', '49b', 20)}
+{('Kiddushin', '65a', 70), ('Gittin', '81b', 10), ('Gittin', '81b', 0), ('Kiddushin', '65b', 0)}
+{('Taanit', '29b', 0), ('Eruvin', '40b', 60), ('Eruvin', '40b', 70), ('Megillah', '22b', 10)}
+{('Megillah', '20b', 0), ('Pesachim', '2a', 20), ('Megillah', '20a', 40), ('Berakhot', '2b', 20)}
+{('Makkot', '5b', 80), ('Sanhedrin', '9a', 10), ('Makkot', '6a', 0), ('Sanhedrin', '9a', 0)}
+{('Menachot', '110a', 60), ('Chullin', '13a', 20), ('Zevachim', '47a', 0), ('Zevachim', '46b', 50)}
+{('Bava Batra', '61b', 0), ('Bava Batra', '77b', 20), ('Bava Batra', '78b', 0), ('Bava Batra', '61b', 10)}
+{('Menachot', '68b', 10), ('Rosh Hashanah', '30b', 0), ('Menachot', '68a', 20), ('Sukkah', '41b', 0)}
+{('Pesachim', '28b', 40), ('Pesachim', '120a', 0), ('Pesachim', '28b', 30), ('Pesachim', '120a', 10)}
+{('Sanhedrin', '44b', 20), ('Sanhedrin', '44b', 30), ('Sotah', '5b', 0), ('Sanhedrin', '43b', 0)}
+{('Eruvin', '82a', 10), ('Sanhedrin', '25a', 10), ('Nedarim', '19b', 10), ('Chagigah', '10a', 20)}
+{('Taanit', '26a', 10), ('Taanit', '25b', 30), ('Yoma', '87b', 40), ('Taanit', '26b', 30)}
+{('Bava Batra', '65b', 20), ('Shabbat', '95a', 30), ('Bava Batra', '80b', 0), ('Shabbat', '95a', 20)}
+{('Chullin', '133b', 40), ('Bava Kamma', '110b', 20), ('Bava Kamma', '110b', 30), ('Chullin', '133b', 30)}
+{('Sotah', '48b', 20), ('Sotah', '48b', 10), ('Sanhedrin', '11a', 30), ('Sanhedrin', '11a', 40)}
+{('Bava Metzia', '79b', 20), ('Avodah Zarah', '65a', 50), ('Avodah Zarah', '65a', 60), ('Bava Metzia', '79b', 10)}
+{('Bava Batra', '121a', 10), ('Taanit', '26a', 0), ('Taanit', '29b', 40), ('Taanit', '30a', 60)}
+{('Menachot', '59a', 40), ('Menachot', '20a', 50), ('Menachot', '59a', 30), ('Menachot', '59a', 20)}
+{('Arakhin', '2a', 10), ('Temurah', '2a', 10), ('Menachot', '93a', 10), ('Arakhin', '2a', 20)}
+{('Menachot', '59a', 0), ('Menachot', '60a', 10), ('Menachot', '75b', 0)}
+{('Megillah', '25a', 20), ('Berakhot', '33b', 50), ('Berakhot', '33b', 60)}
+{('Sotah', '44b', 50), ('Sanhedrin', '14a', 60), ('Sotah', '44b', 40)}
+{('Shabbat', '11a', 50), ('Eruvin', '99a', 50), ('Shabbat', '11b', 0)}
+{('Yoma', '65b', 20), ('Rosh Hashanah', '6b', 20), ('Arakhin', '31b', 40)}
+{('Taanit', '17a', 20), ('Moed Katan', '14a', 0), ('Sanhedrin', '22b', 10)}
+{('Arakhin', '17b', 40), ('Bava Batra', '128a', 20), ('Gittin', '23a', 60)}
+{('Moed Katan', '21b', 40), ('Chullin', '50a', 20), ('Moed Katan', '22a', 10)}
+{('Rosh Hashanah', '11a', 30), ('Sotah', '13b', 40), ('Kiddushin', '38a', 10)}
+{('Taanit', '13b', 10), ('Moed Katan', '17b', 40), ('Taanit', '13a', 40)}
+{('Bava Batra', '83b', 20), ('Bava Batra', '77b', 10), ('Bava Metzia', '40b', 20)}
+{('Horayot', '6b', 20), ('Temurah', '16a', 80), ('Temurah', '15a', 0)}
+{('Zevachim', '116a', 20), ('Avodah Zarah', '6a', 10), ('Sanhedrin', '108b', 30)}
+{('Yoma', '63a', 20), ('Zevachim', '112b', 10), ('Sanhedrin', '82b', 60)}
+{('Chullin', '83a', 20), ('Eruvin', '46b', 0), ('Eruvin', '81b', 0)}
+{('Nedarim', '75a', 10), ('Nazir', '12b', 10), ('Nedarim', '72b', 10)}
+{('Shabbat', '76b', 20), ('Eruvin', '29b', 20), ('Eruvin', '29b', 10)}
+{('Arakhin', '8b', 30), ('Arakhin', '9a', 0), ('Arakhin', '9a', 10)}
+{('Niddah', '13a', 10), ('Niddah', '43a', 10), ('Niddah', '13a', 20)}
+{('Temurah', '23a', 30), ('Temurah', '22a', 30), ('Temurah', '24a', 10)}
+{('Bava Batra', '126a', 20), ('Bava Kamma', '41b', 30), ('Bava Kamma', '42a', 0)}
+{('Bava Batra', '164b', 20), ('Nazir', '8b', 20), ('Nazir', '7a', 20)}
+{('Gittin', '38b', 40), ('Gittin', '52a', 20), ('Gittin', '38b', 30)}
+{('Yevamot', '20b', 0), ('Yevamot', '79b', 30), ('Yevamot', '20b', 10)}
+{('Pesachim', '41b', 10), ('Menachot', '58b', 0), ('Pesachim', '41b', 0)}
+{('Yevamot', '7a', 0), ('Sanhedrin', '35b', 0), ('Yevamot', '6b', 30)}
+{('Ketubot', '100a', 30), ('Gittin', '33b', 30), ('Gittin', '33b', 20)}
+{('Pesachim', '10a', 20), ('Niddah', '61a', 10), ('Bekhorot', '25b', 30)}
+{('Ketubot', '33b', 30), ('Kiddushin', '43a', 0), ('Bava Kamma', '71a', 10)}
+{('Bekhorot', '32b', 10), ('Bekhorot', '31b', 50), ('Bekhorot', '32b', 0)}
+{('Bava Kamma', '27a', 40), ('Bava Kamma', '27a', 30), ('Bava Kamma', '115a', 60)}
+{('Gittin', '20a', 0), ('Gittin', '54b', 50), ('Shabbat', '104b', 40)}
+{('Ketubot', '71a', 10), ('Ketubot', '61b', 70), ('Ketubot', '71a', 0)}
+{('Keritot', '19a', 0), ('Shevuot', '19a', 20), ('Keritot', '18b', 70)}
+{('Sanhedrin', '58a', 0), ('Yevamot', '98b', 0), ('Yevamot', '98a', 50)}
+{('Bava Kamma', '28a', 40), ('Bava Batra', '99b', 20), ('Bava Batra', '99b', 30)}
+{('Bava Metzia', '112b', 0), ('Shevuot', '45a', 50), ('Shevuot', '45a', 60)}
+{('Bekhorot', '52b', 40), ('Ketubot', '84a', 30), ('Bekhorot', '52b', 30)}
+{('Gittin', '23a', 40), ('Arakhin', '18a', 0), ('Shevuot', '35a', 20)}
+{('Avodah Zarah', '2a', 20), ('Avodah Zarah', '3a', 40), ('Avodah Zarah', '4b', 60)}
+{('Bava Kamma', '39a', 20), ('Arakhin', '22a', 20), ('Arakhin', '22a', 70)}
+{('Chullin', '56a', 50), ('Chullin', '56a', 40), ('Chullin', '57a', 10)}
+{('Makkot', '3b', 10), ('Makkot', '3a', 30), ('Makkot', '3b', 0)}
+{('Yoma', '87a', 30), ('Bava Batra', '173b', 20), ('Bava Metzia', '115a', 10)}
+{('Zevachim', '89b', 90), ('Menachot', '47b', 0), ('Meilah', '6b', 0)}
+{('Bava Metzia', '19a', 30), ('Bava Batra', '135b', 10), ('Bava Metzia', '19a', 40)}
+{('Eruvin', '100a', 40), ('Rosh Hashanah', '28b', 40), ('Zevachim', '80a', 0)}
+{('Megillah', '18b', 70), ('Menachot', '32b', 10), ('Moed Katan', '25a', 30)}
+{('Taanit', '17a', 10), ('Taanit', '15b', 10), ('Sanhedrin', '22b', 30)}
+{('Zevachim', '96b', 50), ('Chullin', '97a', 10), ('Chullin', '111b', 30)}
+{('Bekhorot', '34a', 10), ('Kiddushin', '18b', 0), ('Kiddushin', '18a', 60)}
+{('Nazir', '32b', 20), ('Nazir', '31a', 40), ('Nazir', '31b', 0)}
+{('Zevachim', '5b', 20), ('Menachot', '4a', 30), ('Nazir', '25b', 10)}
+{('Shabbat', '90a', 20), ('Shabbat', '90a', 30), ('Niddah', '62a', 20)}
+{('Sanhedrin', '4b', 10), ('Zevachim', '38a', 0), ('Zevachim', '52b', 10)}
+{('Moed Katan', '20a', 60), ('Moed Katan', '20b', 0), ('Pesachim', '4a', 0)}
+{('Yoma', '57b', 10), ('Zevachim', '34b', 20), ('Zevachim', '34b', 10)}
+{('Eruvin', '103b', 20), ('Zevachim', '19a', 10), ('Zevachim', '19a', 0)}
+{('Gittin', '5b', 30), ('Bava Metzia', '55b', 10), ('Gittin', '86a', 30)}
+{('Menachot', '26b', 10), ('Menachot', '58a', 60), ('Menachot', '26b', 20)}
+{('Sanhedrin', '89a', 40), ('Sanhedrin', '102b', 50), ('Shabbat', '149b', 10)}
+{('Pesachim', '20b', 20), ('Pesachim', '15a', 0), ('Bekhorot', '33b', 20)}
+{('Tamid', '26a', 0), ('Tamid', '27b', 20), ('Berakhot', '62b', 10)}
+{('Kiddushin', '39b', 40), ('Chullin', '142a', 20), ('Kiddushin', '39b', 30)}
+{('Arakhin', '11b', 50), ('Arakhin', '11b', 40), ('Taanit', '28b', 40)}
+{('Kiddushin', '49a', 10), ('Bava Batra', '165a', 10), ('Bava Batra', '165a', 20)}
+{('Gittin', '74a', 10), ('Ketubot', '97b', 20), ('Bava Batra', '47a', 30)}
+{('Eruvin', '51b', 30), ('Eruvin', '49b', 20), ('Eruvin', '47a', 20)}
+{('Rosh Hashanah', '19b', 50), ('Rosh Hashanah', '20a', 0), ('Rosh Hashanah', '20a', 10)}
+{('Menachot', '53b', 50), ('Arakhin', '15a', 30), ('Sotah', '35a', 20)}
+{('Chagigah', '14a', 20), ('Chagigah', '14a', 10), ('Sanhedrin', '38b', 60)}
+{('Bava Metzia', '112a', 0), ('Bava Kamma', '119a', 20), ('Bava Kamma', '119a', 30)}
+{('Yevamot', '91b', 0), ('Gittin', '79b', 20), ('Yevamot', '87b', 10)}
+{('Sukkah', '28a', 20), ('Eruvin', '13b', 30), ('Berakhot', '11a', 40)}
+{('Yoma', '2a', 10), ('Zevachim', '21a', 0), ('Zevachim', '104b', 0)}
+{('Shabbat', '39a', 0), ('Shabbat', '145b', 10), ('Shabbat', '38b', 70)}
+{('Beitzah', '33b', 40), ('Beitzah', '34a', 10), ('Beitzah', '33b', 50)}
+{('Kiddushin', '42a', 0), ('Kiddushin', '41b', 40), ('Pesachim', '78b', 20)}
+{('Rosh Hashanah', '4a', 0), ('Bava Batra', '10b', 50), ('Pesachim', '8a', 70)}
+{('Sotah', '12b', 80), ('Sotah', '13a', 0), ('Megillah', '14a', 50)}
+{('Shabbat', '70b', 20), ('Shabbat', '69a', 20), ('Shabbat', '73a', 30)}
+{('Arakhin', '20a', 60), ('Arakhin', '20a', 50), ('Ketubot', '46a', 0)}
+{('Zevachim', '83b', 10), ('Menachot', '26b', 50), ('Yoma', '45b', 0)}
+{('Pesachim', '55b', 60), ('Moed Katan', '13b', 0), ('Moed Katan', '13a', 50)}
+{('Shabbat', '13a', 30), ('Shabbat', '13a', 20), ('Chullin', '107b', 50)}
+{('Eruvin', '46b', 40), ('Eruvin', '59a', 10), ('Niddah', '59a', 30)}
+{('Bava Kamma', '64a', 0), ('Bava Kamma', '64a', 20), ('Bava Kamma', '63b', 50)}
+{('Nedarim', '35b', 20), ('Nazir', '24a', 10), ('Bava Metzia', '104a', 20)}
+{('Eruvin', '104a', 10), ('Pesachim', '65b', 10), ('Zevachim', '35a', 20)}
+{('Bava Kamma', '116a', 0), ('Bava Kamma', '116a', 10), ('Yevamot', '106a', 40)}
+{('Zevachim', '92b', 20), ('Zevachim', '92b', 10), ('Zevachim', '92a', 30)}
+{('Sanhedrin', '106b', 70), ('Sanhedrin', '69b', 10), ('Makkot', '11a', 60)}
+{('Bekhorot', '49a', 20), ('Bava Metzia', '102b', 30), ('Bekhorot', '12b', 60)}
+{('Arakhin', '5b', 0), ('Arakhin', '20a', 40), ('Sanhedrin', '14b', 50)}
+{('Shabbat', '100b', 10), ('Shabbat', '100b', 0), ('Shabbat', '8b', 10)}
+{('Chullin', '79b', 30), ('Chullin', '132a', 10), ('Chullin', '80a', 0)}
+{('Kiddushin', '56b', 20), ('Pesachim', '22b', 10), ('Bava Kamma', '41a', 40)}
+{('Berakhot', '40b', 10), ('Bava Batra', '93a', 10), ('Eruvin', '17a', 30)}
+{('Menachot', '57a', 30), ('Menachot', '60a', 20), ('Menachot', '72b', 50)}
+{('Zevachim', '95b', 20), ('Pesachim', '30a', 20), ('Bava Metzia', '91a', 20)}
+{('Yevamot', '55b', 10), ('Yevamot', '55b', 20), ('Sotah', '26b', 30)}
+{('Bava Metzia', '30a', 30), ('Sanhedrin', '18b', 20), ('Berakhot', '19b', 30)}
+{('Bava Batra', '33b', 30), ('Shevuot', '32b', 10), ('Shevuot', '47a', 40)}
+{('Bava Kamma', '62a', 50), ('Bava Kamma', '22a', 20), ('Shabbat', '21b', 50)}
+{('Menachot', '68a', 0), ('Pesachim', '11a', 0), ('Menachot', '67b', 20)}
+{('Menachot', '6b', 50), ('Menachot', '8b', 20), ('Zevachim', '63a', 0)}
+{('Yevamot', '13a', 30), ('Yevamot', '12a', 30), ('Yevamot', '107b', 10)}
+{('Zevachim', '104b', 60), ('Chullin', '70a', 10), ('Zevachim', '104b', 50)}
+{('Rosh Hashanah', '26b', 20), ('Rosh Hashanah', '26b', 10), ('Megillah', '18a', 70)}
+{('Bava Kamma', '38a', 30), ('Avodah Zarah', '3a', 0), ('Sanhedrin', '59a', 0)}
+{('Bekhorot', '31a', 30), ('Yevamot', '25b', 30), ('Yevamot', '25b', 20)}
+{('Bava Kamma', '10b', 10), ('Sanhedrin', '78a', 0), ('Bava Kamma', '26b', 20)}
+{('Yevamot', '109a', 70), ('Shabbat', '127a', 60), ('Kiddushin', '40a', 30)}
+{('Menachot', '62a', 50), ('Sukkah', '37b', 50), ('Sukkah', '38a', 0)}
+{('Makkot', '2b', 50), ('Bava Kamma', '40a', 20), ('Makkot', '2b', 40)}
+{('Eruvin', '63a', 40), ('Shevuot', '30b', 30), ('Yoma', '53a', 40)}
+{('Sanhedrin', '34b', 30), ('Niddah', '50a', 0), ('Sanhedrin', '34b', 20)}
+{('Sanhedrin', '49a', 30), ('Sanhedrin', '21a', 50), ('Kiddushin', '76b', 80)}
+{('Yevamot', '122a', 50), ('Yevamot', '122a', 60), ('Gittin', '23b', 40)}
+{('Ketubot', '69a', 20), ('Ketubot', '69a', 10), ('Gittin', '51a', 0)}
+{('Keritot', '28a', 40), ('Yoma', '41a', 20), ('Keritot', '28a', 30)}
+{('Nedarim', '17b', 10), ('Shevuot', '29a', 0), ('Shevuot', '28b', 30)}
+{('Bava Metzia', '46b', 10), ('Bava Metzia', '47a', 20), ('Kiddushin', '28b', 10)}
+{('Bava Batra', '31a', 0), ('Bava Batra', '31a', 20), ('Bava Batra', '33b', 0)}
+{('Sanhedrin', '12b', 30), ('Pesachim', '56a', 0), ('Berakhot', '10b', 20)}
+{('Shabbat', '59b', 0), ('Shabbat', '138a', 10), ('Shabbat', '62a', 50)}
+{('Rosh Hashanah', '28a', 0), ('Rosh Hashanah', '27a', 10), ('Rosh Hashanah', '28a', 10)}
+{('Moed Katan', '29a', 10), ('Moed Katan', '29a', 0), ('Berakhot', '64a', 20)}
+{('Berakhot', '32a', 10), ('Berakhot', '35b', 0), ('Sanhedrin', '102a', 40)}
+{('Eruvin', '39a', 30), ('Eruvin', '38a', 0), ('Eruvin', '39a', 20)}
+{('Bekhorot', '43b', 60), ('Bekhorot', '43b', 70), ('Bekhorot', '44a', 0)}
+{('Sanhedrin', '112a', 20), ('Sanhedrin', '16a', 10), ('Sanhedrin', '16b', 30)}
+{('Shabbat', '13b', 40), ('Chagigah', '13a', 60), ('Menachot', '45a', 40)}
+{('Nedarim', '59a', 0), ('Nedarim', '15a', 20), ('Nedarim', '57a', 0)}
+{('Beitzah', '7a', 10), ('Beitzah', '6b', 40), ('Beitzah', '7a', 0)}
+{('Shabbat', '113a', 40), ('Shabbat', '50b', 60), ('Eruvin', '77a', 30)}
+{('Shevuot', '41b', 10), ('Shevuot', '38b', 40), ('Shevuot', '41b', 0)}
+{('Taanit', '25a', 80), ('Sukkah', '53a', 30), ('Megillah', '22b', 50)}
+{('Shabbat', '27b', 30), ('Sukkah', '21a', 0), ('Zevachim', '113a', 40)}
+{('Sanhedrin', '47a', 20), ('Sanhedrin', '47a', 30), ('Chullin', '7b', 30)}
+{('Sotah', '24a', 0), ('Sotah', '23a', 0), ('Sotah', '6a', 20)}
+{('Gittin', '14a', 0), ('Bava Batra', '144a', 40), ('Bava Batra', '144a', 30)}
+{('Ketubot', '88b', 0), ('Ketubot', '104b', 60), ('Ketubot', '107a', 10)}
+{('Bava Kamma', '50b', 50), ('Bava Kamma', '50b', 60), ('Bava Kamma', '50b', 40)}
+{('Sanhedrin', '31a', 20), ('Sanhedrin', '29a', 40), ('Bava Kamma', '99b', 60)}
+{('Menachot', '100b', 0), ('Pesachim', '47a', 10), ('Yoma', '29b', 20)}
+{('Bava Batra', '52a', 30), ('Shevuot', '46b', 0), ('Bava Metzia', '116a', 10)}
+{('Ketubot', '80b', 20), ('Yevamot', '38b', 50), ('Yevamot', '38a', 10)}
+{('Bava Batra', '122b', 30), ('Bava Batra', '130a', 0), ('Bava Batra', '141b', 20)}
+{('Chagigah', '9b', 20), ('Berakhot', '26a', 60), ('Chagigah', '9b', 10)}
+{('Rosh Hashanah', '29a', 0), ('Rosh Hashanah', '28b', 10), ('Rosh Hashanah', '27b', 0)}
+{('Kiddushin', '6b', 10), ('Gittin', '85b', 10), ('Gittin', '43b', 20)}
+{('Yevamot', '49a', 0), ('Kiddushin', '74b', 20), ('Yevamot', '44a', 50)}
+{('Pesachim', '47b', 20), ('Makkot', '22a', 0), ('Pesachim', '48a', 10)}
+{('Ketubot', '97b', 40), ('Yevamot', '59a', 30), ('Yevamot', '59a', 20)}
+{('Bava Metzia', '37a', 20), ('Bava Batra', '94b', 0), ('Bava Metzia', '37a', 10)}
+{('Sanhedrin', '14b', 20), ('Sotah', '45a', 20), ('Sanhedrin', '14b', 10)}
+{('Bava Batra', '105a', 0), ('Bava Metzia', '102a', 60), ('Bava Metzia', '102b', 0)}
+{('Bekhorot', '36a', 0), ('Shabbat', '145b', 0), ('Shabbat', '145a', 60)}
+{('Yoma', '27a', 0), ('Menachot', '19a', 10), ('Zevachim', '32a', 10)}
+{('Pesachim', '35a', 30), ('Berakhot', '37a', 10), ('Pesachim', '114b', 20)}
+{('Chullin', '7a', 10), ('Yevamot', '16a', 60), ('Chagigah', '3b', 30)}
+{('Ketubot', '24b', 50), ('Kiddushin', '69b', 30), ('Ketubot', '24b', 40)}
+{('Menachot', '70b', 20), ('Chullin', '117b', 10), ('Chullin', '119b', 10)}
+{('Bava Metzia', '97a', 30), ('Bava Metzia', '81a', 50), ('Bava Metzia', '81a', 60)}
+{('Yoma', '85a', 30), ('Sotah', '45b', 60), ('Sotah', '45b', 70)}
+{('Shabbat', '28b', 20), ('Avodah Zarah', '8a', 40), ('Chullin', '60a', 40)}
+{('Niddah', '44a', 50), ('Bava Batra', '142a', 20), ('Arakhin', '7a', 50)}
+{('Niddah', '36a', 0), ('Niddah', '10b', 30), ('Niddah', '35b', 50)}
+{('Nedarim', '8b', 10), ('Avodah Zarah', '3b', 70), ('Bava Batra', '144b', 20)}
+{('Rosh Hashanah', '24a', 40), ('Rosh Hashanah', '25b', 10), ('Ketubot', '21b', 30)}
+{('Eruvin', '45a', 40), ('Bava Kamma', '83a', 20), ('Yevamot', '63b', 90)}
+{('Yevamot', '109a', 40), ('Yevamot', '12a', 10), ('Yevamot', '11b', 40)}
+{('Yevamot', '81a', 30), ('Zevachim', '72a', 0), ('Beitzah', '3b', 10)}
+{('Niddah', '56b', 10), ('Niddah', '3a', 20), ('Niddah', '56a', 60)}
+{('Pesachim', '18b', 20), ('Sotah', '29b', 10), ('Chagigah', '24a', 10)}
+{('Chullin', '134b', 20), ('Yoma', '18a', 20), ('Horayot', '9a', 0)}
+{('Pesachim', '29b', 30), ('Avodah Zarah', '73b', 30), ('Pesachim', '29b', 40)}
+{('Bava Batra', '35b', 10), ('Bava Batra', '38a', 0), ('Bava Metzia', '110a', 30)}
+{('Eruvin', '66b', 30), ('Eruvin', '66b', 40), ('Eruvin', '75b', 0)}
+{('Ketubot', '37a', 20), ('Yevamot', '35a', 20), ('Yevamot', '35a', 30)}
+{('Eruvin', '15a', 20), ('Sukkah', '24b', 40), ('Eruvin', '99b', 40)}
+{('Megillah', '14b', 20), ('Arakhin', '33a', 10), ('Arakhin', '33a', 20)}
+{('Berakhot', '14a', 0), ('Berakhot', '13b', 90), ('Berakhot', '13a', 20)}
+{('Zevachim', '105b', 30), ('Yoma', '68a', 10), ('Sanhedrin', '42b', 10)}
+{('Gittin', '22a', 10), ('Bava Metzia', '118b', 40), ('Gittin', '22a', 20)}
+{('Ketubot', '26a', 0), ('Ketubot', '27b', 60), ('Bava Kamma', '114b', 50)}
+{('Zevachim', '4b', 0), ('Zevachim', '4a', 50), ('Pesachim', '61a', 0)}
+{('Horayot', '8a', 30), ('Yevamot', '9a', 10), ('Yevamot', '9a', 20)}
+{('Zevachim', '13b', 30), ('Menachot', '13b', 20), ('Zevachim', '13b', 40)}
+{('Gittin', '41a', 10), ('Gittin', '40b', 30), ('Gittin', '40b', 20)}
+{('Menachot', '102a', 20), ('Keritot', '23b', 20), ('Menachot', '102b', 0)}
+{('Shabbat', '2b', 10), ('Shevuot', '5a', 50), ('Shevuot', '5b', 0)}
+{('Zevachim', '46b', 20), ('Zevachim', '2b', 30), ('Zevachim', '34a', 20)}
+{('Temurah', '3b', 0), ('Temurah', '3a', 60), ('Shevuot', '21a', 20)}
+{('Beitzah', '30a', 10), ('Shabbat', '148a', 30), ('Shabbat', '148a', 40)}
+{('Menachot', '5a', 0), ('Menachot', '90a', 0), ('Yoma', '61b', 0)}
+{('Berakhot', '39b', 40), ('Shabbat', '117b', 50), ('Shabbat', '117b', 40)}
+{('Taanit', '13a', 30), ('Moed Katan', '15b', 20), ('Taanit', '13a', 20)}
+{('Bekhorot', '25a', 10), ('Shabbat', '74b', 40), ('Shabbat', '74b', 30)}
+{('Nazir', '12b', 0), ('Bava Metzia', '96a', 50), ('Nedarim', '72b', 20)}
+{('Bava Kamma', '115b', 20), ('Sukkah', '50a', 0), ('Sukkah', '50a', 10)}
+{('Bava Metzia', '18a', 10), ('Ketubot', '89b', 50), ('Ketubot', '44a', 0)}
+{('Gittin', '62a', 40), ('Gittin', '31b', 40), ('Bava Batra', '25a', 10)}
+{('Sotah', '32b', 30), ('Berakhot', '13a', 40), ('Megillah', '17a', 50)}
+{('Gittin', '46b', 20), ('Gittin', '45b', 40), ('Ketubot', '74b', 10)}
+{('Kiddushin', '50b', 50), ('Kiddushin', '51a', 0), ('Eruvin', '50a', 10)}
+{('Chullin', '39b', 20), ('Bava Batra', '138a', 0), ('Keritot', '24b', 10)}
+{('Arakhin', '29b', 40), ('Gittin', '44b', 40), ('Gittin', '44b', 50)}
+{('Kiddushin', '18b', 20), ('Kiddushin', '44b', 50), ('Kiddushin', '45a', 0)}
+{('Bava Metzia', '42a', 50), ('Bava Metzia', '35a', 30), ('Bava Metzia', '42b', 30)}
+{('Ketubot', '41a', 30), ('Ketubot', '41a', 20), ('Bava Kamma', '15a', 20)}
+{('Eruvin', '2a', 0), ('Eruvin', '11a', 0), ('Sukkah', '2a', 0)}
+{('Kiddushin', '43b', 10), ('Gittin', '64b', 0), ('Ketubot', '22b', 40)}
+{('Ketubot', '103b', 80), ('Ketubot', '103b', 70), ('Makkot', '24a', 0)}
+{('Beitzah', '3a', 10), ('Chullin', '14b', 20), ('Shabbat', '143a', 30)}
+{('Kiddushin', '38b', 0), ('Gittin', '36a', 30), ('Moed Katan', '2b', 40)}
+{('Bava Metzia', '46a', 40), ('Bava Metzia', '46a', 30), ('Kiddushin', '28a', 20)}
+{('Ketubot', '57a', 40), ('Nedarim', '73b', 0), ('Nedarim', '73b', 10)}
+{('Shabbat', '23a', 30), ('Sukkah', '46a', 40), ('Shabbat', '23a', 40)}
+{('Yoma', '70a', 30), ('Yoma', '34b', 20), ('Yoma', '31b', 30)}
+{('Rosh Hashanah', '6a', 50), ('Temurah', '18b', 10), ('Temurah', '18a', 30)}
+{('Pesachim', '6a', 30), ('Avodah Zarah', '15a', 10), ('Pesachim', '6a', 20)}
+{('Chullin', '50a', 30), ('Moed Katan', '22a', 20), ('Moed Katan', '22a', 30)}
+{('Taanit', '18b', 0), ('Megillah', '5b', 10), ('Megillah', '5b', 20)}
+{('Eruvin', '28b', 30), ('Chullin', '25b', 20), ('Eruvin', '28b', 40)}
+{('Bava Metzia', '36a', 20), ('Bava Kamma', '11b', 20), ('Bava Metzia', '36b', 0)}
+{('Shabbat', '137b', 40), ('Shabbat', '140a', 40), ('Shabbat', '140a', 30)}
+{('Eruvin', '17a', 20), ('Eruvin', '94a', 40), ('Eruvin', '93b', 30)}
+{('Gittin', '38a', 0), ('Yevamot', '46a', 10), ('Gittin', '37b', 80)}
+{('Yevamot', '29b', 0), ('Yevamot', '29a', 20), ('Yevamot', '29b', 10)}
+{('Bava Metzia', '7a', 50), ('Bava Metzia', '2a', 0), ('Bava Batra', '170a', 30)}
+{('Avodah Zarah', '8a', 10), ('Avodah Zarah', '6a', 20), ('Avodah Zarah', '11a', 30)}
+{('Shevuot', '40b', 0), ('Bava Metzia', '4b', 40), ('Shevuot', '40b', 20)}
+{('Ketubot', '33a', 0), ('Ketubot', '40b', 0), ('Arakhin', '15a', 0)}
+{('Ketubot', '57b', 60), ('Kiddushin', '11a', 0), ('Ketubot', '58a', 0)}
+{('Nazir', '27b', 0), ('Nazir', '30a', 0), ('Nazir', '30b', 0)}
+{('Pesachim', '83a', 30), ('Pesachim', '84b', 50), ('Zevachim', '93a', 30)}
+{('Chullin', '31a', 40), ('Chullin', '12b', 10), ('Chullin', '12b', 0)}
+{('Zevachim', '47a', 20), ('Shabbat', '91a', 10), ('Shabbat', '76a', 0)}
+{('Temurah', '20b', 40), ('Temurah', '19b', 0), ('Temurah', '18b', 60)}
+{('Niddah', '63b', 10), ('Niddah', '39a', 40), ('Niddah', '39a', 30)}
+{('Pesachim', '34b', 0), ('Pesachim', '77b', 60), ('Zevachim', '104a', 20)}
+{('Rosh Hashanah', '8a', 50), ('Beitzah', '16a', 0), ('Sanhedrin', '11b', 30)}
+{('Chullin', '105b', 10), ('Eruvin', '17b', 10), ('Chullin', '105b', 0)}
+{('Menachot', '48a', 30), ('Nazir', '28b', 0), ('Beitzah', '20b', 50)}
+{('Bava Kamma', '6b', 20), ('Gittin', '48b', 20), ('Bava Kamma', '59a', 10)}
+{('Bava Metzia', '17b', 10), ('Ketubot', '89b', 20), ('Ketubot', '16b', 30)}
+{('Ketubot', '88a', 10), ('Shevuot', '47a', 30), ('Shevuot', '48a', 20)}
+{('Berakhot', '7a', 50), ('Sanhedrin', '105b', 20), ('Avodah Zarah', '4b', 40)}
+{('Kiddushin', '49b', 50), ('Yevamot', '106a', 60), ('Rosh Hashanah', '6a', 20)}
+{('Taanit', '21a', 60), ('Sanhedrin', '109a', 0), ('Sanhedrin', '109a', 10)}
+{('Chullin', '142a', 10), ('Kiddushin', '39b', 20), ('Chullin', '142a', 0)}
+{('Shabbat', '157a', 40), ('Nedarim', '76b', 0), ('Shabbat', '157a', 30)}
+{('Tamid', '30b', 40), ('Tamid', '31b', 40), ('Yoma', '62b', 30)}
+{('Nazir', '4b', 20), ('Nazir', '4b', 10), ('Nedarim', '13a', 0)}
+{('Eruvin', '20b', 10), ('Eruvin', '20b', 30), ('Ketubot', '31a', 20)}
+{('Temurah', '31b', 10), ('Temurah', '14a', 10), ('Temurah', '31b', 0)}
+{('Chullin', '93b', 20), ('Chullin', '91a', 0), ('Pesachim', '83b', 20)}
+{('Avodah Zarah', '49b', 30), ('Avodah Zarah', '42a', 50), ('Avodah Zarah', '42a', 30)}
+{('Sanhedrin', '94a', 0), ('Sanhedrin', '93b', 60), ('Megillah', '3a', 30)}
+{('Zevachim', '29a', 40), ('Temurah', '21b', 20), ('Rosh Hashanah', '5b', 30)}
+{('Makkot', '12b', 10), ('Makkot', '12b', 20), ('Zevachim', '117a', 10)}
+{('Bava Kamma', '101a', 40), ('Pesachim', '22b', 40), ('Kiddushin', '56b', 10)}
+{('Bava Kamma', '113a', 50), ('Nedarim', '28a', 10), ('Bava Kamma', '113a', 30)}
+{('Zevachim', '12b', 0), ('Nedarim', '36a', 10), ('Sanhedrin', '47a', 40)}
+{('Bava Kamma', '51b', 70), ('Bava Kamma', '52a', 0), ('Bava Kamma', '51b', 60)}
+{('Pesachim', '56b', 30), ('Shabbat', '68a', 10), ('Niddah', '50a', 30)}
+{('Kiddushin', '52a', 30), ('Bava Metzia', '7a', 10), ('Bava Kamma', '68b', 30)}
+{('Sotah', '3b', 10), ('Kiddushin', '67b', 0), ('Yevamot', '78b', 0)}
+{('Ketubot', '92a', 0), ('Pesachim', '31a', 10), ('Ketubot', '91b', 60)}
+{('Sukkah', '38a', 30), ('Sukkah', '38a', 40), ('Berakhot', '20b', 30)}
+{('Gittin', '61b', 20), ('Chullin', '6b', 0), ('Chullin', '6a', 50)}
+{('Kiddushin', '9b', 0), ('Kiddushin', '48a', 30), ('Kiddushin', '9a', 60)}
+{('Chullin', '6a', 20), ('Eruvin', '69b', 0), ('Avodah Zarah', '64b', 40)}
+{('Bava Kamma', '98b', 20), ('Bava Kamma', '44b', 60), ('Bava Kamma', '45a', 0)}
+{('Gittin', '9a', 20), ('Gittin', '4b', 40), ('Gittin', '5a', 0)}
+{('Sukkah', '8a', 10), ('Sukkah', '8a', 0), ('Eruvin', '76b', 0)}
+{('Nedarim', '84a', 10), ('Makkot', '16b', 30), ('Yevamot', '86a', 10)}
+{('Berakhot', '23a', 80), ('Sukkah', '41b', 30), ('Berakhot', '23b', 0)}
+{('Niddah', '16a', 30), ('Niddah', '9a', 10), ('Niddah', '16a', 20)}
+{('Berakhot', '40a', 50), ('Sukkah', '46a', 70), ('Sukkah', '46a', 60)}
+{('Sanhedrin', '33b', 0), ('Bekhorot', '28b', 30), ('Sanhedrin', '33a', 50)}
+{('Makkot', '10a', 90), ('Makkot', '10a', 80), ('Shabbat', '30a', 70)}
+{('Shabbat', '62b', 30), ('Kiddushin', '71b', 20), ('Shabbat', '62b', 20)}
+{('Yevamot', '44b', 0), ('Yevamot', '44b', 30), ('Yevamot', '15b', 30)}
+{('Menachot', '49a', 20), ('Menachot', '2b', 0), ('Zevachim', '9b', 10)}
+{('Zevachim', '110a', 40), ('Menachot', '23b', 40), ('Menachot', '23b', 20)}
+{('Yevamot', '116b', 40), ('Chagigah', '23a', 10), ('Yevamot', '116b', 50)}
+{('Yevamot', '39b', 20), ('Bekhorot', '13a', 10), ('Ketubot', '64a', 30)}
+{('Menachot', '50a', 20), ('Menachot', '50a', 10), ('Menachot', '49a', 30)}
+{('Kiddushin', '69a', 40), ('Yevamot', '37a', 50), ('Yevamot', '85a', 10)}
+{('Kiddushin', '49b', 10), ('Sanhedrin', '24a', 40), ('Kiddushin', '49b', 20)}
+{('Arakhin', '23b', 0), ('Bava Batra', '174b', 30), ('Gittin', '49b', 60)}
+{('Bava Metzia', '94a', 40), ('Gittin', '84a', 30), ('Bava Metzia', '95a', 40)}
+{('Bava Batra', '136a', 40), ('Yevamot', '18b', 10), ('Arakhin', '6a', 40)}
+{('Pesachim', '13a', 40), ('Bava Batra', '8b', 60), ('Bava Metzia', '38a', 40)}
+{('Chullin', '32b', 30), ('Chullin', '69a', 10), ('Chullin', '32b', 40)}
+{('Nedarim', '9b', 20), ('Nedarim', '9b', 10), ('Nazir', '4b', 30)}
+{('Horayot', '3b', 30), ('Ketubot', '105b', 0), ('Sanhedrin', '7b', 10)}
+{('Kiddushin', '39b', 0), ('Shabbat', '127b', 0), ('Shabbat', '127a', 70)}
+{('Bekhorot', '28b', 40), ('Sanhedrin', '33a', 30), ('Sanhedrin', '33a', 40)}
+{('Sukkah', '46a', 0), ('Pesachim', '7b', 10), ('Sukkah', '45b', 50)}
+{('Sanhedrin', '36b', 30), ('Horayot', '4b', 40), ('Kiddushin', '76b', 20)}
+{('Chullin', '52b', 10), ('Yoma', '80a', 50), ('Zevachim', '38b', 10)}
+{('Sotah', '47a', 60), ('Sanhedrin', '107b', 70), ('Sotah', '47a', 70)}
+{('Bava Batra', '142b', 0), ('Bava Batra', '142b', 10), ('Niddah', '44b', 0)}
+{('Chullin', '85b', 50), ('Chullin', '28a', 10), ('Yoma', '75b', 10)}
+{('Kiddushin', '52b', 30), ('Bava Kamma', '12b', 10), ('Temurah', '7b', 50)}
+{('Ketubot', '110a', 60), ('Ketubot', '92a', 10), ('Bava Kamma', '8b', 20)}
+{('Menachot', '72b', 70), ('Menachot', '73a', 0), ('Kiddushin', '53a', 0)}
+{('Pesachim', '3a', 20), ('Niddah', '8b', 0), ('Yoma', '87b', 70)}
+{('Bava Kamma', '80a', 10), ('Temurah', '15b', 50), ('Temurah', '15b', 40)}
+{('Bekhorot', '16b', 10), ('Bava Metzia', '70b', 0), ('Bava Metzia', '70b', 10)}
+{('Sanhedrin', '51b', 10), ('Zevachim', '44b', 40), ('Sanhedrin', '51b', 20)}
+{('Zevachim', '53a', 20), ('Zevachim', '81b', 40), ('Zevachim', '10b', 60)}
+{('Berakhot', '33a', 50), ('Sanhedrin', '92a', 30), ('Chullin', '133a', 40)}
+{('Shabbat', '105b', 10), ('Moed Katan', '25a', 10), ('Moed Katan', '25a', 0)}
+{('Avodah Zarah', '48b', 50), ('Avodah Zarah', '42a', 40), ('Avodah Zarah', '43b', 40)}
+{('Megillah', '23b', 10), ('Berakhot', '21b', 10), ('Sanhedrin', '74b', 0)}
+{('Beitzah', '37b', 30), ('Eruvin', '68a', 20), ('Beitzah', '10a', 50)}
+{('Zevachim', '53a', 30), ('Yoma', '59a', 60), ('Zevachim', '53a', 40)}
+{('Sotah', '41b', 10), ('Sanhedrin', '19b', 0), ('Kiddushin', '32b', 20)}
+{('Bava Kamma', '17a', 20), ('Avodah Zarah', '5b', 10), ('Avodah Zarah', '5b', 0)}
+{('Zevachim', '88a', 10), ('Menachot', '19b', 10), ('Menachot', '8b', 0)}
+{('Bava Kamma', '90b', 10), ('Rosh Hashanah', '25b', 40), ('Rosh Hashanah', '26a', 0)}
+{('Sotah', '48a', 0), ('Sotah', '48a', 10), ('Bava Metzia', '90a', 30)}
+{('Sanhedrin', '91b', 60), ('Pesachim', '68a', 60), ('Pesachim', '68a', 70)}
+{('Yevamot', '54b', 20), ('Yevamot', '54b', 30), ('Sanhedrin', '55a', 10)}
+{('Eruvin', '5a', 0), ('Ketubot', '84b', 20), ('Eruvin', '8b', 30)}
+{('Sanhedrin', '34a', 60), ('Sanhedrin', '34b', 0), ('Zevachim', '83b', 30)}
+{('Menachot', '6b', 40), ('Zevachim', '69a', 40), ('Menachot', '48b', 20)}
+{('Bava Metzia', '30a', 20), ('Bava Metzia', '30a', 0), ('Pesachim', '26b', 0)}
+{('Eruvin', '67b', 0), ('Shabbat', '7a', 0), ('Eruvin', '67b', 10)}
+{('Zevachim', '114a', 10), ('Zevachim', '117b', 0), ('Zevachim', '114a', 20)}
+{('Niddah', '50b', 20), ('Chullin', '62b', 30), ('Niddah', '50b', 10)}
+{('Tamid', '29b', 0), ('Chullin', '90b', 30), ('Tamid', '29a', 30)}
+{('Menachot', '93a', 20), ('Arakhin', '2b', 0), ('Arakhin', '2a', 30)}
+{('Megillah', '13b', 20), ('Bava Batra', '123a', 70), ('Bava Batra', '123a', 80)}
+{('Zevachim', '27a', 0), ('Zevachim', '26b', 30), ('Zevachim', '36b', 10)}
+{('Sotah', '42a', 10), ('Sanhedrin', '103a', 30), ('Sotah', '42a', 0)}
+{('Sotah', '45b', 80), ('Sotah', '38b', 30), ('Sotah', '46b', 30)}
+{('Makkot', '21b', 40), ('Pesachim', '47b', 10), ('Beitzah', '12a', 20)}
+{('Horayot', '12a', 50), ('Keritot', '6a', 0), ('Keritot', '5b', 110)}
+{('Meilah', '8a', 0), ('Meilah', '9a', 20), ('Meilah', '9a', 10)}
+{('Chullin', '100a', 10), ('Menachot', '23a', 0), ('Chullin', '108a', 10)}
+{('Pesachim', '20a', 30), ('Pesachim', '20a', 20), ('Shabbat', '138b', 30)}
+{('Ketubot', '99a', 10), ('Meilah', '21a', 30), ('Meilah', '21a', 40)}
+{('Yevamot', '78a', 30), ('Sotah', '9a', 10), ('Yevamot', '76b', 0)}
+{('Bava Kamma', '3b', 0), ('Bava Kamma', '6b', 10), ('Bava Kamma', '2b', 30)}
+{('Menachot', '22a', 10), ('Zevachim', '116b', 30), ('Avodah Zarah', '24b', 10)}
+{('Berakhot', '12b', 70), ('Sanhedrin', '87a', 10), ('Kiddushin', '69b', 0)}
+{('Bava Metzia', '41b', 10), ('Bava Metzia', '95a', 10), ('Bava Kamma', '57b', 0)}
+{('Nazir', '6b', 0), ('Nazir', '16a', 20), ('Nazir', '16a', 10)}
+{('Niddah', '47a', 10), ('Ketubot', '25a', 30), ('Niddah', '47a', 0)}
+{('Bava Metzia', '99b', 10), ('Meilah', '19b', 30), ('Bava Kamma', '20b', 40)}
+{('Moed Katan', '19b', 20), ('Sanhedrin', '22b', 20), ('Taanit', '17a', 30)}
+{('Yevamot', '85a', 20), ('Yevamot', '85a', 30), ('Ketubot', '53b', 40)}
+{('Yevamot', '45a', 0), ('Yevamot', '70a', 20), ('Yevamot', '45a', 20)}
+{('Kiddushin', '81b', 40), ('Nedarim', '82b', 10), ('Nazir', '23a', 0)}
+{('Shevuot', '18b', 60), ('Keritot', '20a', 0), ('Keritot', '19a', 40)}
+{('Pesachim', '7a', 20), ('Bava Metzia', '26a', 10), ('Pesachim', '7a', 10)}
+{('Sukkah', '47b', 0), ('Eruvin', '40b', 30), ('Eruvin', '40b', 40)}
+{('Menachot', '14b', 30), ('Zevachim', '41b', 10), ('Menachot', '16a', 0)}
+{('Chullin', '123b', 50), ('Chullin', '124a', 10), ('Niddah', '26b', 0)}
+{('Nedarim', '53b', 20), ('Nedarim', '53b', 10), ('Nedarim', '51b', 10)}
+{('Pesachim', '94b', 0), ('Pesachim', '94a', 30), ('Chagigah', '13a', 0)}
+{('Keritot', '2b', 70), ('Makkot', '14a', 10), ('Yevamot', '55a', 40)}
+{('Bava Metzia', '18b', 10), ('Gittin', '27a', 20), ('Bava Metzia', '19a', 0)}
+{('Yevamot', '82b', 0), ('Niddah', '46b', 40), ('Zevachim', '22a', 30)}
+{('Berakhot', '17b', 10), ('Taanit', '30a', 20), ('Pesachim', '54b', 10)}
+{('Shabbat', '79a', 50), ('Gittin', '22a', 30), ('Gittin', '22a', 40)}
+{('Chagigah', '18b', 10), ('Yevamot', '73a', 0), ('Bava Metzia', '52b', 50)}
+{('Avodah Zarah', '67a', 0), ('Avodah Zarah', '66b', 20), ('Pesachim', '76b', 30)}
+{('Sanhedrin', '104a', 0), ('Sanhedrin', '106a', 10), ('Sotah', '11a', 50)}
+{('Zevachim', '57a', 50), ('Yoma', '56b', 30), ('Yoma', '56b', 40)}
+{('Tamid', '29a', 20), ('Chullin', '90b', 20), ('Tamid', '29a', 10)}
+{('Pesachim', '67a', 20), ('Nazir', '45a', 0), ('Sotah', '20b', 30)}
+{('Zevachim', '64b', 40), ('Zevachim', '65a', 40), ('Menachot', '97b', 20)}
+{('Kiddushin', '20a', 40), ('Kiddushin', '22a', 30), ('Arakhin', '30b', 0)}
+{('Zevachim', '50a', 40), ('Zevachim', '50a', 30), ('Yoma', '68a', 0)}
+{('Eruvin', '54b', 20), ('Avodah Zarah', '19a', 60), ('Avodah Zarah', '19a', 50)}
+{('Bava Batra', '79b', 0), ('Gittin', '42b', 50), ('Bava Metzia', '33b', 20)}
+{('Chagigah', '16b', 10), ('Chagigah', '16b', 0), ('Makkot', '5b', 60)}
+{('Chullin', '26a', 10), ('Makkot', '3b', 60), ('Makkot', '3b', 70)}
+{('Shabbat', '97a', 40), ('Shabbat', '4b', 0), ('Shabbat', '97a', 30)}
+{('Shabbat', '128a', 20), ('Shabbat', '128a', 30), ('Bava Metzia', '113b', 50)}
+{('Nazir', '37a', 20), ('Pesachim', '44b', 20), ('Nazir', '37a', 30)}
+{('Niddah', '50a', 10), ('Sanhedrin', '34b', 40), ('Niddah', '50a', 20)}
+{('Ketubot', '8b', 30), ('Berakhot', '60a', 70), ('Berakhot', '19a', 80)}
+{('Berakhot', '35a', 40), ('Bava Metzia', '87b', 20), ('Bava Metzia', '87b', 10)}
+{('Chullin', '132b', 50), ('Menachot', '18b', 20), ('Menachot', '18b', 10)}
+{('Bekhorot', '28a', 50), ('Beitzah', '27a', 50), ('Bekhorot', '28a', 40)}
+{('Gittin', '27b', 10), ('Bava Metzia', '18b', 30), ('Bava Metzia', '18b', 40)}
+{('Bava Kamma', '92a', 60), ('Sotah', '7b', 20), ('Makkot', '11b', 0)}
+{('Avodah Zarah', '17a', 10), ('Sanhedrin', '81a', 30), ('Shabbat', '13a', 40)}
+{('Gittin', '74b', 50), ('Gittin', '74b', 40), ('Arakhin', '31b', 70)}
+{('Yoma', '64a', 40), ('Yoma', '64a', 30), ('Yoma', '62a', 10)}
+{('Bava Batra', '93b', 20), ('Bava Batra', '93b', 10), ('Bava Batra', '91b', 70)}
+{('Bava Kamma', '65b', 20), ('Bava Kamma', '96b', 40), ('Bava Kamma', '96b', 20)}
+{('Taanit', '22b', 60), ('Taanit', '19a', 30), ('Taanit', '23a', 0)}
+{('Megillah', '19b', 30), ('Berakhot', '15a', 40), ('Berakhot', '15a', 50)}
+{('Bava Kamma', '32b', 30), ('Bava Kamma', '32b', 40), ('Makkot', '8a', 20)}
+{('Berakhot', '17a', 10), ('Berakhot', '17a', 0), ('Yoma', '87b', 30)}
+{('Yevamot', '17a', 0), ('Yevamot', '23a', 20), ('Kiddushin', '68b', 0)}
+{('Sanhedrin', '7b', 30), ('Yoma', '86b', 70), ('Yoma', '87a', 0)}
+{('Ketubot', '87b', 40), ('Shevuot', '45b', 20), ('Shevuot', '40a', 20)}
+{('Yevamot', '69a', 30), ('Kiddushin', '75a', 0), ('Kiddushin', '75a', 10)}
+{('Shabbat', '34a', 40), ('Eruvin', '76a', 10), ('Shabbat', '34a', 30)}
+{('Shabbat', '88b', 10), ('Yoma', '23a', 20), ('Gittin', '36b', 40)}
+{('Ketubot', '79b', 40), ('Ketubot', '80a', 10), ('Bava Metzia', '39a', 10)}
+{('Sanhedrin', '13b', 20), ('Sotah', '44b', 30), ('Sanhedrin', '14a', 50)}
+{('Avodah Zarah', '7a', 30), ('Avodah Zarah', '7b', 0), ('Bekhorot', '31a', 0)}
+{('Sukkah', '49b', 0), ('Meilah', '11b', 10), ('Sukkah', '49a', 10)}
+{('Beitzah', '17a', 20), ('Eruvin', '40b', 10), ('Eruvin', '40b', 0)}
+{('Menachot', '61a', 20), ('Menachot', '62b', 0), ('Menachot', '62b', 10)}
+{('Gittin', '77a', 0), ('Avodah Zarah', '37a', 30), ('Gittin', '76b', 50)}
+{('Bava Kamma', '113a', 20), ('Bava Kamma', '111b', 10), ('Bava Kamma', '114b', 20)}
+{('Sotah', '11a', 20), ('Sotah', '11a', 30), ('Eruvin', '53a', 20)}
+{('Gittin', '64b', 30), ('Nedarim', '88b', 0), ('Eruvin', '79b', 20)}
+{('Bava Batra', '138a', 10), ('Gittin', '50b', 0), ('Gittin', '50b', 10)}
+{('Gittin', '41b', 30), ('Eruvin', '72b', 0), ('Eruvin', '72b', 10)}
+{('Horayot', '13a', 10), ('Zevachim', '90a', 40), ('Pesachim', '59a', 40)}
+{('Moed Katan', '22a', 40), ('Moed Katan', '22b', 10), ('Moed Katan', '22b', 40)}
+{('Shabbat', '9a', 10), ('Eruvin', '89a', 10), ('Shabbat', '9a', 20)}
+{('Yevamot', '13b', 10), ('Yevamot', '92b', 0), ('Yevamot', '92a', 60)}
+{('Rosh Hashanah', '27a', 40), ('Taanit', '16b', 30), ('Taanit', '16b', 50)}
+{('Shabbat', '36a', 10), ('Sukkah', '34a', 40), ('Shabbat', '36a', 0)}
+{('Bava Batra', '76b', 10), ('Bava Batra', '84b', 30), ('Bava Batra', '76b', 0)}
+{('Ketubot', '105a', 0), ('Ketubot', '107b', 50), ('Nedarim', '33b', 0)}
+{('Bava Batra', '157a', 40), ('Bava Batra', '175a', 0), ('Bava Batra', '157b', 0)}
+{('Avodah Zarah', '51b', 10), ('Avodah Zarah', '51b', 0), ('Zevachim', '106b', 0)}
+{('Niddah', '51b', 20), ('Chullin', '66b', 0), ('Niddah', '51b', 30)}
+{('Menachot', '78a', 0), ('Menachot', '78a', 10), ('Yoma', '57a', 0)}
+{('Yoma', '19a', 30), ('Kiddushin', '23b', 0), ('Yoma', '19a', 40)}
+{('Zevachim', '40a', 40), ('Zevachim', '52b', 20), ('Yoma', '60b', 10)}
+{('Yoma', '71a', 0), ('Yoma', '32a', 0), ('Yoma', '70b', 30)}
+{('Niddah', '17a', 30), ('Gittin', '70a', 30), ('Ketubot', '77b', 10)}
+{('Chullin', '74b', 10), ('Chullin', '74b', 0), ('Chullin', '92b', 10)}
+{('Shabbat', '2b', 0), ('Shevuot', '5a', 30), ('Shevuot', '5a', 40)}
+{('Eruvin', '6b', 40), ('Rosh Hashanah', '14b', 10), ('Chullin', '44a', 0)}
+{('Yevamot', '9b', 10), ('Yevamot', '28b', 20), ('Yevamot', '9b', 0)}
+{('Megillah', '11a', 50), ('Sanhedrin', '20b', 40), ('Megillah', '11a', 60)}
+{('Chullin', '104a', 10), ('Nedarim', '54a', 0), ('Chullin', '104a', 0)}
+{('Keritot', '19a', 30), ('Keritot', '17b', 0), ('Keritot', '15b', 60)}
+{('Eruvin', '13a', 30), ('Sotah', '20a', 50), ('Sotah', '20a', 40)}
+{('Bekhorot', '25b', 40), ('Beitzah', '10b', 20), ('Pesachim', '10a', 30)}
+{('Yevamot', '39a', 30), ('Yevamot', '52a', 30), ('Ketubot', '82b', 0)}
+{('Keritot', '5b', 20), ('Horayot', '11b', 40), ('Keritot', '5b', 10)}
+{('Bava Metzia', '42a', 10), ('Bava Metzia', '42a', 0), ('Taanit', '8b', 30)}
+{('Sukkah', '35a', 50), ('Sukkah', '35a', 40), ('Pesachim', '38a', 0)}
+{('Bava Batra', '3a', 10), ('Bava Batra', '3a', 0), ('Bava Batra', '2a', 10)}
+{('Bava Batra', '41b', 0), ('Nazir', '20a', 20), ('Sanhedrin', '31a', 0)}
+{('Zevachim', '11b', 10), ('Sanhedrin', '83a', 20), ('Sanhedrin', '84a', 10)}
+{('Eruvin', '103a', 20), ('Pesachim', '68b', 10), ('Eruvin', '103a', 30)}
+{('Pesachim', '76a', 50), ('Chullin', '112a', 10), ('Bava Batra', '174a', 10)}
+{('Ketubot', '16a', 30), ('Ketubot', '16a', 50), ('Ketubot', '13a', 0)}
+{('Bava Kamma', '22b', 10), ('Bava Kamma', '59b', 50), ('Kiddushin', '42b', 10)}
+{('Sanhedrin', '110a', 60), ('Sanhedrin', '110a', 70), ('Bava Batra', '74a', 20)}
+{('Kiddushin', '14a', 10), ('Yevamot', '106b', 50), ('Yevamot', '101b', 0)}
+{('Bava Metzia', '27b', 20), ('Yevamot', '120b', 0), ('Bava Metzia', '27b', 10)}
+{('Zevachim', '99b', 0), ('Chagigah', '20a', 20), ('Zevachim', '99a', 60)}
+{('Yoma', '43a', 20), ('Yoma', '43a', 10), ('Yevamot', '72b', 50)}
+{('Menachot', '16b', 0), ('Zevachim', '42b', 0), ('Zevachim', '42b', 10)}
+{('Bava Kamma', '108b', 20), ('Bava Metzia', '93b', 50), ('Bava Kamma', '108b', 30)}
+{('Beitzah', '28b', 0), ('Beitzah', '28a', 60), ('Ketubot', '68a', 50)}
+{('Eruvin', '95a', 40), ('Eruvin', '95a', 30), ('Eruvin', '81b', 40)}
+{('Menachot', '72a', 0), ('Menachot', '71a', 20)}
+{('Shabbat', '145b', 60), ('Megillah', '31b', 0)}
+{('Bava Batra', '48a', 10), ('Gittin', '88b', 10)}
+{('Pesachim', '83a', 0), ('Zevachim', '82a', 40)}
+{('Yevamot', '6b', 10), ('Sanhedrin', '35b', 10)}
+{('Arakhin', '6b', 30), ('Ketubot', '37b', 20)}
+{('Eruvin', '20a', 20), ('Eruvin', '25a', 40)}
+{('Sanhedrin', '112b', 10), ('Bava Kamma', '76a', 0)}
+{('Shabbat', '88b', 0), ('Gittin', '36b', 30)}
+{('Bava Metzia', '51b', 0), ('Makkot', '3b', 20)}
+{('Avodah Zarah', '7a', 20), ('Shabbat', '150a', 10)}
+{('Zevachim', '3b', 30), ('Chullin', '25a', 10)}
+{('Rosh Hashanah', '32b', 0), ('Sanhedrin', '105a', 20)}
+{('Sukkah', '53b', 0), ('Nedarim', '66b', 0)}
+{('Bava Kamma', '55b', 10), ('Bava Kamma', '45b', 20)}
+{('Beitzah', '30a', 20), ('Shabbat', '148b', 0)}
+{('Megillah', '20b', 20), ('Sotah', '17b', 0)}
+{('Ketubot', '4a', 10), ('Ketubot', '3b', 30)}
+{('Shevuot', '46b', 10), ('Bava Kamma', '62a', 30)}
+{('Shabbat', '125b', 0), ('Shabbat', '142b', 20)}
+{('Bava Metzia', '94a', 30), ('Gittin', '84a', 20)}
+{('Pesachim', '37a', 0), ('Beitzah', '22b', 10)}
+{('Menachot', '15a', 30), ('Menachot', '80b', 0)}
+{('Rosh Hashanah', '3b', 0), ('Rosh Hashanah', '2b', 30)}
+{('Horayot', '11a', 60), ('Avodah Zarah', '26b', 10)}
+{('Niddah', '8a', 10), ('Berakhot', '27a', 20)}
+{('Bava Metzia', '106a', 40), ('Bava Metzia', '93b', 20)}
+{('Ketubot', '87b', 10), ('Shevuot', '44b', 20)}
+{('Pesachim', '20b', 50), ('Bava Kamma', '115b', 50)}
+{('Berakhot', '33b', 70), ('Megillah', '25a', 30)}
+{('Chullin', '139a', 40), ('Arakhin', '20b', 0)}
+{('Niddah', '6a', 10), ('Niddah', '42a', 10)}
+{('Bava Kamma', '3b', 10), ('Bava Kamma', '6a', 0)}
+{('Sanhedrin', '86a', 20), ('Bava Kamma', '88a', 0)}
+{('Ketubot', '49b', 30), ('Bava Batra', '139a', 30)}
+{('Yevamot', '19a', 30), ('Yevamot', '28b', 40)}
+{('Keritot', '5b', 60), ('Horayot', '11b', 80)}
+{('Yevamot', '51b', 10), ('Yevamot', '29a', 0)}
+{('Berakhot', '8b', 60), ('Berakhot', '8b', 70)}
+{('Megillah', '6a', 50), ('Pesachim', '42b', 10)}
+{('Nazir', '57a', 0), ('Nazir', '59b', 0)}
+{('Berakhot', '10b', 110), ('Berakhot', '11a', 50)}
+{('Berakhot', '33a', 60), ('Sanhedrin', '92a', 20)}
+{('Kiddushin', '14a', 50), ('Yevamot', '103b', 10)}
+{('Shevuot', '45b', 10), ('Bava Metzia', '112b', 30)}
+{('Ketubot', '72b', 40), ('Kiddushin', '50a', 50)}
+{('Bava Batra', '107a', 0), ('Bava Kamma', '9a', 30)}
+{('Menachot', '65a', 0), ('Sanhedrin', '17a', 70)}
+{('Yevamot', '84a', 30), ('Ketubot', '100b', 50)}
+{('Sukkah', '28b', 0), ('Kiddushin', '34a', 30)}
+{('Chullin', '73a', 50), ('Chullin', '76b', 40)}
+{('Shabbat', '146b', 60), ('Beitzah', '9a', 10)}
+{('Ketubot', '5a', 0), ('Shabbat', '150a', 40)}
+{('Bava Batra', '120b', 0), ('Nedarim', '78a', 0)}
+{('Shevuot', '35b', 40), ('Yoma', '73b', 0)}
+{('Sukkah', '11a', 20), ('Sukkah', '9b', 10)}
+{('Avodah Zarah', '24a', 70), ('Zevachim', '116a', 60)}
+{('Yoma', '45a', 20), ('Yoma', '33a', 0)}
+{('Shabbat', '137a', 40), ('Yevamot', '71b', 0)}
+{('Pesachim', '118a', 50), ('Arakhin', '15a', 40)}
+{('Eruvin', '5a', 40), ('Eruvin', '10a', 10)}
+{('Shabbat', '147a', 60), ('Shabbat', '39b', 10)}
+{('Menachot', '104a', 20), ('Menachot', '107a', 40)}
+{('Bava Batra', '124b', 0), ('Bava Batra', '124a', 20)}
+{('Menachot', '106b', 10), ('Menachot', '88a', 40)}
+{('Sotah', '45a', 10), ('Sanhedrin', '37a', 0)}
+{('Avodah Zarah', '18b', 60), ('Bava Batra', '10b', 70)}
+{('Chullin', '32a', 40), ('Chullin', '9a', 20)}
+{('Menachot', '110a', 40), ('Shevuot', '15a', 20)}
+{('Nedarim', '26a', 0), ('Nedarim', '25b', 20)}
+{('Bava Batra', '53b', 30), ('Kiddushin', '22b', 50)}
+{('Eruvin', '79b', 40), ('Shabbat', '129a', 30)}
+{('Sotah', '31b', 20), ('Sotah', '47b', 10)}
+{('Ketubot', '46a', 20), ('Ketubot', '45a', 0)}
+{('Sanhedrin', '15a', 20), ('Megillah', '23b', 20)}
+{('Pesachim', '50a', 10), ('Bava Batra', '10b', 30)}
+{('Pesachim', '68a', 50), ('Sanhedrin', '91b', 50)}
+{('Berakhot', '15b', 0), ('Megillah', '19b', 20)}
+{('Meilah', '6a', 20), ('Meilah', '4b', 0)}
+{('Shabbat', '103b', 60), ('Taanit', '2b', 40)}
+{('Bava Batra', '153b', 0), ('Kiddushin', '79b', 0)}
+{('Chullin', '37b', 10), ('Chullin', '44b', 10)}
+{('Berakhot', '38b', 40), ('Berakhot', '37a', 0)}
+{('Ketubot', '76b', 20), ('Ketubot', '60a', 10)}
+{('Kiddushin', '69a', 0), ('Temurah', '25b', 0)}
+{('Shabbat', '146b', 10), ('Bava Batra', '12a', 0)}
+{('Shabbat', '149a', 50), ('Bava Metzia', '75a', 20)}
+{('Kiddushin', '57b', 40), ('Kiddushin', '57b', 50)}
+{('Chullin', '5a', 40), ('Eruvin', '69b', 10)}
+{('Kiddushin', '50a', 0), ('Bava Batra', '47b', 20)}
+{('Shevuot', '36a', 40), ('Sanhedrin', '56a', 30)}
+{('Sanhedrin', '24a', 30), ('Shabbat', '51a', 20)}
+{('Megillah', '2b', 50), ('Shabbat', '104a', 0)}
+{('Bekhorot', '45a', 30), ('Niddah', '49b', 10)}
+{('Ketubot', '85b', 30), ('Bava Metzia', '108b', 10)}
+{('Shabbat', '11b', 30), ('Pesachim', '26b', 20)}
+{('Moed Katan', '20a', 30), ('Eruvin', '46a', 40)}
+{('Bava Batra', '23a', 50), ('Bava Batra', '23a', 0)}
+{('Bava Metzia', '15b', 50), ('Bava Metzia', '16a', 0)}
+{('Berakhot', '3b', 60), ('Sanhedrin', '16a', 50)}
+{('Chagigah', '3a', 50), ('Berakhot', '6a', 60)}
+{('Gittin', '57b', 10), ('Sanhedrin', '96b', 30)}
+{('Moed Katan', '24a', 60), ('Kiddushin', '80b', 20)}
+{('Yevamot', '101b', 20), ('Yevamot', '44a', 0)}
+{('Ketubot', '78a', 0), ('Yevamot', '38b', 0)}
+{('Nazir', '55b', 0), ('Nazir', '59b', 20)}
+{('Bava Batra', '25b', 50), ('Bava Batra', '22b', 30)}
+{('Ketubot', '86a', 10), ('Bava Kamma', '98b', 10)}
+{('Bava Batra', '156b', 0), ('Kiddushin', '26b', 10)}
+{('Nedarim', '39b', 10), ('Pesachim', '54a', 40)}
+{('Yevamot', '6a', 0), ('Bava Metzia', '32a', 40)}
+{('Bava Metzia', '2b', 20), ('Bava Metzia', '100a', 30)}
+{('Yoma', '4b', 0), ('Berakhot', '30b', 60)}
+{('Pesachim', '7a', 0), ('Pesachim', '21b', 10)}
+{('Bava Batra', '147a', 30), ('Yoma', '21b', 40)}
+{('Gittin', '66b', 40), ('Gittin', '72a', 0)}
+{('Ketubot', '20a', 0), ('Yevamot', '31a', 30)}
+{('Meilah', '3b', 10), ('Menachot', '78b', 0)}
+{('Horayot', '6a', 0), ('Temurah', '15b', 0)}
+{('Sanhedrin', '45a', 40), ('Bava Kamma', '51a', 10)}
+{('Beitzah', '22b', 0), ('Pesachim', '36b', 30)}
+{('Bava Kamma', '92a', 20), ('Makkot', '9b', 0)}
+{('Bava Metzia', '97a', 0), ('Bava Metzia', '77b', 60)}
+{('Bava Kamma', '34b', 40), ('Shabbat', '106a', 0)}
+{('Arakhin', '23a', 50), ('Gittin', '49b', 50)}
+{('Berakhot', '35b', 50), ('Eruvin', '30a', 20)}
+{('Pesachim', '79a', 20), ('Menachot', '26a', 30)}
+{('Sukkah', '14b', 30), ('Ketubot', '99b', 10)}
+{('Kiddushin', '66a', 60), ('Yevamot', '94a', 10)}
+{('Shabbat', '27a', 10), ('Menachot', '39b', 40)}
+{('Bava Batra', '89b', 20), ('Bava Metzia', '61b', 10)}
+{('Sanhedrin', '34b', 50), ('Bava Batra', '113b', 0)}
+{('Rosh Hashanah', '24a', 10), ('Shevuot', '48a', 0)}
+{('Shabbat', '43b', 10), ('Beitzah', '36b', 0)}
+{('Bava Batra', '57b', 30), ('Berakhot', '53a', 40)}
+{('Bava Batra', '109b', 40), ('Sotah', '43a', 0)}
+{('Menachot', '70b', 0), ('Pesachim', '35a', 20)}
+{('Sukkah', '21b', 0), ('Sukkah', '21a', 20)}
+{('Meilah', '21b', 20), ('Bava Metzia', '43a', 0)}
+{('Megillah', '13b', 0), ('Bava Batra', '123a', 60)}
+{('Megillah', '16b', 0), ('Shabbat', '10b', 50)}
+{('Niddah', '52b', 0), ('Bava Batra', '16a', 100)}
+{('Bekhorot', '11a', 50), ('Bava Metzia', '7a', 0)}
+{('Kiddushin', '28b', 0), ('Bava Metzia', '46b', 0)}
+{('Pesachim', '120b', 10), ('Berakhot', '9a', 30)}
+{('Bava Metzia', '97b', 0), ('Bava Metzia', '100a', 0)}
+{('Bava Metzia', '111b', 20), ('Gittin', '62a', 10)}
+{('Bava Kamma', '2a', 10), ('Shabbat', '96b', 10)}
+{('Taanit', '13b', 60), ('Taanit', '14a', 0)}
+{('Bava Metzia', '98a', 0), ('Bava Metzia', '98a', 10)}
+{('Zevachim', '119b', 50), ('Zevachim', '69a', 10)}
+{('Nazir', '42a', 20), ('Bava Kamma', '105a', 10)}
+{('Nedarim', '12b', 0), ('Niddah', '6b', 10)}
+{('Avodah Zarah', '5a', 70), ('Nedarim', '64b', 20)}
+{('Shabbat', '10b', 20), ('Beitzah', '16a', 30)}
+{('Pesachim', '88a', 0), ('Taanit', '9b', 40)}
+{('Sanhedrin', '65a', 50), ('Keritot', '4a', 0)}
+{('Nedarim', '36b', 30), ('Temurah', '10a', 20)}
+{('Sukkah', '41b', 10), ('Pesachim', '72b', 50)}
+{('Pesachim', '76b', 20), ('Avodah Zarah', '66b', 10)}
+{('Sukkah', '40a', 10), ('Bava Kamma', '101b', 10)}
+{('Ketubot', '40a', 20), ('Arakhin', '14b', 60)}
+{('Yoma', '51b', 0), ('Shevuot', '14a', 10)}
+{('Chullin', '28a', 20), ('Chullin', '10a', 30)}
+{('Pesachim', '86a', 50), ('Pesachim', '89b', 10)}
+{('Bava Metzia', '104a', 0), ('Bava Batra', '7a', 70)}
+{('Gittin', '19a', 10), ('Shabbat', '104b', 0)}
+{('Bava Batra', '43a', 40), ('Bava Metzia', '81a', 40)}
+{('Chagigah', '7b', 0), ('Chagigah', '4a', 30)}
+{('Niddah', '35b', 20), ('Sanhedrin', '87b', 0)}
+{('Bava Kamma', '48b', 40), ('Bava Kamma', '47b', 10)}
+{('Ketubot', '60b', 70), ('Ketubot', '61a', 0)}
+{('Avodah Zarah', '55b', 20), ('Avodah Zarah', '55b', 10)}
+{('Rosh Hashanah', '12b', 10), ('Rosh Hashanah', '7b', 0)}
+{('Yevamot', '5b', 20), ('Yevamot', '6a', 10)}
+{('Chullin', '7b', 50), ('Sanhedrin', '67b', 10)}
+{('Sanhedrin', '70b', 40), ('Makkot', '10b', 60)}
+{('Niddah', '24a', 30), ('Beitzah', '9b', 10)}
+{('Yoma', '73a', 10), ('Horayot', '12b', 10)}
+{('Arakhin', '4a', 50), ('Arakhin', '4b', 50)}
+{('Ketubot', '25a', 10), ('Kiddushin', '69b', 50)}
+{('Berakhot', '9a', 10), ('Berakhot', '2a', 10)}
+{('Arakhin', '30a', 0), ('Gittin', '45a', 0)}
+{('Sanhedrin', '39b', 0), ('Megillah', '10b', 60)}
+{('Shabbat', '136a', 60), ('Yevamot', '36b', 40)}
+{('Rosh Hashanah', '22a', 30), ('Sanhedrin', '27b', 20)}
+{('Shevuot', '12b', 20), ('Yoma', '36b', 10)}
+{('Shabbat', '103b', 10), ('Shabbat', '103a', 50)}
+{('Nedarim', '69b', 10), ('Nedarim', '70a', 0)}
+{('Moed Katan', '23b', 10), ('Berakhot', '17b', 40)}
+{('Zevachim', '53a', 10), ('Zevachim', '10b', 50)}
+{('Yoma', '6a', 0), ('Yoma', '5b', 30)}
+{('Bava Batra', '11b', 50), ('Shabbat', '146b', 0)}
+{('Bekhorot', '60a', 20), ('Bekhorot', '60a', 50)}
+{('Yevamot', '64a', 20), ('Sukkah', '14a', 20)}
+{('Zevachim', '73b', 10), ('Zevachim', '67b', 0)}
+{('Bava Batra', '2a', 0), ('Bava Batra', '4a', 90)}
+{('Nedarim', '13a', 10), ('Nedarim', '16a', 0)}
+{('Yoma', '86a', 10), ('Shevuot', '39a', 50)}
+{('Sukkah', '3b', 0), ('Sukkah', '3a', 50)}
+{('Yoma', '52a', 10), ('Bava Batra', '98b', 50)}
+{('Menachot', '43b', 0), ('Zevachim', '18b', 20)}
+{('Ketubot', '7a', 30), ('Chullin', '45b', 30)}
+{('Kiddushin', '17b', 50), ('Avodah Zarah', '64a', 40)}
+{('Bava Metzia', '57b', 10), ('Menachot', '90a', 40)}
+{('Pesachim', '87a', 10), ('Ketubot', '71b', 40)}
+{('Eruvin', '19a', 40), ('Sukkah', '32b', 0)}
+{('Eruvin', '4a', 0), ('Eruvin', '3b', 40)}
+{('Bava Batra', '132a', 20), ('Bava Batra', '146b', 10)}
+{('Shabbat', '119a', 10), ('Chullin', '111a', 10)}
+{('Bava Metzia', '53b', 0), ('Sanhedrin', '113a', 0)}
+{('Eruvin', '43b', 30), ('Eruvin', '44a', 0)}
+{('Bava Metzia', '91a', 40), ('Bava Metzia', '91a', 30)}
+{('Berakhot', '37b', 30), ('Menachot', '75b', 40)}
+{('Ketubot', '48a', 20), ('Ketubot', '107a', 40)}
+{('Avodah Zarah', '29b', 50), ('Avodah Zarah', '29b', 40)}
+{('Gittin', '62b', 10), ('Gittin', '63b', 0)}
+{('Makkot', '14b', 10), ('Niddah', '41b', 10)}
+{('Megillah', '31b', 10), ('Taanit', '27a', 20)}
+{('Rosh Hashanah', '24b', 20), ('Avodah Zarah', '43b', 0)}
+{('Bava Kamma', '11a', 20), ('Bava Metzia', '96b', 30)}
+{('Bekhorot', '7a', 10), ('Bava Kamma', '78a', 10)}
+{('Chullin', '89b', 20), ('Chullin', '100b', 20)}
+{('Sanhedrin', '97a', 20), ('Bava Metzia', '49a', 70)}
+{('Sotah', '42a', 30), ('Yoma', '39a', 40)}
+{('Gittin', '72a', 30), ('Bava Batra', '136a', 20)}
+{('Ketubot', '108b', 0), ('Bava Batra', '139b', 10)}
+{('Sukkah', '33a', 60), ('Sukkah', '35b', 30)}
+{('Sanhedrin', '45b', 40), ('Sanhedrin', '71a', 60)}
+{('Eruvin', '59b', 50), ('Eruvin', '60a', 0)}
+{('Yevamot', '105a', 30), ('Rosh Hashanah', '18a', 10)}
+{('Chullin', '137a', 0), ('Bekhorot', '25a', 20)}
+{('Taanit', '15b', 20), ('Eruvin', '41a', 20)}
+{('Berakhot', '45b', 40), ('Chullin', '106a', 60)}
+{('Gittin', '46b', 50), ('Gittin', '46b', 40)}
+{('Sanhedrin', '16a', 0), ('Bava Batra', '106b', 10)}
+{('Sanhedrin', '90a', 10), ('Horayot', '4b', 20)}
+{('Moed Katan', '28b', 0), ('Megillah', '3b', 0)}
+{('Shevuot', '20a', 40), ('Nedarim', '12a', 10)}
+{('Chullin', '36a', 10), ('Chullin', '128a', 20)}
+{('Berakhot', '46b', 40), ('Berakhot', '43a', 30)}
+{('Zevachim', '62a', 30), ('Sukkah', '48b', 40)}
+{('Yoma', '12a', 0), ('Megillah', '26a', 20)}
+{('Sotah', '32a', 10), ('Sotah', '33a', 30)}
+{('Gittin', '5b', 40), ('Gittin', '80a', 10)}
+{('Chullin', '122b', 50), ('Pesachim', '46a', 20)}
+{('Keritot', '14b', 30), ('Yevamot', '32b', 0)}
+{('Bava Batra', '48a', 20), ('Gittin', '58a', 90)}
+{('Niddah', '72b', 30), ('Menachot', '89a', 10)}
+{('Menachot', '36b', 10), ('Eruvin', '96a', 10)}
+{('Gittin', '32a', 20), ('Keritot', '24a', 30)}
+{('Kiddushin', '35b', 0), ('Nazir', '57b', 20)}
+{('Niddah', '56a', 70), ('Niddah', '56b', 0)}
+{('Taanit', '7b', 40), ('Taanit', '8a', 0)}
+{('Nedarim', '5b', 0), ('Gittin', '85a', 60)}
+{('Yoma', '38b', 40), ('Kiddushin', '72b', 0)}
+{('Pesachim', '87a', 20), ('Bava Batra', '7b', 70)}
+{('Yevamot', '111a', 30), ('Yevamot', '111b', 0)}
+{('Gittin', '84b', 40), ('Gittin', '85a', 0)}
+{('Sanhedrin', '78b', 30), ('Sanhedrin', '79a', 0)}
+{('Niddah', '31b', 40), ('Kiddushin', '2b', 20)}
+{('Menachot', '10a', 20), ('Zevachim', '24b', 10)}
+{('Nazir', '23a', 20), ('Horayot', '10b', 20)}
+{('Kiddushin', '81b', 90), ('Kiddushin', '41a', 20)}
+{('Pesachim', '93b', 0), ('Pesachim', '93a', 30)}
+{('Zevachim', '85b', 20), ('Zevachim', '35b', 30)}
+{('Nedarim', '85a', 20), ('Ketubot', '58b', 0)}
+{('Niddah', '7b', 30), ('Niddah', '68b', 30)}
+{('Temurah', '23b', 10), ('Yoma', '55b', 0)}
+{('Sotah', '18a', 30), ('Kiddushin', '27b', 10)}
+{('Shabbat', '79b', 40), ('Menachot', '32a', 20)}
+{('Ketubot', '40b', 50), ('Ketubot', '44b', 20)}
+{('Ketubot', '39a', 40), ('Bava Kamma', '59a', 30)}
+{('Nedarim', '71a', 10), ('Nedarim', '69a', 0)}
+{('Gittin', '80a', 30), ('Yevamot', '116a', 10)}
+{('Makkot', '21b', 30), ('Moed Katan', '2b', 30)}
+{('Chullin', '89b', 30), ('Chullin', '100b', 30)}
+{('Menachot', '52a', 0), ('Horayot', '3b', 60)}
+{('Pesachim', '8b', 10), ('Yoma', '11a', 20)}
+{('Bava Kamma', '63b', 30), ('Bava Metzia', '41b', 20)}
+{('Temurah', '9b', 20), ('Bava Metzia', '54b', 20)}
+{('Chullin', '66a', 20), ('Avodah Zarah', '39a', 0)}
+{('Beitzah', '4b', 40), ('Rosh Hashanah', '30b', 10)}
+{('Gittin', '71a', 0), ('Gittin', '67b', 20)}
+{('Yevamot', '103a', 30), ('Arakhin', '19b', 30)}
+{('Shabbat', '51a', 10), ('Sanhedrin', '24a', 20)}
+{('Berakhot', '26a', 10), ('Shabbat', '10a', 60)}
+{('Yevamot', '100b', 0), ('Yevamot', '99b', 0)}
+{('Avodah Zarah', '28a', 0), ('Shabbat', '109a', 50)}
+{('Kiddushin', '24b', 50), ('Bava Kamma', '26b', 0)}
+{('Niddah', '8b', 10), ('Avodah Zarah', '35b', 10)}
+{('Yevamot', '120b', 40), ('Gittin', '70b', 30)}
+{('Ketubot', '5a', 10), ('Shabbat', '150a', 50)}
+{('Temurah', '31a', 30), ('Bekhorot', '15a', 60)}
+{('Beitzah', '35a', 20), ('Beitzah', '34b', 20)}
+{('Chagigah', '21b', 0), ('Chagigah', '22b', 60)}
+{('Bava Batra', '167a', 20), ('Bava Batra', '167b', 0)}
+{('Avodah Zarah', '19b', 0), ('Sotah', '22a', 50)}
+{('Pesachim', '12b', 40), ('Sanhedrin', '42a', 20)}
+{('Bekhorot', '26a', 0), ('Bekhorot', '25a', 60)}
+{('Gittin', '6a', 30), ('Kiddushin', '72a', 0)}
+{('Arakhin', '10b', 0), ('Rosh Hashanah', '32b', 60)}
+{('Shevuot', '15a', 30), ('Menachot', '76b', 40)}
+{('Bava Metzia', '81b', 50), ('Shevuot', '43b', 30)}
+{('Sanhedrin', '69b', 20), ('Megillah', '14a', 40)}
+{('Bekhorot', '28a', 0), ('Zevachim', '57a', 40)}
+{('Sotah', '24b', 0), ('Yevamot', '58a', 30)}
+{('Gittin', '50a', 0), ('Bava Batra', '174b', 40)}
+{('Shabbat', '153b', 40), ('Sanhedrin', '66a', 0)}
+{('Eruvin', '8a', 20), ('Yevamot', '105b', 60)}
+{('Eruvin', '82a', 0), ('Sanhedrin', '24b', 50)}
+{('Rosh Hashanah', '5a', 20), ('Zevachim', '99b', 50)}
+{('Keritot', '13a', 60), ('Niddah', '55b', 50)}
+{('Nazir', '61b', 30), ('Nazir', '61b', 20)}
+{('Bava Batra', '50a', 20), ('Bava Kamma', '90a', 10)}
+{('Kiddushin', '4a', 40), ('Zevachim', '82b', 30)}
+{('Bava Metzia', '116a', 0), ('Nazir', '38b', 0)}
+{('Avodah Zarah', '39a', 10), ('Sukkah', '18a', 30)}
+{('Bava Kamma', '27a', 20), ('Sanhedrin', '76b', 20)}
+{('Gittin', '55a', 30), ('Gittin', '55a', 20)}
+{('Sanhedrin', '8a', 20), ('Bava Batra', '119a', 20)}
+{('Yevamot', '70a', 10), ('Kiddushin', '4a', 10)}
+{('Menachot', '5b', 0), ('Menachot', '68b', 30)}
+{('Bava Kamma', '72a', 10), ('Bava Kamma', '72a', 0)}
+{('Shevuot', '7b', 30), ('Shevuot', '8a', 0)}
+{('Yoma', '68a', 20), ('Sanhedrin', '42b', 20)}
+{('Kiddushin', '68a', 0), ('Yevamot', '49a', 20)}
+{('Menachot', '57b', 30), ('Zevachim', '115b', 0)}
+{('Eruvin', '56a', 20), ('Bava Batra', '25b', 0)}
+{('Rosh Hashanah', '10b', 30), ('Rosh Hashanah', '11a', 0)}
+{('Avodah Zarah', '70a', 10), ('Avodah Zarah', '61b', 30)}
+{('Sanhedrin', '53b', 0), ('Yevamot', '20a', 30)}
+{('Berakhot', '26b', 40), ('Berakhot', '27a', 10)}
+{('Bava Batra', '30b', 10), ('Ketubot', '109a', 40)}
+{('Bava Kamma', '75b', 10), ('Bava Kamma', '73a', 10)}
+{('Bava Metzia', '9a', 20), ('Bava Metzia', '8a', 20)}
+{('Nazir', '9b', 20), ('Menachot', '103a', 20)}
+{('Zevachim', '36b', 30), ('Sanhedrin', '4a', 10)}
+{('Bava Metzia', '44a', 0), ('Kiddushin', '42b', 40)}
+{('Sanhedrin', '88b', 30), ('Sanhedrin', '88b', 40)}
+{('Sotah', '43a', 50), ('Sotah', '44a', 10)}
+{('Bava Kamma', '48b', 60), ('Bava Kamma', '49a', 10)}
+{('Pesachim', '6b', 0), ('Rosh Hashanah', '7a', 0)}
+{('Bava Metzia', '47b', 50), ('Bava Metzia', '51a', 40)}
+{('Sanhedrin', '82a', 30), ('Avodah Zarah', '36b', 20)}
+{('Ketubot', '74a', 10), ('Yevamot', '106a', 0)}
+{('Temurah', '12b', 20), ('Sotah', '16b', 40)}
+{('Avodah Zarah', '26b', 40), ('Menachot', '42a', 50)}
+{('Megillah', '21b', 40), ('Rosh Hashanah', '32a', 60)}
+{('Chullin', '140b', 50), ('Chullin', '140b', 60)}
+{('Avodah Zarah', '4a', 0), ('Sanhedrin', '110b', 30)}
+{('Sanhedrin', '60a', 30), ('Moed Katan', '26a', 30)}
+{('Chullin', '47b', 30), ('Chullin', '46b', 0)}
+{('Shevuot', '27b', 20), ('Nedarim', '18a', 20)}
+{('Makkot', '7b', 50), ('Chagigah', '9b', 40)}
+{('Bava Metzia', '117a', 50), ('Bava Kamma', '20b', 20)}
+{('Menachot', '4b', 10), ('Menachot', '4a', 40)}
+{('Eruvin', '64b', 50), ('Nedarim', '22a', 10)}
+{('Eruvin', '17b', 0), ('Bava Kamma', '81b', 50)}
+{('Arakhin', '3a', 50), ('Ketubot', '110b', 20)}
+{('Sanhedrin', '21a', 0), ('Bava Metzia', '115a', 20)}
+{('Pesachim', '52b', 40), ('Berakhot', '36b', 20)}
+{('Chullin', '72a', 40), ('Chullin', '68a', 30)}
+{('Shabbat', '12a', 30), ('Shabbat', '13b', 20)}
+{('Bava Batra', '23a', 20), ('Bava Kamma', '83a', 30)}
+{('Zevachim', '35b', 0), ('Zevachim', '104b', 30)}
+{('Shabbat', '101b', 10), ('Eruvin', '25a', 50)}
+{('Bava Batra', '83b', 30), ('Bava Batra', '84a', 0)}
+{('Bava Kamma', '35b', 50), ('Bava Kamma', '35b', 60)}
+{('Shevuot', '8b', 30), ('Shevuot', '10a', 0)}
+{('Beitzah', '22a', 60), ('Shabbat', '129a', 20)}
+{('Niddah', '20a', 30), ('Shabbat', '114a', 40)}
+{('Ketubot', '27b', 40), ('Bava Metzia', '39b', 20)}
+{('Sanhedrin', '75b', 30), ('Sanhedrin', '75b', 20)}
+{('Megillah', '6a', 10), ('Moed Katan', '25b', 50)}
+{('Beitzah', '17b', 30), ('Beitzah', '20a', 20)}
+{('Pesachim', '46a', 30), ('Chullin', '123a', 0)}
+{('Menachot', '4a', 20), ('Niddah', '22b', 40)}
+{('Avodah Zarah', '55a', 30), ('Yoma', '38b', 60)}
+{('Bava Kamma', '30b', 30), ('Beitzah', '40a', 10)}
+{('Menachot', '53a', 0), ('Chullin', '23b', 0)}
+{('Beitzah', '5a', 20), ('Rosh Hashanah', '31b', 30)}
+{('Yevamot', '112a', 20), ('Nedarim', '90b', 10)}
+{('Sukkah', '46b', 60), ('Sukkah', '47a', 0)}
+{('Yevamot', '109a', 60), ('Yevamot', '39b', 50)}
+{('Berakhot', '7a', 90), ('Menachot', '35b', 30)}
+{('Shevuot', '34b', 40), ('Niddah', '40a', 30)}
+{('Bava Metzia', '61b', 50), ('Temurah', '6b', 10)}
+{('Bava Metzia', '114b', 0), ('Yevamot', '60b', 70)}
+{('Ketubot', '71a', 60), ('Nedarim', '79a', 30)}
+{('Temurah', '26a', 0), ('Zevachim', '30b', 0)}
+{('Chullin', '132b', 40), ('Megillah', '28a', 0)}
+{('Menachot', '67b', 10), ('Pesachim', '10b', 70)}
+{('Bava Batra', '85b', 30), ('Avodah Zarah', '72a', 20)}
+{('Bekhorot', '44b', 50), ('Bekhorot', '43b', 40)}
+{('Eruvin', '85b', 30), ('Eruvin', '72b', 40)}
+{('Bava Batra', '45b', 20), ('Shevuot', '46a', 10)}
+{('Temurah', '25b', 20), ('Temurah', '11a', 10)}
+{('Bava Batra', '171b', 30), ('Bava Batra', '164b', 0)}
+{('Sotah', '26b', 10), ('Sotah', '26a', 50)}
+{('Zevachim', '101a', 0), ('Yoma', '5b', 0)}
+{('Ketubot', '107b', 0), ('Yevamot', '41b', 30)}
+{('Kiddushin', '34b', 10), ('Kiddushin', '37b', 20)}
+{('Bava Metzia', '98b', 20), ('Bava Kamma', '104a', 10)}
+{('Sanhedrin', '16a', 40), ('Yoma', '73b', 20)}
+{('Rosh Hashanah', '19a', 20), ('Rosh Hashanah', '18b', 50)}
+{('Shevuot', '35a', 0), ('Shevuot', '31b', 50)}
+{('Moed Katan', '19b', 10), ('Moed Katan', '17b', 20)}
+{('Shabbat', '76a', 20), ('Bava Batra', '60b', 20)}
+{('Bava Batra', '113a', 20), ('Bava Batra', '111b', 40)}
+{('Arakhin', '30a', 50), ('Kiddushin', '20a', 30)}
+{('Zevachim', '99a', 50), ('Yoma', '30b', 20)}
+{('Sanhedrin', '64b', 50), ('Sanhedrin', '90b', 50)}
+{('Sanhedrin', '88a', 10), ('Arakhin', '28b', 30)}
+{('Nedarim', '56b', 30), ('Chullin', '10b', 40)}
+{('Eruvin', '77b', 10), ('Eruvin', '77b', 20)}
+{('Shabbat', '136a', 50), ('Yevamot', '36b', 30)}
+{('Sukkah', '43a', 10), ('Sukkah', '44a', 0)}
+{('Ketubot', '56b', 0), ('Ketubot', '24a', 10)}
+{('Bava Kamma', '16b', 60), ('Bava Batra', '9b', 60)}
+{('Nedarim', '43a', 10), ('Ketubot', '70b', 50)}
+{('Yoma', '74a', 0), ('Shevuot', '31a', 40)}
+{('Zevachim', '35a', 30), ('Menachot', '17a', 40)}
+{('Bava Metzia', '11a', 40), ('Kiddushin', '26b', 40)}
+{('Pesachim', '65a', 30), ('Zevachim', '35a', 0)}
+{('Menachot', '8b', 10), ('Zevachim', '88a', 20)}
+{('Menachot', '97b', 50), ('Yoma', '16b', 0)}
+{('Ketubot', '49a', 20), ('Bava Batra', '131b', 0)}
+{('Shabbat', '80a', 50), ('Shabbat', '78b', 0)}
+{('Sanhedrin', '82a', 0), ('Shabbat', '55b', 70)}
+{('Menachot', '106b', 50), ('Menachot', '107b', 10)}
+{('Megillah', '7b', 40), ('Beitzah', '28b', 20)}
+{('Ketubot', '109b', 30), ('Yevamot', '37b', 60)}
+{('Megillah', '10b', 70), ('Sanhedrin', '39b', 10)}
+{('Gittin', '71b', 10), ('Yevamot', '113b', 10)}
+{('Shabbat', '7b', 30), ('Shabbat', '100a', 20)}
+{('Moed Katan', '10b', 20), ('Bava Batra', '54a', 10)}
+{('Megillah', '32a', 30), ('Shabbat', '14a', 30)}
+{('Eruvin', '22a', 30), ('Eruvin', '19b', 30)}
+{('Bava Metzia', '27b', 40), ('Yevamot', '120a', 50)}
+{('Avodah Zarah', '39a', 60), ('Avodah Zarah', '39b', 10)}
+{('Kiddushin', '81b', 80), ('Berakhot', '24a', 40)}
+{('Yoma', '82b', 0), ('Pesachim', '25b', 10)}
+{('Sukkah', '15a', 40), ('Eruvin', '15b', 50)}
+{('Pesachim', '44a', 0), ('Nazir', '36a', 10)}
+{('Shevuot', '39a', 20), ('Nedarim', '25a', 20)}
+{('Chagigah', '4a', 20), ('Sukkah', '28b', 10)}
+{('Bava Metzia', '57a', 20), ('Temurah', '27a', 30)}
+{('Pesachim', '84b', 70), ('Pesachim', '84b', 60)}
+{('Bava Kamma', '23b', 20), ('Sanhedrin', '78a', 50)}
+{('Sotah', '49b', 50), ('Bava Kamma', '83a', 0)}
+{('Shabbat', '94a', 10), ('Avodah Zarah', '16a', 20)}
+{('Temurah', '19b', 30), ('Bekhorot', '21b', 0)}
+{('Sanhedrin', '67a', 40), ('Shabbat', '104b', 20)}
+{('Menachot', '15b', 10), ('Menachot', '15a', 40)}
+{('Megillah', '25b', 50), ('Sanhedrin', '63b', 30)}
+{('Zevachim', '93b', 0), ('Menachot', '7b', 20)}
+{('Zevachim', '63a', 10), ('Menachot', '8b', 30)}
+{('Zevachim', '114b', 0), ('Pesachim', '91a', 20)}
+{('Bava Metzia', '31a', 50), ('Chullin', '141a', 10)}
+{('Bava Metzia', '75a', 0), ('Shabbat', '148b', 10)}
+{('Avodah Zarah', '39b', 60), ('Avodah Zarah', '38b', 50)}
+{('Bava Metzia', '91b', 50), ('Bava Metzia', '91b', 40)}
+{('Nedarim', '83b', 10), ('Nedarim', '83b', 0)}
+{('Temurah', '29b', 0), ('Avodah Zarah', '63a', 0)}
+{('Sukkah', '24b', 30), ('Eruvin', '15a', 10)}
+{('Chullin', '50b', 60), ('Ketubot', '76b', 10)}
+{('Pesachim', '35a', 40), ('Chullin', '120a', 50)}
+{('Sukkah', '43a', 30), ('Shabbat', '131b', 0)}
+{('Chullin', '78a', 30), ('Bava Kamma', '77b', 30)}
+{('Bava Kamma', '47b', 60), ('Bava Kamma', '48a', 0)}
+{('Sukkah', '7b', 40), ('Eruvin', '76a', 30)}
+{('Shabbat', '155b', 60), ('Shabbat', '18a', 0)}
+{('Berakhot', '27b', 70), ('Bekhorot', '36a', 50)}
+{('Menachot', '78b', 60), ('Menachot', '78b', 70)}
+{('Ketubot', '75a', 20), ('Yevamot', '118b', 50)}
+{('Moed Katan', '12b', 20), ('Shabbat', '139b', 10)}
+{('Nedarim', '74b', 10), ('Yevamot', '29b', 30)}
+{('Taanit', '24b', 20), ('Yoma', '53b', 30)}
+{('Bava Kamma', '111a', 30), ('Pesachim', '58b', 30)}
+{('Avodah Zarah', '69a', 30), ('Chagigah', '20b', 0)}
+{('Shabbat', '52b', 60), ('Shabbat', '53b', 50)}
+{('Keritot', '6b', 70), ('Yevamot', '61a', 0)}
+{('Menachot', '32a', 30), ('Shabbat', '79b', 20)}
+{('Arakhin', '29a', 0), ('Bekhorot', '32a', 50)}
+{('Shevuot', '39a', 30), ('Shevuot', '38b', 70)}
+{('Arakhin', '22b', 20), ('Ketubot', '88a', 20)}
+{('Bava Batra', '90a', 10), ('Menachot', '77a', 10)}
+{('Sukkah', '13a', 20), ('Chullin', '62b', 10)}
+{('Kiddushin', '73b', 30), ('Niddah', '60b', 20)}
+{('Yoma', '67a', 30), ('Rosh Hashanah', '31b', 40)}
+{('Menachot', '75b', 20), ('Berakhot', '37b', 20)}
+{('Kiddushin', '55a', 10), ('Meilah', '19b', 0)}
+{('Gittin', '71a', 10), ('Chagigah', '2b', 10)}
+{('Bava Kamma', '106b', 30), ('Bava Kamma', '68b', 40)}
+{('Shabbat', '10a', 50), ('Pesachim', '12b', 30)}
+{('Megillah', '28a', 50), ('Bava Kamma', '93a', 10)}
+{('Pesachim', '34a', 20), ('Nedarim', '60a', 0)}
+{('Nedarim', '42b', 10), ('Nedarim', '46a', 10)}
+{('Shabbat', '10b', 10), ('Beitzah', '16a', 20)}
+{('Nedarim', '78a', 20), ('Bava Batra', '120b', 30)}
+{('Bava Batra', '81b', 20), ('Gittin', '47b', 30)}
+{('Taanit', '27b', 50), ('Taanit', '27b', 60)}
+{('Menachot', '6a', 40), ('Sotah', '15a', 20)}
+{('Ketubot', '107b', 60), ('Nedarim', '33a', 20)}
+{('Gittin', '25b', 10), ('Ketubot', '73b', 40)}
+{('Eruvin', '83b', 20), ('Eruvin', '77a', 10)}
+{('Bava Batra', '76a', 10), ('Kiddushin', '47b', 40)}
+{('Sanhedrin', '16b', 20), ('Shevuot', '15a', 10)}
+{('Pesachim', '31b', 40), ('Bava Metzia', '54b', 0)}
+{('Kiddushin', '39a', 30), ('Sanhedrin', '60a', 0)}
+{('Yoma', '65a', 20), ('Bava Metzia', '57b', 50)}
+{('Shabbat', '122a', 30), ('Shabbat', '151a', 20)}
+{('Nazir', '17b', 0), ('Nazir', '16b', 20)}
+{('Berakhot', '29b', 20), ('Shabbat', '118b', 40)}
+{('Eruvin', '18a', 60), ('Shabbat', '95a', 0)}
+{('Bava Batra', '123b', 10), ('Yoma', '54a', 20)}
+{('Bava Kamma', '13a', 0), ('Temurah', '8a', 40)}
+{('Kiddushin', '8a', 10), ('Kiddushin', '46a', 40)}
+{('Bava Batra', '92a', 0), ('Bava Kamma', '46a', 20)}
+{('Bava Kamma', '88b', 30), ('Ketubot', '78b', 40)}
+{('Pesachim', '68b', 20), ('Beitzah', '15b', 50)}
+{('Bekhorot', '54a', 0), ('Bekhorot', '53a', 0)}
+{('Bava Metzia', '5b', 20), ('Bava Metzia', '3a', 0)}
+{('Shabbat', '139a', 0), ('Sanhedrin', '98a', 20)}
+{('Menachot', '11b', 40), ('Zevachim', '27b', 30)}
+{('Kiddushin', '81a', 0), ('Sotah', '7a', 0)}
+{('Taanit', '30b', 20), ('Bava Batra', '121b', 10)}
+{('Bava Metzia', '7b', 30), ('Bava Metzia', '107a', 30)}
+{('Ketubot', '60a', 30), ('Keritot', '22a', 0)}
+{('Bava Kamma', '91a', 10), ('Bava Kamma', '50b', 10)}
+{('Ketubot', '62a', 30), ('Yoma', '77a', 20)}
+{('Pesachim', '81a', 0), ('Nazir', '15b', 10)}
+{('Bava Metzia', '71a', 40), ('Avodah Zarah', '22b', 20)}
+{('Shabbat', '68a', 20), ('Shabbat', '68a', 30)}
+{('Bava Batra', '75b', 60), ('Bava Batra', '76a', 0)}
+{('Pesachim', '40b', 0), ('Avodah Zarah', '65b', 20)}
+{('Sanhedrin', '65a', 10), ('Keritot', '3b', 50)}
+{('Zevachim', '84b', 0), ('Zevachim', '51a', 0)}
+{('Sanhedrin', '70a', 40), ('Yoma', '76b', 10)}
+{('Sanhedrin', '74a', 10), ('Bava Kamma', '117b', 20)}
+{('Megillah', '11b', 20), ('Arakhin', '12a', 40)}
+{('Tamid', '28a', 20), ('Yoma', '22a', 0)}
+{('Bava Kamma', '19a', 20), ('Bava Kamma', '18a', 10)}
+{('Yoma', '79b', 20), ('Beitzah', '7b', 10)}
+{('Sanhedrin', '49b', 30), ('Yevamot', '106b', 10)}
+{('Menachot', '37a', 30), ('Eruvin', '95b', 40)}
+{('Kiddushin', '13b', 20), ('Yevamot', '55a', 20)}
+{('Sanhedrin', '31b', 0), ('Bava Metzia', '21a', 10)}
+{('Eruvin', '16b', 0), ('Eruvin', '11a', 10)}
+{('Bava Kamma', '99a', 10), ('Bava Metzia', '112a', 30)}
+{('Bava Kamma', '96a', 30), ('Sukkah', '32a', 10)}
+{('Bekhorot', '13a', 40), ('Bekhorot', '13a', 60)}
+{('Shabbat', '140a', 20), ('Avodah Zarah', '30a', 0)}
+{('Pesachim', '38b', 0), ('Pesachim', '38a', 40)}
+{('Nedarim', '74a', 30), ('Yevamot', '29b', 50)}
+{('Gittin', '46a', 0), ('Gittin', '45b', 50)}
+{('Chullin', '14b', 10), ('Shabbat', '124b', 20)}
+{('Shevuot', '25a', 30), ('Shevuot', '49b', 70)}
+{('Gittin', '44a', 0), ('Chullin', '131a', 0)}
+{('Menachot', '107a', 60), ('Zevachim', '91b', 40)}
+{('Bava Kamma', '40b', 40), ('Temurah', '28b', 20)}
+{('Yoma', '52b', 0), ('Pesachim', '113b', 70)}
+{('Taanit', '21a', 50), ('Sanhedrin', '108b', 80)}
+{('Shabbat', '112b', 20), ('Eruvin', '24a', 30)}
+{('Shabbat', '116b', 70), ('Shabbat', '117a', 0)}
+{('Sukkah', '51b', 20), ('Bava Batra', '4a', 50)}
+{('Pesachim', '15a', 20), ('Pesachim', '20b', 0)}
+{('Bava Batra', '63a', 10), ('Bava Batra', '64a', 0)}
+{('Gittin', '16a', 0), ('Chagigah', '19a', 30)}
+{('Berakhot', '38b', 20), ('Pesachim', '41a', 20)}
+{('Chullin', '60a', 50), ('Rosh Hashanah', '11a', 10)}
+{('Sanhedrin', '52b', 50), ('Ketubot', '37b', 10)}
+{('Berakhot', '33b', 10), ('Berakhot', '29a', 50)}
+{('Niddah', '73a', 40), ('Megillah', '28b', 70)}
+{('Gittin', '52a', 50), ('Gittin', '52a', 60)}
+{('Shabbat', '83a', 20), ('Niddah', '34a', 0)}
+{('Sanhedrin', '55a', 40), ('Sanhedrin', '55b', 30)}
+{('Sanhedrin', '12a', 0), ('Rosh Hashanah', '7a', 30)}
+{('Shabbat', '44b', 0), ('Shabbat', '46a', 10)}
+{('Gittin', '66a', 0), ('Gittin', '72b', 40)}
+{('Eruvin', '46b', 10), ('Eruvin', '80b', 10)}
+{('Pesachim', '46b', 0), ('Nedarim', '85a', 0)}
+{('Zevachim', '49a', 20), ('Yevamot', '7a', 30)}
+{('Eruvin', '69a', 0), ('Gittin', '53b', 30)}
+{('Zevachim', '21b', 20), ('Zevachim', '19b', 20)}
+{('Shabbat', '90a', 10), ('Niddah', '62a', 0)}
+{('Horayot', '11b', 50), ('Keritot', '5b', 30)}
+{('Zevachim', '81a', 0), ('Zevachim', '77a', 30)}
+{('Arakhin', '15a', 50), ('Pesachim', '118a', 60)}
+{('Berakhot', '60a', 10), ('Pesachim', '102a', 10)}
+{('Bava Batra', '170a', 20), ('Bava Metzia', '7a', 40)}
+{('Gittin', '29b', 70), ('Gittin', '76b', 20)}
+{('Kiddushin', '78b', 40), ('Bava Batra', '127b', 10)}
+{('Shabbat', '125b', 50), ('Eruvin', '102a', 0)}
+{('Keritot', '12b', 60), ('Shabbat', '105a', 20)}
+{('Bekhorot', '60a', 0), ('Bekhorot', '59b', 40)}
+{('Avodah Zarah', '57a', 10), ('Avodah Zarah', '57a', 30)}
+{('Pesachim', '35b', 50), ('Kiddushin', '77b', 20)}
+{('Arakhin', '13a', 0), ('Rosh Hashanah', '3b', 20)}
+{('Avodah Zarah', '39a', 50), ('Bekhorot', '30b', 50)}
+{('Bava Kamma', '97a', 0), ('Bava Kamma', '21a', 0)}
+{('Yevamot', '90b', 20), ('Yevamot', '22b', 0)}
+{('Sanhedrin', '19a', 50), ('Sanhedrin', '18a', 20)}
+{('Sanhedrin', '14b', 0), ('Sotah', '45a', 0)}
+{('Kiddushin', '29a', 40), ('Bekhorot', '49b', 10)}
+{('Shevuot', '31a', 50), ('Menachot', '107a', 50)}
+{('Keritot', '18a', 40), ('Keritot', '24b', 20)}
+{('Megillah', '18a', 10), ('Makkot', '10a', 60)}
+{('Bava Metzia', '106b', 50), ('Bava Metzia', '78b', 10)}
+{('Niddah', '72b', 20), ('Sanhedrin', '87a', 40)}
+{('Eruvin', '41a', 30), ('Taanit', '12a', 10)}
+{('Sotah', '48a', 70), ('Shabbat', '119b', 50)}
+{('Bava Kamma', '99b', 80), ('Bava Metzia', '30b', 30)}
+{('Makkot', '17a', 10), ('Makkot', '13a', 40)}
+{('Bava Batra', '71a', 30), ('Bava Batra', '37a', 10)}
+{('Bava Batra', '4a', 40), ('Sukkah', '51b', 10)}
+{('Ketubot', '43a', 0), ('Shevuot', '38b', 20)}
+{('Niddah', '11b', 50), ('Niddah', '16b', 20)}
+{('Rosh Hashanah', '23b', 20), ('Eruvin', '45a', 10)}
+{('Horayot', '3b', 0), ('Horayot', '2a', 0)}
+{('Pesachim', '37a', 20), ('Beitzah', '22b', 20)}
+{('Chullin', '117a', 10), ('Keritot', '4a', 70)}
+{('Menachot', '48b', 10), ('Zevachim', '115a', 30)}
+{('Temurah', '27a', 20), ('Bava Metzia', '57a', 10)}
+{('Shevuot', '32b', 40), ('Shevuot', '37a', 60)}
+{('Shabbat', '63b', 30), ('Sukkah', '5a', 30)}
+{('Shabbat', '46b', 0), ('Shabbat', '44a', 0)}
+{('Bava Metzia', '118a', 0), ('Bava Metzia', '116b', 40)}
+{('Zevachim', '105a', 10), ('Pesachim', '85b', 0)}
+{('Menachot', '18b', 40), ('Menachot', '9a', 10)}
+{('Rosh Hashanah', '18a', 30), ('Yevamot', '105a', 50)}
+{('Kiddushin', '11a', 20), ('Bekhorot', '50b', 0)}
+{('Sukkah', '21b', 20), ('Avodah Zarah', '19b', 10)}
+{('Shabbat', '11b', 10), ('Eruvin', '99b', 0)}
+{('Sanhedrin', '81a', 0), ('Kiddushin', '32a', 50)}
+{('Yevamot', '66b', 10), ('Avodah Zarah', '15a', 20)}
+{('Niddah', '65b', 60), ('Niddah', '66a', 0)}
+{('Niddah', '48a', 10), ('Arakhin', '18b', 40)}
+{('Berakhot', '32b', 20), ('Berakhot', '54b', 100)}
+{('Nedarim', '66a', 10), ('Nedarim', '26b', 10)}
+{('Shevuot', '8b', 10), ('Keritot', '26b', 10)}
+{('Sanhedrin', '33a', 20), ('Sanhedrin', '6a', 10)}
+{('Bava Kamma', '67a', 30), ('Sukkah', '30a', 0)}
+{('Megillah', '23b', 30), ('Sanhedrin', '15a', 30)}
+{('Sanhedrin', '51b', 30), ('Sanhedrin', '50b', 40)}
+{('Yevamot', '68b', 0), ('Yevamot', '87a', 10)}
+{('Bava Kamma', '12a', 0), ('Ketubot', '50b', 20)}
+{('Menachot', '109b', 10), ('Menachot', '109a', 60)}
+{('Chullin', '44b', 30), ('Megillah', '28a', 30)}
+{('Sanhedrin', '38a', 10), ('Gittin', '88a', 50)}
+{('Nazir', '15a', 20), ('Moed Katan', '19b', 0)}
+{('Temurah', '7b', 10), ('Pesachim', '42a', 0)}
+{('Bava Kamma', '29b', 20), ('Pesachim', '6b', 40)}
+{('Bava Batra', '17a', 40), ('Shabbat', '55b', 10)}
+{('Gittin', '11a', 20), ('Gittin', '19b', 20)}
+{('Chullin', '101a', 20), ('Zevachim', '108a', 20)}
+{('Shabbat', '106b', 20), ('Beitzah', '24a', 20)}
+{('Bava Batra', '44b', 0), ('Bava Kamma', '11b', 30)}
+{('Bava Batra', '65a', 30), ('Bava Batra', '73a', 0)}
+{('Sanhedrin', '108b', 60), ('Eruvin', '18b', 40)}
+{('Sanhedrin', '25a', 20), ('Sanhedrin', '9b', 10)}
+{('Eruvin', '55a', 20), ('Eruvin', '57b', 30)}
+{('Bava Kamma', '44b', 10), ('Sanhedrin', '79a', 10)}
+{('Chullin', '107b', 60), ('Moed Katan', '14a', 10)}
+{('Temurah', '2b', 40), ('Yoma', '50b', 0)}
+{('Sukkah', '52a', 60), ('Kiddushin', '30b', 10)}
+{('Niddah', '35b', 0), ('Niddah', '35a', 30)}
+{('Chullin', '22a', 30), ('Chullin', '22b', 0)}
+{('Bava Kamma', '90a', 0), ('Bava Batra', '50a', 10)}
+{('Bava Metzia', '48b', 30), ('Bava Metzia', '77b', 50)}
+{('Gittin', '66b', 30), ('Gittin', '71b', 30)}
+{('Sotah', '6a', 40), ('Sotah', '22b', 20)}
+{('Gittin', '26b', 30), ('Ketubot', '85a', 70)}
+{('Bava Kamma', '66b', 10), ('Bava Kamma', '114a', 40)}
+{('Chullin', '86a', 0), ('Chullin', '85a', 40)}
+{('Niddah', '43a', 50), ('Niddah', '43a', 40)}
+{('Yevamot', '57a', 0), ('Yevamot', '58b', 30)}
+{('Rosh Hashanah', '7a', 60), ('Yoma', '65b', 0)}
+{('Horayot', '10a', 10), ('Ketubot', '45a', 10)}
+{('Bekhorot', '2a', 20), ('Bekhorot', '2b', 10)}
+{('Eruvin', '68b', 40), ('Eruvin', '61b', 40)}
+{('Taanit', '14b', 40), ('Megillah', '5b', 30)}
+{('Moed Katan', '20a', 10), ('Moed Katan', '19b', 50)}
+{('Chullin', '5a', 50), ('Eruvin', '69b', 20)}
+{('Gittin', '28a', 0), ('Menachot', '30b', 10)}
+{('Makkot', '24a', 20), ('Sukkah', '49b', 30)}
+{('Makkot', '9b', 50), ('Makkot', '10b', 40)}
+{('Shabbat', '41a', 20), ('Berakhot', '24b', 30)}
+{('Eruvin', '24a', 20), ('Shabbat', '112b', 10)}
+{('Shabbat', '5a', 0), ('Shabbat', '98a', 0)}
+{('Berakhot', '46a', 40), ('Pesachim', '104b', 10)}
+{('Sanhedrin', '10a', 30), ('Makkot', '2b', 20)}
+{('Bava Metzia', '33b', 10), ('Bava Kamma', '108a', 30)}
+{('Bava Kamma', '44a', 0), ('Bava Kamma', '42b', 30)}
+{('Chullin', '33a', 10), ('Chullin', '121b', 30)}
+{('Yevamot', '39b', 60), ('Yevamot', '39b', 70)}
+{('Pesachim', '81b', 10), ('Nazir', '63a', 10)}
+{('Sanhedrin', '6b', 0), ('Bava Kamma', '94a', 10)}
+{('Yevamot', '22b', 50), ('Yevamot', '97a', 40)}
+{('Niddah', '21a', 40), ('Niddah', '21b', 10)}
+{('Sukkah', '45b', 0), ('Yoma', '72a', 30)}
+{('Nedarim', '13b', 10), ('Shevuot', '25a', 20)}
+{('Yoma', '15a', 40), ('Zevachim', '38a', 30)}
+{('Keritot', '25a', 10), ('Chullin', '23b', 20)}
+{('Gittin', '64b', 20), ('Bava Kamma', '58b', 30)}
+{('Yoma', '41a', 0), ('Keritot', '28a', 10)}
+{('Zevachim', '105a', 20), ('Niddah', '51a', 10)}
+{('Avodah Zarah', '17b', 20), ('Bava Batra', '10b', 10)}
+{('Bava Batra', '18a', 30), ('Bava Batra', '26a', 10)}
+{('Chagigah', '9a', 0), ('Megillah', '5a', 40)}
+{('Menachot', '8a', 0), ('Menachot', '9b', 10)}
+{('Eruvin', '21b', 50), ('Shabbat', '14b', 30)}
+{('Yevamot', '87b', 30), ('Keritot', '11b', 50)}
+{('Taanit', '11b', 20), ('Avodah Zarah', '34a', 10)}
+{('Yoma', '4b', 10), ('Taanit', '28a', 50)}
+{('Ketubot', '49a', 0), ('Yevamot', '87a', 20)}
+{('Zevachim', '9b', 30), ('Menachot', '3b', 10)}
+{('Menachot', '72a', 20), ('Megillah', '20b', 10)}
+{('Bava Kamma', '105a', 20), ('Nazir', '42a', 10)}
+{('Niddah', '55a', 30), ('Chullin', '122a', 20)}
+{('Bava Kamma', '99a', 20), ('Kiddushin', '48a', 50)}
+{('Kiddushin', '75a', 30), ('Yevamot', '37a', 40)}
+{('Shabbat', '35a', 10), ('Eruvin', '14b', 20)}
+{('Bekhorot', '37b', 60), ('Eruvin', '7a', 10)}
+{('Taanit', '6a', 50), ('Nedarim', '63a', 10)}
+{('Bava Kamma', '91a', 50), ('Bava Kamma', '90a', 30)}
+{('Sanhedrin', '20b', 0), ('Nedarim', '56b', 10)}
+{('Menachot', '42a', 70), ('Gittin', '45b', 10)}
+{('Shabbat', '129a', 80), ('Gittin', '70a', 60)}
+{('Megillah', '15b', 30), ('Sotah', '12b', 20)}
+{('Sanhedrin', '48a', 10), ('Berakhot', '23b', 50)}
+{('Ketubot', '59a', 10), ('Ketubot', '64b', 10)}
+{('Yoma', '81b', 40), ('Keritot', '18b', 40)}
+{('Shabbat', '62b', 50), ('Yoma', '9b', 10)}
+{('Bava Metzia', '17b', 20), ('Ketubot', '89b', 30)}
+{('Bekhorot', '15b', 10), ('Temurah', '17b', 10)}
+{('Zevachim', '94b', 30), ('Zevachim', '10b', 10)}
+{('Menachot', '48a', 20), ('Zevachim', '77a', 10)}
+{('Niddah', '32a', 20), ('Chullin', '116b', 10)}
+{('Menachot', '103a', 30), ('Nazir', '9b', 30)}
+{('Temurah', '6b', 0), ('Bava Metzia', '61b', 40)}
+{('Sanhedrin', '7a', 60), ('Yevamot', '109b', 20)}
+{('Rosh Hashanah', '17a', 40), ('Megillah', '28a', 40)}
+{('Niddah', '28b', 10), ('Shevuot', '18b', 50)}
+{('Makkot', '13b', 0), ('Temurah', '3b', 50)}
+{('Nedarim', '91b', 10), ('Nedarim', '91a', 20)}
+{('Bava Batra', '175b', 40), ('Arakhin', '7a', 10)}
+{('Ketubot', '86a', 30), ('Chullin', '132b', 30)}
+{('Bava Batra', '4a', 60), ('Sotah', '20b', 50)}
+{('Bava Batra', '50a', 0), ('Bava Metzia', '96b', 10)}
+{('Avodah Zarah', '34b', 40), ('Temurah', '30b', 10)}
+{('Sanhedrin', '14a', 40), ('Ketubot', '17a', 10)}
+{('Sanhedrin', '26a', 30), ('Niddah', '13a', 30)}
+{('Eruvin', '27a', 20), ('Kiddushin', '34a', 10)}
+{('Menachot', '6a', 20), ('Temurah', '29a', 40)}
+{('Sukkah', '52b', 20), ('Berakhot', '32a', 0)}
+{('Gittin', '17a', 40), ('Bava Kamma', '22a', 0)}
+{('Sotah', '23b', 40), ('Sotah', '25a', 10)}
+{('Arakhin', '22a', 90), ('Bava Batra', '174a', 20)}
+{('Bava Kamma', '2b', 40), ('Bava Kamma', '55b', 30)}
+{('Eruvin', '100b', 50), ('Nedarim', '20b', 30)}
+{('Taanit', '12b', 60), ('Megillah', '30b', 20)}
+{('Megillah', '30a', 10), ('Megillah', '29b', 60)}
+{('Megillah', '6b', 20), ('Berakhot', '7b', 70)}
+{('Yevamot', '9a', 30), ('Horayot', '8a', 40)}
+{('Tamid', '33b', 20), ('Zevachim', '64a', 20)}
+{('Yevamot', '60b', 10), ('Kiddushin', '78a', 40)}
+{('Shabbat', '54a', 70), ('Beitzah', '29a', 60)}
+{('Sukkah', '21b', 30), ('Sukkah', '21b', 40)}
+{('Nedarim', '49a', 0), ('Nedarim', '51a', 60)}
+{('Sanhedrin', '63b', 10), ('Bekhorot', '2b', 50)}
+{('Eruvin', '45a', 0), ('Zevachim', '110a', 20)}
+{('Eruvin', '26b', 0), ('Eruvin', '70a', 0)}
+{('Pesachim', '71a', 30), ('Pesachim', '70b', 40)}
+{('Meilah', '11b', 20), ('Meilah', '12a', 0)}
+{('Zevachim', '86a', 20), ('Zevachim', '103b', 30)}
+{('Yoma', '81a', 0), ('Yoma', '80b', 30)}
+{('Shabbat', '5b', 0), ('Eruvin', '97b', 50)}
+{('Bava Batra', '85b', 10), ('Gittin', '78a', 20)}
+{('Menachot', '27a', 20), ('Menachot', '28b', 50)}
+{('Yevamot', '120b', 30), ('Gittin', '70b', 20)}
+{('Chullin', '120b', 20), ('Berakhot', '38a', 10)}
+{('Megillah', '4b', 10), ('Megillah', '4a', 30)}
+{('Arakhin', '10a', 40), ('Taanit', '28a', 40)}
+{('Sanhedrin', '30b', 70), ('Sanhedrin', '41a', 40)}
+{('Berakhot', '64a', 10), ('Horayot', '14a', 20)}
+{('Shabbat', '138b', 50), ('Yoma', '9b', 20)}
+{('Nedarim', '29b', 10), ('Kiddushin', '62b', 10)}
+{('Menachot', '50b', 10), ('Menachot', '8a', 20)}
+{('Nazir', '23b', 0), ('Horayot', '10b', 50)}
+{('Kiddushin', '65b', 50), ('Kiddushin', '65b', 40)}
+{('Shevuot', '34a', 30), ('Sanhedrin', '37b', 10)}
+{('Shabbat', '56a', 20), ('Kiddushin', '43a', 30)}
+{('Avodah Zarah', '33b', 40), ('Pesachim', '30b', 20)}
+{('Makkot', '12a', 60), ('Sanhedrin', '85b', 0)}
+{('Eruvin', '55b', 60), ('Pesachim', '42a', 50)}
+{('Menachot', '29a', 60), ('Menachot', '34a', 50)}
+{('Pesachim', '19b', 40), ('Niddah', '5b', 10)}
+{('Avodah Zarah', '38a', 10), ('Beitzah', '16a', 70)}
+{('Avodah Zarah', '8b', 0), ('Ketubot', '8a', 10)}
+{('Sukkah', '9a', 20), ('Menachot', '42b', 10)}
+{('Nedarim', '63a', 0), ('Taanit', '6a', 40)}
+{('Chullin', '105b', 50), ('Shabbat', '81b', 40)}
+{('Chullin', '8a', 0), ('Chullin', '17b', 50)}
+{('Eruvin', '79a', 20), ('Shabbat', '122a', 10)}
+{('Sanhedrin', '70a', 20), ('Taanit', '30a', 10)}
+{('Gittin', '3a', 10), ('Gittin', '2b', 10)}
+{('Bava Metzia', '117b', 30), ('Bava Kamma', '6b', 0)}
+{('Sanhedrin', '7a', 10), ('Kiddushin', '40b', 30)}
+{('Bava Kamma', '79a', 20), ('Bava Metzia', '99a', 40)}
+{('Ketubot', '82a', 30), ('Yevamot', '39a', 20)}
+{('Berakhot', '8b', 40), ('Pesachim', '111a', 10)}
+{('Sanhedrin', '84a', 20), ('Pesachim', '33a', 0)}
+{('Yoma', '49b', 0), ('Yoma', '47b', 0)}
+{('Eruvin', '79a', 0), ('Sukkah', '4a', 0)}
+{('Nedarim', '52a', 0), ('Nedarim', '52b', 10)}
+{('Menachot', '4a', 10), ('Makkot', '13b', 20)}
+{('Ketubot', '103b', 20), ('Shabbat', '59b', 20)}
+{('Menachot', '50a', 40), ('Menachot', '58a', 0)}
+{('Sanhedrin', '111a', 40), ('Bava Batra', '15b', 70)}
+{('Chullin', '62b', 0), ('Sukkah', '13a', 10)}
+{('Niddah', '9b', 40), ('Niddah', '10a', 0)}
+{('Zevachim', '67a', 30), ('Zevachim', '67a', 20)}
+{('Bava Batra', '174b', 10), ('Arakhin', '23a', 30)}
+{('Shabbat', '119b', 30), ('Sanhedrin', '110b', 50)}
+{('Rosh Hashanah', '22a', 20), ('Bava Batra', '65a', 0)}
+{('Menachot', '77b', 30), ('Zevachim', '57b', 0)}
+{('Menachot', '32a', 10), ('Yevamot', '102a', 0)}
+{('Gittin', '80a', 0), ('Yevamot', '91b', 20)}
+{('Kiddushin', '73a', 30), ('Ketubot', '15a', 10)}
+{('Chagigah', '27a', 10), ('Eruvin', '19a', 20)}
+{('Yoma', '10a', 50), ('Sanhedrin', '98b', 0)}
+{('Eruvin', '85b', 0), ('Eruvin', '74a', 20)}
+{('Taanit', '9a', 40), ('Rosh Hashanah', '3a', 0)}
+{('Bava Metzia', '107b', 30), ('Bava Kamma', '92b', 0)}
+{('Shabbat', '86b', 20), ('Niddah', '34b', 10)}
+{('Niddah', '64b', 0), ('Niddah', '8b', 50)}
+{('Pesachim', '112b', 0), ('Berakhot', '8b', 20)}
+{('Chullin', '127b', 0), ('Chullin', '73b', 10)}
+{('Pesachim', '90a', 10), ('Temurah', '30b', 20)}
+{('Niddah', '38b', 0), ('Rosh Hashanah', '11a', 40)}
+{('Menachot', '26b', 30), ('Temurah', '14a', 40)}
+{('Yevamot', '52b', 50), ('Yevamot', '52b', 40)}
+{('Sanhedrin', '82b', 40), ('Sanhedrin', '81b', 50)}
+{('Bava Metzia', '77b', 40), ('Bava Metzia', '48b', 20)}
+{('Sukkah', '10a', 0), ('Sukkah', '9b', 30)}
+{('Bava Kamma', '26b', 10), ('Kiddushin', '24b', 60)}
+{('Zevachim', '58a', 30), ('Tamid', '29a', 0)}
+{('Eruvin', '18a', 10), ('Eruvin', '22b', 40)}
+{('Rosh Hashanah', '5a', 0), ('Chagigah', '17b', 20)}
+{('Ketubot', '70b', 60), ('Nedarim', '43a', 20)}
+{('Bava Batra', '124b', 40), ('Bava Kamma', '43a', 10)}
+{('Yevamot', '28b', 30), ('Yevamot', '19a', 20)}
+{('Berakhot', '11b', 40), ('Tamid', '32b', 40)}
+{('Gittin', '32b', 10), ('Kiddushin', '59b', 40)}
+{('Sanhedrin', '96b', 20), ('Gittin', '57b', 0)}
+{('Berakhot', '15b', 40), ('Sanhedrin', '92a', 50)}
+{('Nedarim', '81b', 20), ('Nedarim', '15b', 20)}
+{('Chagigah', '12b', 30), ('Avodah Zarah', '3b', 50)}
+{('Sotah', '10b', 10), ('Megillah', '10b', 40)}
+{('Makkot', '2b', 10), ('Sanhedrin', '10a', 20)}
+{('Ketubot', '8b', 10), ('Shabbat', '33a', 30)}
+{('Beitzah', '3a', 0), ('Beitzah', '2b', 20)}
+{('Bekhorot', '39b', 0), ('Zevachim', '25b', 30)}
+{('Tamid', '27b', 10), ('Yoma', '69a', 20)}
+{('Berakhot', '57b', 50), ('Avodah Zarah', '29a', 20)}
+{('Pesachim', '18a', 30), ('Pesachim', '18b', 10)}
+{('Shabbat', '132a', 0), ('Yoma', '85b', 0)}
+{('Keritot', '23a', 20), ('Keritot', '22b', 50)}
+{('Moed Katan', '14b', 10), ('Moed Katan', '14a', 40)}
+{('Menachot', '19a', 0), ('Zevachim', '24a', 20)}
+{('Ketubot', '95a', 20), ('Bava Kamma', '59b', 30)}
+{('Eruvin', '42b', 0), ('Eruvin', '14b', 30)}
+{('Shabbat', '46a', 20), ('Yevamot', '14a', 30)}
+{('Kiddushin', '52b', 40), ('Nazir', '49b', 0)}
+{('Zevachim', '19b', 70), ('Yoma', '32b', 20)}
+{('Taanit', '10b', 20), ('Sotah', '49a', 0)}
+{('Menachot', '105b', 0), ('Zevachim', '76b', 0)}
+{('Bava Kamma', '102a', 0), ('Sukkah', '40a', 20)}
+{('Niddah', '14b', 30), ('Niddah', '59b', 0)}
+{('Kiddushin', '7a', 0), ('Kiddushin', '6b', 40)}
+{('Pesachim', '94a', 20), ('Taanit', '10a', 20)}
+{('Sukkah', '40a', 0), ('Rosh Hashanah', '15a', 30)}
+{('Moed Katan', '9a', 40), ('Shabbat', '30a', 50)}
+{('Pesachim', '78a', 20), ('Yoma', '8a', 10)}
+{('Bekhorot', '18a', 40), ('Chullin', '132a', 50)}
+{('Zevachim', '118b', 50), ('Arakhin', '13a', 10)}
+{('Zevachim', '43a', 0), ('Zevachim', '44a', 20)}
+{('Nedarim', '17a', 10), ('Nedarim', '17b', 0)}
+{('Shabbat', '37a', 60), ('Shabbat', '37b', 0)}
+{('Bekhorot', '18a', 50), ('Bekhorot', '18b', 10)}
+{('Niddah', '28a', 40), ('Niddah', '25b', 50)}
+{('Bava Batra', '150a', 0), ('Chullin', '135a', 0)}
+{('Berakhot', '59a', 60), ('Taanit', '6b', 30)}
+{('Yevamot', '37b', 0), ('Yoma', '18b', 10)}
+{('Beitzah', '40a', 50), ('Shabbat', '45b', 0)}
+{('Yevamot', '18a', 20), ('Yevamot', '26a', 30)}
+{('Kiddushin', '66b', 50), ('Gittin', '85a', 20)}
+{('Kiddushin', '23a', 0), ('Gittin', '39a', 40)}
+{('Chullin', '80a', 60), ('Chullin', '80b', 0)}
+{('Niddah', '12a', 10), ('Niddah', '14b', 40)}
+{('Bava Batra', '66b', 10), ('Ketubot', '69a', 50)}
+{('Keritot', '8a', 40), ('Bava Batra', '166a', 10)}
+{('Pesachim', '43b', 0), ('Pesachim', '91b', 40)}
+{('Shevuot', '11a', 10), ('Meilah', '10a', 10)}
+{('Berakhot', '57b', 60), ('Avodah Zarah', '11a', 20)}
+{('Gittin', '9b', 0), ('Gittin', '19b', 0)}
+{('Ketubot', '46a', 50), ('Ketubot', '11b', 30)}
+{('Avodah Zarah', '6b', 60), ('Moed Katan', '9b', 50)}
+{('Ketubot', '69b', 0), ('Moed Katan', '28b', 70)}
+{('Pesachim', '40b', 10), ('Shabbat', '42a', 30)}
+{('Nedarim', '90a', 20), ('Nedarim', '90a', 10)}
+{('Bava Metzia', '10b', 0), ('Bava Metzia', '10a', 40)}
+{('Horayot', '5b', 70), ('Zevachim', '89b', 0)}
+{('Zevachim', '18b', 60), ('Yoma', '71b', 20)}
+{('Yoma', '14a', 30), ('Niddah', '9a', 40)}
+{('Beitzah', '6a', 0), ('Beitzah', '22a', 70)}
+{('Ketubot', '57b', 40), ('Kiddushin', '5a', 40)}
+{('Chullin', '120b', 40), ('Chullin', '120b', 30)}
+{('Avodah Zarah', '4b', 0), ('Sanhedrin', '105b', 0)}
+{('Ketubot', '93a', 0), ('Bava Kamma', '9a', 0)}
+{('Bekhorot', '5b', 20), ('Sanhedrin', '106a', 40)}
+{('Bava Batra', '8a', 30), ('Bava Metzia', '108a', 10)}
+{('Shabbat', '107a', 10), ('Shabbat', '93b', 30)}
+{('Arakhin', '12b', 20), ('Taanit', '27a', 10)}
+{('Chullin', '77b', 20), ('Niddah', '26b', 50)}
+{('Ketubot', '48a', 30), ('Ketubot', '107a', 50)}
+{('Sanhedrin', '27b', 50), ('Shevuot', '39a', 70)}
+{('Berakhot', '51b', 70), ('Pesachim', '114a', 20)}
+{('Zevachim', '113b', 20), ('Bava Batra', '73b', 0)}
+{('Sanhedrin', '101a', 30), ('Shabbat', '147b', 30)}
+{('Yoma', '6a', 40), ('Pesachim', '67b', 20)}
+{('Nedarim', '68a', 10), ('Nedarim', '78b', 0)}
+{('Taanit', '18a', 0), ('Rosh Hashanah', '19a', 10)}
+{('Zevachim', '44b', 30), ('Menachot', '14a', 10)}
+{('Yevamot', '68a', 20), ('Kiddushin', '74b', 40)}
+{('Eruvin', '22a', 40), ('Eruvin', '20a', 40)}
+{('Nedarim', '48a', 20), ('Bava Batra', '134a', 0)}
+{('Nedarim', '37b', 10), ('Megillah', '3a', 10)}
+{('Berakhot', '61b', 50), ('Yoma', '19b', 10)}
+{('Bava Metzia', '62a', 10), ('Yevamot', '22b', 20)}
+{('Zevachim', '25a', 10), ('Yoma', '48a', 10)}
+{('Bava Metzia', '34b', 0), ('Bava Metzia', '34a', 50)}
+{('Berakhot', '19a', 60), ('Bava Metzia', '59a', 50)}
+{('Sukkah', '53a', 50), ('Makkot', '11a', 50)}
+{('Bava Metzia', '109a', 70), ('Bava Batra', '21b', 20)}
+{('Bava Batra', '100a', 0), ('Eruvin', '94a', 20)}
+{('Zevachim', '97b', 20), ('Menachot', '82b', 20)}
+{('Sanhedrin', '44a', 40), ('Bava Batra', '121b', 30)}
+{('Bava Metzia', '43a', 30), ('Bava Kamma', '65a', 10)}
+{('Shabbat', '112b', 30), ('Shabbat', '112b', 40)}
+{('Sanhedrin', '90b', 10), ('Chullin', '130b', 10)}
+{('Nazir', '57b', 10), ('Bava Kamma', '80a', 40)}
+{('Sanhedrin', '82a', 10), ('Sanhedrin', '104a', 20)}
+{('Eruvin', '13b', 10), ('Shabbat', '147b', 60)}
+{('Yevamot', '111b', 10), ('Gittin', '80b', 30)}
+{('Kiddushin', '41b', 0), ('Pesachim', '98b', 10)}
+{('Yoma', '83a', 40), ('Arakhin', '7b', 0)}
+{('Berakhot', '59b', 20), ('Taanit', '6b', 60)}
+{('Beitzah', '21a', 10), ('Chullin', '124b', 30)}
+{('Nedarim', '25a', 50), ('Shevuot', '29b', 0)}
+{('Horayot', '10b', 30), ('Nazir', '23a', 30)}
+{('Nazir', '61a', 30), ('Kiddushin', '18a', 0)}
+{('Yoma', '43b', 30), ('Yoma', '45a', 0)}
+{('Sanhedrin', '107a', 30), ('Bava Metzia', '59a', 0)}
+{('Shabbat', '121b', 60), ('Shabbat', '121b', 70)}
+{('Avodah Zarah', '28a', 20), ('Yoma', '84a', 20)}
+{('Shabbat', '45a', 40), ('Beitzah', '40a', 60)}
+{('Pesachim', '39b', 30), ('Pesachim', '38a', 20)}
+{('Eruvin', '9b', 10), ('Eruvin', '15a', 40)}
+{('Chagigah', '14a', 30), ('Sanhedrin', '38b', 70)}
+{('Menachot', '23a', 30), ('Menachot', '24a', 10)}
+{('Zevachim', '73a', 0), ('Beitzah', '3b', 40)}
+{('Bava Batra', '165b', 30), ('Bava Batra', '165b', 50)}
+{('Beitzah', '26b', 50), ('Shabbat', '45a', 30)}
+{('Kiddushin', '51a', 30), ('Kiddushin', '9b', 60)}
+{('Bava Batra', '154a', 20), ('Bava Batra', '155a', 10)}
+{('Nedarim', '35a', 10), ('Shevuot', '22a', 50)}
+{('Yevamot', '37b', 50), ('Ketubot', '109b', 20)}
+{('Yevamot', '75a', 30), ('Yevamot', '57a', 10)}
+{('Kiddushin', '9a', 10), ('Kiddushin', '8b', 50)}
+{('Bava Batra', '14b', 40), ('Pesachim', '87a', 30)}
+{('Shabbat', '96a', 0), ('Niddah', '49a', 10)}
+{('Shabbat', '67b', 30), ('Keritot', '16b', 0)}
+{('Pesachim', '98a', 0), ('Keritot', '28a', 0)}
+{('Berakhot', '48a', 40), ('Berakhot', '48a', 50)}
+{('Kiddushin', '71a', 40), ('Pesachim', '50a', 50)}
+{('Makkot', '4a', 20), ('Ketubot', '32b', 20)}
+{('Taanit', '20a', 20), ('Avodah Zarah', '25a', 20)}
+{('Shevuot', '10b', 10), ('Nedarim', '59a', 20)}
+{('Bekhorot', '36b', 30), ('Bekhorot', '53b', 0)}
+{('Berakhot', '3b', 70), ('Sanhedrin', '16a', 60)}
+{('Eruvin', '19b', 50), ('Eruvin', '19b', 60)}
+{('Gittin', '47a', 50), ('Chullin', '135b', 0)}
+{('Bava Metzia', '22a', 10), ('Kiddushin', '52b', 20)}
+{('Eruvin', '49b', 10), ('Eruvin', '50b', 20)}
+{('Moed Katan', '9b', 40), ('Avodah Zarah', '6b', 50)}
+{('Gittin', '37a', 10), ('Bava Kamma', '36b', 40)}
+{('Moed Katan', '2b', 0), ('Shabbat', '138a', 20)}
+{('Eruvin', '42b', 10), ('Eruvin', '41b', 10)}
+{('Yevamot', '47b', 30), ('Yevamot', '71b', 30)}
+{('Shevuot', '31b', 0), ('Shevuot', '31a', 60)}
+{('Bava Kamma', '83b', 70), ('Bava Kamma', '83b', 60)}
+{('Zevachim', '106a', 30), ('Chullin', '101a', 10)}
+{('Rosh Hashanah', '34b', 10), ('Berakhot', '24b', 70)}
+{('Zevachim', '99b', 40), ('Rosh Hashanah', '5a', 10)}
+{('Eruvin', '82a', 40), ('Sukkah', '28b', 20)}
+{('Nedarim', '13b', 0), ('Nedarim', '11b', 0)}
+{('Nedarim', '14b', 10), ('Gittin', '84a', 10)}
+{('Berakhot', '36b', 10), ('Pesachim', '52b', 30)}
+{('Berakhot', '33a', 10), ('Pesachim', '112b', 10)}
+{('Beitzah', '21b', 50), ('Beitzah', '22a', 0)}
+{('Shabbat', '64b', 0), ('Berakhot', '24a', 60)}
+{('Niddah', '53b', 30), ('Shabbat', '130b', 20)}
+{('Pesachim', '7b', 20), ('Menachot', '42a', 60)}
+{('Pesachim', '106b', 10), ('Shabbat', '12b', 70)}
+{('Bava Kamma', '42b', 50), ('Bava Kamma', '49a', 50)}
+{('Pesachim', '64a', 40), ('Shabbat', '123b', 40)}
+{('Menachot', '107a', 20), ('Shabbat', '90a', 60)}
+{('Bava Batra', '26b', 20), ('Bava Batra', '26b', 30)}
+{('Nedarim', '23a', 20), ('Nedarim', '22a', 0)}
+{('Sotah', '49b', 0), ('Sanhedrin', '97a', 10)}
+{('Pesachim', '24a', 0), ('Pesachim', '82b', 0)}
+{('Bekhorot', '16b', 30), ('Bekhorot', '17a', 0)}
+{('Berakhot', '47b', 20), ('Sotah', '22a', 10)}
+{('Taanit', '20b', 40), ('Shabbat', '32a', 20)}
+{('Ketubot', '35a', 20), ('Bava Kamma', '83b', 10)}
+{('Pesachim', '21a', 30), ('Shabbat', '18b', 40)}
+{('Eruvin', '13b', 50), ('Eruvin', '14a', 40)}
+{('Berakhot', '50a', 40), ('Ketubot', '7b', 10)}
+{('Ketubot', '90b', 30), ('Ketubot', '90b', 50)}
+{('Yevamot', '76a', 20), ('Chullin', '48a', 30)}
+{('Zevachim', '56b', 20), ('Pesachim', '3a', 10)}
+{('Nazir', '62a', 20), ('Chagigah', '10a', 10)}
+{('Nedarim', '21b', 0), ('Nazir', '11b', 10)}
+{('Nedarim', '39a', 0), ('Nedarim', '36b', 40)}
+{('Horayot', '5b', 20), ('Horayot', '3a', 30)}
+{('Keritot', '28b', 20), ('Pesachim', '57b', 10)}
+{('Bava Kamma', '86a', 10), ('Gittin', '42b', 0)}
+{('Bava Kamma', '14a', 40), ('Bava Kamma', '15b', 40)}
+{('Avodah Zarah', '41a', 40), ('Avodah Zarah', '42a', 10)}
+{('Eruvin', '86b', 30), ('Eruvin', '87b', 20)}
+{('Zevachim', '48b', 10), ('Menachot', '92b', 10)}
+{('Yevamot', '116b', 30), ('Chagigah', '23a', 0)}
+{('Menachot', '91b', 30), ('Chullin', '23a', 10)}
+{('Menachot', '41b', 30), ('Bekhorot', '39b', 50)}
+{('Bava Kamma', '31b', 30), ('Bava Kamma', '32a', 0)}
+{('Megillah', '3a', 0), ('Shabbat', '104a', 10)}
+{('Shabbat', '52b', 50), ('Shabbat', '123a', 30)}
+{('Bava Metzia', '22b', 10), ('Bava Metzia', '27a', 40)}
+{('Tamid', '33b', 30), ('Rosh Hashanah', '31a', 0)}
+{('Kiddushin', '50a', 30), ('Meilah', '21a', 0)}
+{('Bekhorot', '13a', 50), ('Bekhorot', '13a', 70)}
+{('Eruvin', '18a', 30), ('Berakhot', '61a', 10)}
+{('Yoma', '29a', 10), ('Eruvin', '54b', 0)}
+{('Bava Batra', '161b', 0), ('Gittin', '87b', 0)}
+{('Sanhedrin', '112a', 30), ('Bava Batra', '8a', 80)}
+{('Gittin', '55b', 30), ('Gittin', '58b', 40)}
+{('Rosh Hashanah', '13a', 10), ('Menachot', '103b', 40)}
+{('Pesachim', '55b', 10), ('Moed Katan', '13a', 30)}
+{('Bava Kamma', '109b', 20), ('Nedarim', '74b', 20)}
+{('Shevuot', '47b', 20), ('Bava Batra', '31b', 0)}
+{('Shabbat', '96b', 80), ('Shabbat', '97a', 0)}
+{('Sanhedrin', '71a', 0), ('Sanhedrin', '70a', 0)}
+{('Eruvin', '86b', 20), ('Sukkah', '16b', 10)}
+{('Ketubot', '14a', 30), ('Ketubot', '14b', 0)}
+{('Shabbat', '82a', 70), ('Avodah Zarah', '47a', 50)}
+{('Beitzah', '22a', 10), ('Beitzah', '17b', 10)}
+{('Yoma', '85b', 10), ('Sanhedrin', '72a', 10)}
+{('Zevachim', '48a', 50), ('Menachot', '55b', 20)}
+{('Menachot', '3a', 10), ('Menachot', '102b', 20)}
+{('Sanhedrin', '14a', 0), ('Avodah Zarah', '8b', 50)}
+{('Bava Kamma', '13b', 30), ('Bava Kamma', '44b', 40)}
+{('Megillah', '22a', 0), ('Taanit', '27a', 50)}
+{('Chullin', '5a', 20), ('Sotah', '46b', 80)}
+{('Shabbat', '79a', 30), ('Shabbat', '90b', 0)}
+{('Zevachim', '11a', 20), ('Menachot', '2b', 20)}
+{('Bava Metzia', '12a', 40), ('Shevuot', '41a', 10)}
+{('Shabbat', '50a', 30), ('Beitzah', '8a', 10)}
+{('Bava Kamma', '21b', 20), ('Bava Kamma', '18a', 30)}
+{('Ketubot', '87a', 50), ('Ketubot', '88a', 40)}
+{('Sanhedrin', '48b', 50), ('Sotah', '10a', 40)}
+{('Keritot', '27a', 0), ('Keritot', '26b', 50)}
+{('Pesachim', '97b', 0), ('Menachot', '80a', 30)}
+{('Megillah', '21b', 50), ('Menachot', '98b', 30)}
+{('Berakhot', '6b', 60), ('Bava Metzia', '75b', 20)}
+{('Chagigah', '12b', 20), ('Avodah Zarah', '3b', 60)}
+{('Shabbat', '143a', 10), ('Beitzah', '36a', 60)}
+{('Sotah', '39a', 0), ('Megillah', '27b', 70)}
+{('Ketubot', '103b', 50), ('Bava Metzia', '85b', 10)}
+{('Taanit', '3a', 10), ('Sukkah', '44a', 20)}
+{('Pesachim', '14a', 10), ('Pesachim', '20b', 10)}
+{('Nazir', '5b', 20), ('Nazir', '5b', 10)}
+{('Eruvin', '8a', 10), ('Eruvin', '99b', 30)}
+{('Avodah Zarah', '28a', 40), ('Yoma', '84a', 30)}
+{('Ketubot', '111b', 70), ('Megillah', '6a', 40)}
+{('Avodah Zarah', '67b', 20), ('Bekhorot', '23b', 0)}
+{('Beitzah', '20a', 10), ('Menachot', '93b', 0)}
+{('Menachot', '84b', 30), ('Bekhorot', '4b', 70)}
+{('Niddah', '64a', 0), ('Bava Kamma', '37b', 10)}
+{('Yoma', '73a', 20), ('Yevamot', '65b', 30)}
+{('Taanit', '14b', 0), ('Moed Katan', '25b', 40)}
+{('Berakhot', '14a', 50), ('Berakhot', '55b', 10)}
+{('Shabbat', '58b', 20), ('Shabbat', '48b', 20)}
+{('Gittin', '5a', 20), ('Gittin', '16b', 40)}
+{('Berakhot', '39a', 30), ('Eruvin', '29a', 0)}
+{('Avodah Zarah', '40a', 50), ('Chullin', '63b', 60)}
+{('Arakhin', '6b', 40), ('Ketubot', '37b', 30)}
+{('Yevamot', '101b', 30), ('Yevamot', '107b', 50)}
+{('Zevachim', '51a', 20), ('Zevachim', '52a', 0)}
+{('Nazir', '63b', 10), ('Pesachim', '81b', 30)}
+{('Ketubot', '94b', 20), ('Bava Batra', '151a', 20)}
+{('Bava Kamma', '11b', 0), ('Kiddushin', '25b', 10)}
+{('Makkot', '21a', 60), ('Pesachim', '47a', 20)}
+{('Nedarim', '9a', 20), ('Chullin', '2a', 10)}
+{('Berakhot', '43b', 10), ('Rosh Hashanah', '11a', 20)}
+{('Eruvin', '96b', 40), ('Eruvin', '96b', 0)}
+{('Chagigah', '18b', 0), ('Chagigah', '20a', 0)}
+{('Avodah Zarah', '14b', 30), ('Pesachim', '53a', 30)}
+{('Sukkah', '52b', 0), ('Kiddushin', '30b', 20)}
+{('Megillah', '10b', 50), ('Bava Batra', '99a', 0)}
+{('Zevachim', '37b', 0), ('Bekhorot', '16a', 20)}
+{('Bava Batra', '172a', 20), ('Bava Batra', '13a', 20)}
+{('Bekhorot', '56b', 30), ('Beitzah', '39b', 10)}
+{('Tamid', '28b', 0), ('Zevachim', '64a', 10)}
+{('Yoma', '30a', 10), ('Berakhot', '25a', 10)}
+{('Bava Kamma', '67b', 50), ('Bava Kamma', '68a', 0)}
+{('Eruvin', '42a', 0), ('Eruvin', '41b', 60)}
+{('Bava Metzia', '9b', 20), ('Gittin', '11b', 30)}
+{('Yoma', '22b', 50), ('Shabbat', '56b', 10)}
+{('Yevamot', '16b', 30), ('Kiddushin', '72a', 40)}
+{('Nedarim', '26a', 10), ('Nedarim', '66a', 0)}
+{('Yevamot', '66a', 0), ('Gittin', '38a', 50)}
+{('Moed Katan', '3a', 30), ('Sanhedrin', '113a', 10)}
+{('Sanhedrin', '96b', 40), ('Gittin', '57b', 20)}
+{('Ketubot', '86a', 0), ('Ketubot', '52b', 10)}
+{('Shabbat', '113b', 70), ('Sanhedrin', '94a', 70)}
+{('Bava Metzia', '27b', 30), ('Yevamot', '120a', 40)}
+{('Keritot', '10b', 0), ('Keritot', '10a', 50)}
+{('Sotah', '47b', 20), ('Sotah', '31b', 30)}
+{('Menachot', '80b', 20), ('Rosh Hashanah', '5b', 10)}
+{('Bava Kamma', '99b', 50), ('Bava Batra', '93b', 30)}
+{('Yevamot', '122b', 50), ('Berakhot', '64a', 30)}
+{('Meilah', '10b', 10), ('Temurah', '21b', 30)}
+{('Yevamot', '93a', 10), ('Bava Metzia', '66b', 60)}
+{('Sanhedrin', '38a', 40), ('Sanhedrin', '37a', 40)}
+{('Niddah', '39b', 10), ('Niddah', '11a', 30)}
+{('Nedarim', '85a', 10), ('Ketubot', '59a', 20)}
+{('Gittin', '86b', 30), ('Chullin', '62a', 40)}
+{('Chullin', '90b', 50), ('Pesachim', '83b', 10)}
+{('Bava Metzia', '51b', 20), ('Bava Metzia', '52a', 10)}
+{('Yoma', '32a', 20), ('Yoma', '32b', 0)}
+{('Sukkah', '41b', 20), ('Kiddushin', '6b', 30)}
+{('Yevamot', '63b', 10), ('Berakhot', '8a', 30)}
+{('Zevachim', '48b', 20), ('Menachot', '56a', 0)}
+{('Sukkah', '35b', 0), ('Pesachim', '38a', 10)}
+{('Bava Batra', '142b', 20), ('Ketubot', '7b', 20)}
+{('Pesachim', '105a', 20), ('Pesachim', '107a', 0)}
+{('Chullin', '75a', 50), ('Chullin', '75b', 0)}
+{('Bava Metzia', '24b', 50), ('Chullin', '12a', 30)}
+{('Menachot', '54a', 20), ('Menachot', '39b', 20)}
+{('Nazir', '36a', 0), ('Pesachim', '43b', 30)}
+{('Moed Katan', '2a', 10), ('Moed Katan', '2a', 30)}
+{('Bava Metzia', '6b', 10), ('Nedarim', '19a', 0)}
+{('Yoma', '54a', 50), ('Ketubot', '106a', 40)}
+{('Ketubot', '43b', 0), ('Kiddushin', '79b', 20)}
+{('Bekhorot', '13a', 20), ('Bekhorot', '2a', 0)}
+{('Moed Katan', '17a', 10), ('Chagigah', '15b', 40)}
+{('Pesachim', '72b', 60), ('Yevamot', '34a', 20)}
+{('Bava Metzia', '11a', 10), ('Bava Metzia', '102a', 10)}
+{('Gittin', '77a', 10), ('Pesachim', '106a', 30)}
+{('Berakhot', '44a', 0), ('Eruvin', '30a', 30)}
+{('Gittin', '49a', 10), ('Bava Kamma', '6b', 40)}
+{('Arakhin', '15b', 30), ('Sotah', '5a', 30)}
+{('Avodah Zarah', '72a', 50), ('Avodah Zarah', '72a', 40)}
+{('Nazir', '25a', 10), ('Temurah', '17b', 30)}
+{('Yoma', '88a', 0), ('Shabbat', '120b', 70)}
+{('Yevamot', '6b', 20), ('Sanhedrin', '35b', 20)}
+{('Pesachim', '103a', 40), ('Chullin', '86b', 40)}
+{('Ketubot', '63b', 40), ('Ketubot', '63b', 50)}
+{('Gittin', '76b', 30), ('Gittin', '72b', 30)}
+{('Nedarim', '57b', 0), ('Nedarim', '15b', 0)}
+{('Shabbat', '79a', 40), ('Shabbat', '78a', 50)}
+{('Bava Batra', '33b', 10), ('Bava Batra', '36a', 0)}
+{('Chagigah', '16a', 50), ('Taanit', '11a', 20)}
+{('Bava Batra', '160b', 20), ('Bava Batra', '164b', 30)}
+{('Pesachim', '74b', 20), ('Chullin', '93b', 10)}
+{('Ketubot', '66b', 30), ('Ketubot', '65a', 20)}
+{('Chullin', '42b', 30), ('Chullin', '52a', 60)}
+{('Bekhorot', '2b', 30), ('Avodah Zarah', '16a', 30)}
+{('Bava Batra', '150a', 30), ('Bava Batra', '149b', 20)}
+{('Zevachim', '55a', 0), ('Arakhin', '11b', 70)}
+{('Zevachim', '24b', 40), ('Menachot', '10b', 0)}
+{('Bava Kamma', '20a', 40), ('Bava Kamma', '24b', 30)}
+{('Horayot', '11b', 70), ('Keritot', '5b', 50)}
+{('Bava Metzia', '72a', 10), ('Bava Kamma', '30b', 20)}
+{('Taanit', '8b', 20), ('Yoma', '76b', 20)}
+{('Gittin', '87a', 40), ('Bava Batra', '161a', 10)}
+{('Nedarim', '84b', 20), ('Kiddushin', '58b', 0)}
+{('Bava Metzia', '62a', 0), ('Bava Kamma', '94b', 20)}
+{('Bava Kamma', '30a', 10), ('Bava Kamma', '6a', 20)}
+{('Niddah', '31a', 60), ('Yoma', '47a', 20)}
+{('Megillah', '16b', 30), ('Berakhot', '6a', 50)}
+{('Ketubot', '6a', 20), ('Niddah', '64b', 10)}
+{('Yevamot', '23b', 0), ('Kiddushin', '51b', 50)}
+{('Eruvin', '14a', 20), ('Nazir', '8b', 10)}
+{('Yevamot', '21a', 20), ('Eruvin', '21b', 70)}
+{('Shabbat', '93b', 0), ('Zevachim', '24a', 10)}
+{('Zevachim', '42b', 20), ('Menachot', '16a', 10)}
+{('Berakhot', '63a', 30), ('Kiddushin', '82a', 40)}
+{('Zevachim', '10b', 30), ('Zevachim', '10b', 70)}
+{('Kiddushin', '47a', 0), ('Kiddushin', '46a', 20)}
+{('Nedarim', '37a', 20), ('Bava Metzia', '58a', 20)}
+{('Niddah', '69b', 40), ('Yevamot', '15b', 40)}
+{('Bava Batra', '10a', 50), ('Ketubot', '68a', 0)}
+{('Yoma', '14a', 40), ('Niddah', '9a', 50)}
+{('Nazir', '51a', 0), ('Niddah', '27b', 0)}
+{('Moed Katan', '9a', 0), ('Horayot', '3a', 40)}
+{('Yevamot', '100b', 10), ('Ketubot', '13b', 50)}
+{('Bava Batra', '156a', 20), ('Gittin', '14b', 70)}
+{('Yevamot', '25a', 0), ('Yevamot', '24b', 40)}
+{('Zevachim', '103a', 30), ('Temurah', '23b', 20)}
+{('Taanit', '9b', 50), ('Taanit', '2a', 30)}
+{('Yoma', '15b', 10), ('Tamid', '30a', 20)}
+{('Nedarim', '87a', 10), ('Nedarim', '87a', 20)}
+{('Pesachim', '43b', 20), ('Nazir', '35b', 10)}
+{('Kiddushin', '12b', 20), ('Yevamot', '52a', 20)}
+{('Pesachim', '5b', 20), ('Pesachim', '29a', 0)}
+{('Gittin', '60a', 30), ('Yoma', '37b', 10)}
+{('Nedarim', '55b', 10), ('Berakhot', '40b', 40)}
+{('Taanit', '14a', 40), ('Taanit', '19a', 10)}
+{('Kiddushin', '25a', 70), ('Niddah', '66b', 10)}
+{('Zevachim', '58b', 10), ('Yoma', '16a', 20)}
+{('Bava Kamma', '51a', 60), ('Bava Kamma', '54a', 20)}
+{('Shevuot', '19b', 10), ('Keritot', '18b', 0)}
+{('Nedarim', '39b', 50), ('Ketubot', '68a', 60)}
+{('Menachot', '51b', 20), ('Kiddushin', '17b', 30)}
+{('Ketubot', '62a', 10), ('Berakhot', '58b', 0)}
+{('Pesachim', '64b', 20), ('Berakhot', '19a', 40)}
+{('Zevachim', '14a', 30), ('Yoma', '49a', 0)}
+{('Nazir', '66a', 30), ('Berakhot', '53b', 70)}
+{('Sanhedrin', '107b', 50), ('Sotah', '47a', 50)}
+{('Sukkah', '34a', 30), ('Sukkah', '33a', 0)}
+{('Bava Kamma', '8a', 0), ('Bava Kamma', '7b', 30)}
+{('Berakhot', '58a', 0), ('Eruvin', '18b', 50)}
+{('Ketubot', '22b', 20), ('Ketubot', '22b', 50)}
+{('Yevamot', '15a', 20), ('Eruvin', '7a', 20)}
+{('Bekhorot', '41a', 50), ('Bava Kamma', '40b', 30)}
+{('Sanhedrin', '34a', 50), ('Zevachim', '83a', 30)}
+{('Niddah', '46b', 30), ('Gittin', '83b', 20)}
+{('Nedarim', '79a', 20), ('Nedarim', '87b', 10)}
+{('Sanhedrin', '83b', 20), ('Zevachim', '17a', 0)}
+{('Sukkah', '27a', 0), ('Yoma', '79a', 10)}
+{('Bava Kamma', '20b', 10), ('Bava Batra', '4b', 40)}
+{('Avodah Zarah', '2b', 80), ('Bava Kamma', '38a', 20)}
+{('Menachot', '98a', 70), ('Yoma', '54a', 30)}
+{('Bava Batra', '113a', 0), ('Bava Batra', '112b', 0)}
+{('Avodah Zarah', '20b', 40), ('Bava Metzia', '119a', 0)}
+{('Yevamot', '109a', 30), ('Ketubot', '73b', 50)}
+{('Chullin', '77b', 30), ('Shabbat', '67a', 30)}
+{('Sukkah', '36b', 50), ('Pesachim', '27b', 30)}
+{('Menachot', '90a', 20), ('Menachot', '57b', 10)}
+{('Chullin', '54b', 20), ('Kiddushin', '33a', 10)}
+{('Pesachim', '67a', 10), ('Pesachim', '93a', 10)}
+{('Niddah', '47b', 60), ('Arakhin', '18b', 20)}
+{('Eruvin', '34a', 0), ('Shabbat', '154b', 60)}
+{('Megillah', '22a', 10), ('Taanit', '27b', 0)}
+{('Bava Kamma', '46b', 0), ('Bava Batra', '92a', 10)}
+{('Chullin', '107b', 30), ('Yoma', '77b', 10)}
+{('Bava Kamma', '48a', 30), ('Bava Kamma', '31b', 10)}
+{('Moed Katan', '28a', 90), ('Makkot', '10a', 40)}
+{('Yevamot', '113a', 30), ('Shabbat', '153a', 70)}
+{('Kiddushin', '69b', 20), ('Yevamot', '86b', 30)}
+{('Nedarim', '11a', 10), ('Kiddushin', '54a', 20)}
+{('Sotah', '43b', 50), ('Sotah', '43b', 40)}
+{('Shevuot', '31a', 30), ('Sanhedrin', '7b', 50)}
+{('Avodah Zarah', '17a', 20), ('Shabbat', '13a', 50)}
+{('Bekhorot', '22a', 10), ('Niddah', '26a', 10)}
+{('Sanhedrin', '66a', 30), ('Yevamot', '77b', 30)}
+{('Sanhedrin', '108a', 0), ('Sanhedrin', '109b', 60)}
+{('Bava Batra', '173b', 40), ('Bava Batra', '173a', 60)}
+{('Temurah', '18b', 40), ('Temurah', '20b', 0)}
+{('Nazir', '8a', 0), ('Nazir', '7a', 10)}
+{('Niddah', '52a', 10), ('Sanhedrin', '68b', 0)}
+{('Gittin', '23b', 10), ('Kiddushin', '41b', 30)}
+{('Berakhot', '6b', 90), ('Shabbat', '30b', 20)}
+{('Pesachim', '11a', 30), ('Shabbat', '113a', 20)}
+{('Sukkah', '39b', 10), ('Rosh Hashanah', '14b', 0)}
+{('Bekhorot', '40a', 20), ('Pesachim', '32a', 30)}
+{('Bava Kamma', '101b', 0), ('Niddah', '62b', 20)}
+{('Bava Metzia', '48b', 40), ('Shevuot', '44b', 0)}
+{('Eruvin', '93a', 20), ('Eruvin', '3b', 30)}
+{('Eruvin', '56b', 20), ('Eruvin', '56b', 10)}
+{('Eruvin', '45b', 10), ('Eruvin', '47b', 20)}
+{('Shevuot', '5a', 10), ('Shevuot', '4a', 30)}
+{('Shabbat', '7b', 40), ('Shabbat', '7a', 40)}
+{('Zevachim', '115a', 40), ('Zevachim', '112a', 10)}
+{('Avodah Zarah', '34b', 0), ('Avodah Zarah', '34a', 30)}
+{('Zevachim', '94b', 40), ('Zevachim', '10b', 20)}
+{('Yevamot', '83b', 20), ('Bekhorot', '42b', 40)}
+{('Zevachim', '4a', 30), ('Zevachim', '7a', 10)}
+{('Eruvin', '23b', 30), ('Eruvin', '89a', 0)}
+{('Yevamot', '79a', 10), ('Sanhedrin', '19b', 40)}
+{('Bava Batra', '97a', 20), ('Chullin', '87b', 20)}
+{('Menachot', '85b', 30), ('Menachot', '86b', 30)}
+{('Sanhedrin', '52a', 50), ('Pesachim', '75a', 40)}
+{('Eruvin', '54a', 70), ('Nedarim', '55a', 50)}
+{('Gittin', '61b', 10), ('Chullin', '6a', 40)}
+{('Taanit', '21a', 100), ('Taanit', '21b', 0)}
+{('Nedarim', '22b', 30), ('Nedarim', '22b', 40)}
+{('Ketubot', '42b', 20), ('Bava Kamma', '66b', 20)}
+{('Ketubot', '33b', 20), ('Bava Kamma', '71a', 0)}
+{('Bava Kamma', '62b', 10), ('Shabbat', '21b', 60)}
+{('Bava Batra', '56b', 0), ('Bava Kamma', '70a', 30)}
+{('Yoma', '58b', 30), ('Zevachim', '62b', 30)}
+{('Sotah', '4b', 40), ('Berakhot', '14a', 20)}
+{('Zevachim', '32a', 20), ('Zevachim', '32a', 30)}
+{('Arakhin', '29a', 20), ('Bava Kamma', '96b', 50)}
+{('Bava Metzia', '39b', 10), ('Ketubot', '27b', 30)}
+{('Pesachim', '99b', 0), ('Pesachim', '50b', 0)}
+{('Menachot', '82a', 0), ('Menachot', '81b', 60)}
+{('Chullin', '94a', 60), ('Chullin', '94b', 10)}
+{('Chullin', '18b', 10), ('Pesachim', '51a', 40)}
+{('Eruvin', '54a', 60), ('Nedarim', '55a', 40)}
+{('Keritot', '6b', 110), ('Sanhedrin', '51a', 30)}
+{('Sanhedrin', '49b', 20), ('Yevamot', '106b', 0)}
+{('Keritot', '16b', 10), ('Keritot', '16a', 50)}
+{('Beitzah', '7a', 50), ('Bekhorot', '8a', 10)}
+{('Pesachim', '77a', 0), ('Menachot', '72b', 20)}
+{('Pesachim', '79a', 50), ('Chullin', '29a', 10)}
+{('Taanit', '27b', 10), ('Megillah', '22a', 20)}
+{('Yevamot', '120a', 30), ('Bekhorot', '46b', 30)}
+{('Nazir', '56a', 0), ('Nazir', '17b', 20)}
+{('Yoma', '51a', 10), ('Pesachim', '95b', 10)}
+{('Ketubot', '87a', 30), ('Shevuot', '45a', 30)}
+{('Ketubot', '2a', 10), ('Ketubot', '3b', 0)}
+{('Bava Kamma', '24b', 10), ('Bava Kamma', '41a', 30)}
+{('Beitzah', '33a', 20), ('Shabbat', '142b', 50)}
+{('Chullin', '119b', 20), ('Chullin', '118b', 40)}
+{('Sotah', '14b', 50), ('Sotah', '14b', 0)}
+{('Sanhedrin', '55b', 20), ('Niddah', '45a', 50)}
+{('Berakhot', '54b', 40), ('Rosh Hashanah', '17b', 40)}
+{('Chullin', '38a', 60), ('Bekhorot', '57a', 10)}
+{('Yevamot', '36a', 10), ('Yevamot', '119a', 0)}
+{('Bava Batra', '23a', 30), ('Bava Kamma', '83a', 40)}
+{('Taanit', '11b', 10), ('Avodah Zarah', '34a', 0)}
+{('Yoma', '2a', 20), ('Yoma', '3b', 30)}
+{('Makkot', '20b', 20), ('Shabbat', '94b', 40)}
+{('Zevachim', '21b', 10), ('Tamid', '28a', 40)}
+{('Sanhedrin', '7b', 20), ('Avodah Zarah', '52a', 50)}
+{('Moed Katan', '15a', 50), ('Berakhot', '22a', 10)}
+{('Yoma', '83a', 30), ('Yoma', '84a', 60)}
+{('Moed Katan', '18b', 60), ('Yevamot', '25a', 10)}
+{('Kiddushin', '51b', 40), ('Yevamot', '23b', 10)}
+{('Menachot', '37b', 60), ('Menachot', '38a', 0)}
+{('Sukkah', '11b', 20), ('Sukkah', '33a', 30)}
+{('Niddah', '12a', 20), ('Yevamot', '20a', 40)}
+{('Shabbat', '87a', 0), ('Shabbat', '86b', 40)}
+{('Menachot', '76b', 50), ('Menachot', '77a', 0)}
+{('Menachot', '84a', 20), ('Menachot', '68b', 60)}
+{('Bava Batra', '56a', 0), ('Shabbat', '80a', 30)}
+{('Menachot', '78b', 20), ('Pesachim', '37a', 60)}
+{('Bava Metzia', '100b', 30), ('Bava Kamma', '96b', 60)}
+{('Zevachim', '91b', 70), ('Shabbat', '42a', 0)}
+{('Sukkah', '44b', 50), ('Pesachim', '13b', 0)}
+{('Zevachim', '79a', 10), ('Pesachim', '115a', 10)}
+{('Keritot', '9b', 50), ('Niddah', '40a', 20)}
+{('Zevachim', '112b', 20), ('Zevachim', '119b', 30)}
+{('Bava Batra', '19a', 30), ('Shabbat', '47b', 20)}
+{('Berakhot', '12a', 30), ('Berakhot', '40b', 30)}
+{('Gittin', '46a', 30), ('Ketubot', '75a', 0)}
+{('Menachot', '6a', 30), ('Zevachim', '15b', 10)}
+{('Zevachim', '57a', 10), ('Bekhorot', '27b', 20)}
+{('Yevamot', '78b', 50), ('Bava Kamma', '119a', 50)}
+{('Menachot', '86b', 20), ('Shabbat', '22b', 0)}
+{('Berakhot', '47a', 20), ('Gittin', '59b', 30)}
+{('Eruvin', '38b', 20), ('Beitzah', '2b', 10)}
+{('Chagigah', '18b', 20), ('Chullin', '33b', 0)}
+{('Chullin', '116a', 0), ('Pesachim', '25a', 10)}
+{('Bava Metzia', '115a', 30), ('Sanhedrin', '21a', 20)}
+{('Chullin', '24b', 20), ('Bekhorot', '4a', 30)}
+{('Shabbat', '15a', 20), ('Niddah', '2a', 0)}
+{('Bava Kamma', '102a', 40), ('Avodah Zarah', '7a', 10)}
+{('Nazir', '66a', 0), ('Bava Kamma', '25a', 40)}
+{('Chullin', '72b', 10), ('Menachot', '24b', 0)}
+{('Berakhot', '55a', 10), ('Shabbat', '81a', 50)}
+{('Gittin', '87a', 0), ('Bava Batra', '176a', 20)}
+{('Nedarim', '79b', 0), ('Nedarim', '82a', 10)}
+{('Sanhedrin', '103a', 10), ('Arakhin', '17a', 10)}
+{('Sanhedrin', '42b', 30), ('Sanhedrin', '43a', 10)}
+{('Meilah', '3a', 10), ('Zevachim', '119b', 70)}
+{('Arakhin', '28a', 30), ('Ketubot', '50a', 0)}
+{('Yevamot', '56a', 60), ('Yevamot', '35a', 40)}
+{('Nedarim', '31b', 0), ('Bava Metzia', '81a', 20)}
+{('Kiddushin', '69b', 40), ('Ketubot', '25a', 0)}
+{('Chagigah', '2b', 20)}
+{('Sukkah', '26b', 20)}
+{('Zevachim', '63b', 30)}
+{('Kiddushin', '63b', 50)}
+{('Kiddushin', '19a', 40)}
+{('Menachot', '5b', 50)}
+{('Menachot', '87b', 60)}
+{('Chullin', '115b', 40)}
+{('Sanhedrin', '71b', 50)}
+{('Bava Kamma', '5a', 40)}
+{('Moed Katan', '13b', 50)}
+{('Niddah', '31a', 80)}
+{('Pesachim', '45a', 30)}
+{('Rosh Hashanah', '11b', 10)}
+{('Nedarim', '68b', 0)}
+{('Bava Batra', '122b', 40)}
+{('Nazir', '6b', 20)}
+{('Bava Kamma', '47a', 20)}
+{('Pesachim', '12a', 20)}
+{('Chullin', '39a', 20)}
+{('Bava Batra', '116a', 40)}
+{('Zevachim', '47a', 30)}
+{('Bava Batra', '12a', 50)}
+{('Bava Batra', '138a', 20)}
+{('Eruvin', '103b', 30)}

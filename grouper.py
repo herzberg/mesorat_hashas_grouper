@@ -56,7 +56,7 @@ def removeEndFromSide(tup):
 
 def standarizedSide(side):
 	tup = dividePath(side)
-	tup = normalizeLinesToEveryX(tup, 5)
+	tup = normalizeLinesToEveryX(tup, 10)
 	tup = removeEndFromSide(tup) #this makes B 21a:23-22a:44 into just B 21a:23
 	return tup
 
